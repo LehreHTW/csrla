@@ -58,3 +58,45 @@
         margin-top: 0;
     }
 }
+
+
+.sidestory-content{
+    width: 400px;
+    max-height: 50vh;
+    background: $darkgray;
+    text-align: justify;
+    box-sizing: border-box;
+    hyphens: auto;
+    padding: 10px;
+    color: $whiteish;
+    font-size: .8em;
+    line-height: 1.25;
+
+
+    .sidestory-left &{
+        transform: translate(87%, -50%);
+        position: absolute;
+    }
+
+    .sidestory-right &{
+        transform: translate(-107%, -50%);
+        position: absolute;
+        &:after{
+            content: '';
+            @include triangle(30px, right, $darkgray);
+            bottom: 10%;
+            left: 100%;
+            position: absolute;
+        }
+
+        .ss-content{
+            position: relative;
+            overflow: auto;
+            width: 100%;
+            height: 100%;
+            padding: 1.5rem;
+            box-sizing: border-box;
+        }
+    }
+
+}

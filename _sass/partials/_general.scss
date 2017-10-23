@@ -86,3 +86,21 @@ img{
         width: 100%;
     }
 }
+
+
+.media-wrapper{
+    width: 90%;
+    max-width: 1000px;
+}
+
+.video{
+    @include paddinghack(100%, 16, 9, 'iframe, video');
+    margin: 1.5rem 0;
+}
+
+
+audio{
+    display: block;
+    margin: 1.5rem auto;
+    width: 100%;
+}

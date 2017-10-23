@@ -14,6 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="sidestory sidestory-left" markdown="1">
 # sidestory left
+<span class="sidestory-toggle">+</span>
+<div class="sidestory-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
 </div>
 
 <div class="content" markdown="1">
@@ -23,6 +25,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="sidestory sidestory-right" markdown="1">
 ### sidestory-right
+<span class="sidestory-toggle">+</span>
+<div class="sidestory-content">
+<div class="ss-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div></div>
 </div>
 
 </div>
@@ -53,5 +58,22 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 </div>
 
-<div class="image grid" style="background-image: url(../img/martin-reisch-265219.jpg);">
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/_SPz_Jpf3aA?ecver=1" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/martin-reisch-265219.jpg">
+</div>
+
+<div class="media-wrapper">
+    <audio controls>
+        <source src="../media/audio/Strassengeräusche_Tankstelle_MexicoStadt_20170719.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+<div class="image grid" style="background-image: url(../media/img/martin-reisch-265219.jpg);">
 </div>
