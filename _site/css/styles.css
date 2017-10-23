@@ -340,9 +340,10 @@ audio {
   margin-top: 0;
 }
 
-.sidestory-content {
-  width: 400px;
-  max-height: 50vh;
+.overlay {
+  width: 90% !important;
+  max-width: 400px;
+  height: 50vh;
   background: #484444;
   text-align: justify;
   box-sizing: border-box;
@@ -353,33 +354,78 @@ audio {
   color: #FDFDFD;
   font-size: .8em;
   line-height: 1.25;
+  position: relative;
+  display: none;
 }
-.sidestory-left .sidestory-content {
-  -webkit-transform: translate(87%, -50%);
-          transform: translate(87%, -50%);
-  position: absolute;
+.overlay.sidestory-right-content {
+  justify-self: right;
 }
-.sidestory-right .sidestory-content {
-  -webkit-transform: translate(-107%, -50%);
-          transform: translate(-107%, -50%);
-  position: absolute;
-}
-.sidestory-right .sidestory-content:after {
+.overlay.sidestory-right-content:after {
   content: '';
   width: 0;
   height: 0;
   border-style: solid;
   border-color: transparent transparent transparent #484444;
-  border-width: 30px;
-  bottom: 10%;
+  border-width: 20px;
   left: 100%;
+  top: calc(50% - 10px);
   position: absolute;
 }
-.sidestory-right .sidestory-content .ss-content {
+.overlay.sidestory-left-content {
+  justify-self: left;
+}
+.overlay.sidestory-left-content:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent #484444 transparent transparent;
+  border-width: 20px;
+  right: 100%;
+  top: calc(50% - 10px);
+  position: absolute;
+}
+.overlay .ss-content {
   position: relative;
   overflow: auto;
   width: 100%;
   height: 100%;
-  padding: 1.5rem;
+  padding: 1rem;
   box-sizing: border-box;
+}
+
+.sidestory-left .sidestory-toggle {
+  text-align: right;
+}
+.sidestory-right .sidestory-toggle {
+  text-align: left;
+}
+.sidestory-toggle span {
+  font-size: 1.5em;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 50%;
+  background: #C9CACB;
+  color: black;
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  line-height: 22px;
+  cursor: pointer;
+}
+.sidestory-toggle span:hover {
+  background: rgba(201, 202, 203, 0.8);
+}
+.sidestory-toggle span.active {
+  -webkit-transform: rotate(45deg);
+          transform: rotate(45deg);
+}
+
+.overlay-active .content:not(.active), .overlay-active .sidestory:not(.active), .overlay-active .media-wrapper {
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
+  -webkit-filter: blur(10px);
+          filter: blur(10px);
 }
