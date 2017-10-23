@@ -1,0 +1,25 @@
+name: Verantwortungsvolle Unternehmensführung in Lateinamerika
+author: Christian Hauser
+favicon: #favicon image path (svg)
+encoding: utf-8
+gems:
+    - jekyll-autoprefixer
+markdown: kramdown
+kramdown:
+  input: GFM
+# keep_files: [css/main.css, js/build/main.min.js]
+excerpt_separator: "<!-- more -->"
+permalink: /:title/
+sass:
+    style: expanded
+collections:
+    argentinien:
+        output: false
+    brasilien:
+        output: false
+    kolumbien:
+        output: false
+    mexiko:
+        output: false
+    peru:
+        output: false

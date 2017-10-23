@@ -1,0 +1,27 @@
+$main-font: 'Crimson Text', 'Calisto MT', serif;
+$main-font-size: 24px;
+$mobile-main-font-size: 20px;
+
+$main-font-weight: normal;
+$main-line-height: 1.68em;
+
+$headings-font: 'PT Sans Narrow', 'Helvetica Neue Condensed', sans-serif;
+$headings-text-transform: uppercase;
+$headings-font-weight: bold;
+
+$text-color: $darkgray;
+$main-background-color: darken(white, 15%);
+
+$country-header-height: 100vh;
+
+$menu-background: rgba($darkgray, .8);
+
+$hyphenate: auto;
+$p-text-align: justify;
+
+
+$sidestory-break: 1090px;
+
+$title-break: 870px;
+
+$font-break: 700px;

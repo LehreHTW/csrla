@@ -1,0 +1,88 @@
+body, html{
+    min-height: 100vh;
+    width: 100%;
+    overflow: auto;
+    font-family: $main-font;
+    font-size: $main-font-size;
+    font-weight: $main-font-weight;
+    line-height: $main-line-height;
+    color: $text-color;
+    background: $whiteish;
+
+    @media screen and (max-width: $font-break){
+        font-size: $mobile-main-font-size;
+    }
+}
+
+p{
+    hyphens: $hyphenate;
+    text-align: $p-text-align;
+
+    + p{
+        margin-top: .84em;
+    }
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: $headings-font;
+    text-transform: $headings-text-transform;
+    font-weight: $headings-font-weight;
+}
+
+h1{
+    font-size: 2em;
+    line-height: 1.05;
+    margin-bottom: 2.5rem / 2;
+    margin-top: 2.5rem;
+}
+
+h2{
+    font-size: 1.75em;
+    line-height: 1.25;
+    margin-bottom: 1.25rem / 2;
+    margin-top: 1.25rem;
+}
+
+h3{
+    font-size: 1.5em;
+    line-height: 1.25;
+    margin-bottom: 1.25rem / 2;
+    margin-top: 1.25rem;
+}
+
+h4{
+    font-size: 1.125em;
+    line-height: 1.22;
+    margin-bottom: .5rem / 2;
+    margin-top: .5rem;
+}
+
+h5{
+    font-size: 1.1em;
+    margin-bottom: .3rem / 2;
+    margin-top: .3rem;
+}
+
+h6{
+    font-size: 1em;
+    margin-bottom: .25rem / 2;
+    margin-top: .25rem;
+}
+
+img{
+    max-width: 100%;
+    heigh: auto;
+}
+
+.image{
+    height: 60vh;
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+    margin: 1.5rem 0;
+
+    img{
+        max-width: auto;
+        width: 100%;
+    }
+}
