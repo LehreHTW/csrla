@@ -1,0 +1,50 @@
+.slider-wrap{
+    width: 100%;
+    position: relative;
+
+    .navigator{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 0;
+        width: 35px;
+        height: 35px;
+        transform: rotate(45deg);
+        cursor: pointer;
+
+
+        &.toggle-next{
+            right: 30px;
+            box-shadow: 6px -6px 6px rgba(black, .7);
+            &:hover{
+                border-color: white;
+            }
+        }
+        &.toggle-prev{
+            left: 30px;
+            box-shadow: -6px 6px 6px rgba(black, .7);
+            &:hover{
+                border-color: white;
+            }
+        }
+    }
+}
+.slider{
+    @include paddinghack(100%, 16, 9, "div");
+
+    div{
+        background-size: cover;
+        background-position: center center;
+        background-repeat: no-repeat;
+        opacity: 0;
+        transition: .3s all ease;
+
+        &.active{
+            opacity: 1;
+        }
+
+        img{
+            display: none;
+        }
+    }
+}

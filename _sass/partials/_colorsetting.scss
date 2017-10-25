@@ -1,0 +1,67 @@
+.mixitup-control-active,
+a, a.active,
+.nav-toggle,
+.menu a:hover,
+.menu a.active{
+    color: $mediumgray;
+}
+
+.toggle-next{
+    border-top: 3px solid $mediumgray;
+    border-right: 3px solid $mediumgray;
+}
+
+.toggle-prev{
+    border-bottom: 3px solid $mediumgray;
+    border-left: 3px solid $mediumgray;
+}
+
+@each $l, $c in $countries {
+    $i: index($countries, $c);
+    [data-filter=".#{$l}"]{
+        &.mixitup-control-active,
+        &:hover{
+            color: $c;
+        }
+    }
+
+    .#{$l} {
+        .mixitup-control-active,
+        a, a.active,
+        .nav-toggle{
+            color: $c;
+        }
+
+        ::selection,
+        .sidestory-toggle span{
+            background: $c;
+            color: black-or-white($c);
+
+            &:hover{
+                opacity: .8;
+            }
+        }
+
+        .toggle-next{
+            border-top: 3px solid $c;
+            border-right: 3px solid $c;
+        }
+
+        .toggle-prev{
+            border-bottom: 3px solid $c;
+            border-left: 3px solid $c;
+        }
+
+        .excerpt a{
+            color: $mediumgray;
+
+            &:hover{
+                color: $c;
+            }
+        }
+
+    }
+    .menu .#{$l}:hover{
+        color: $c;
+    }
+}

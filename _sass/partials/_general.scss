@@ -14,6 +14,16 @@ body, html{
     }
 }
 
+// sticky footer
+body {
+  display: flex;
+  flex-direction: column;
+}
+main {
+  flex: 1 0 auto;
+}
+
+
 p{
     hyphens: $hyphenate;
     text-align: $p-text-align;
@@ -34,6 +44,10 @@ h1{
     line-height: 1.05;
     margin-bottom: 2.5rem / 2;
     margin-top: 2.5rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 h2{
@@ -41,6 +55,10 @@ h2{
     line-height: 1.25;
     margin-bottom: 1.25rem / 2;
     margin-top: 1.25rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 h3{
@@ -48,6 +66,10 @@ h3{
     line-height: 1.25;
     margin-bottom: 1.25rem / 2;
     margin-top: 1.25rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 h4{
@@ -55,18 +77,30 @@ h4{
     line-height: 1.22;
     margin-bottom: .5rem / 2;
     margin-top: .5rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 h5{
     font-size: 1.1em;
     margin-bottom: .3rem / 2;
     margin-top: .3rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 h6{
     font-size: 1em;
     margin-bottom: .25rem / 2;
     margin-top: .25rem;
+
+    .sidestory &{
+        margin-top: 0;
+    }
 }
 
 img{
@@ -91,6 +125,7 @@ img{
 .media-wrapper{
     width: 90%;
     max-width: 1000px;
+    margin: 1.5rem 0;
 }
 
 .video{
@@ -103,4 +138,31 @@ audio{
     display: block;
     margin: 1.5rem auto;
     width: 100%;
+}
+
+footer{
+    background: $darkgray;
+    color: $whiteish;
+    font-size: .8em;
+    margin-top: 1.5rem;
+    p{
+        text-align: center;
+    }
+}
+
+a{
+    text-decoration: none;
+    transition: .3s all ease;
+
+    &:hover{
+        opacity: .8;
+    }
+}
+
+.title-box{
+    text-align: center;
+
+    h1, h2{
+        hyphens: auto;
+    }
 }

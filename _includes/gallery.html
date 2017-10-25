@@ -1,0 +1,11 @@
+<div class="slider-wrap">
+    <div class="slider">
+        {% for gallery in page.gallery %}
+            {% for image in gallery.images %}
+                <div style="background-image: url(/media/img/gallery/{{ image.filename }})"><img src="/media/img/gallery/{{ image.filename }}" alt="{{ image.alttext }}"></div>
+            {% endfor %}
+        {% endfor %}
+    </div>
+    <span class="navigator toggle-next">next</span>
+    <span class="navigator toggle-prev">prev</span>
+</div>

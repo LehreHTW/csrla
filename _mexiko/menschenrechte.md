@@ -4,6 +4,7 @@ subject: menschenrecht
 title: Menschenrecht in Mexiko
 #date:
 order: 2
+chapter_image: chi.jpg
 ---
 <div class="content" markdown="1">
 ## title

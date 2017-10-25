@@ -1,0 +1,72 @@
+.filter{
+    @include flexbox(row, wrap, center, center);
+    width: 100%;
+
+    div{
+        text-align: center;
+        padding: 1.5rem;
+
+        font-family: $headings-font;
+        text-transform: uppercase;
+
+        @media screen and (max-width: $grid-break-1){
+            padding: .5rem;
+        }
+
+        span{
+            padding: 0 7px;
+            cursor: pointer;
+            transition: .3s all ease;
+
+            &:hover{
+                opacity: .8;
+            }
+        }
+    }
+}
+
+.mixer{
+    @include flexbox(row, wrap, flex-start, stretch);
+    width: 80%;
+    margin: 0 auto;
+    > div{
+        width: (100%/3);
+        padding: 1.5rem;
+        box-sizing: border-box;
+
+        @media screen and (max-width: $grid-break-1){
+            width: 50%;
+            padding: 1rem;
+        }
+
+        @media screen and (max-width: $font-break){
+            width: 100%;
+            padding: 1rem 0;
+        }
+    }
+
+    .meta{
+        font-size: .8em;
+        color: $mediumgray;
+        font-family: $headings-font;
+        padding: 0;
+        line-height: 1;
+        margin-top: 10px;
+    }
+
+    h6{
+        margin-top: 0;
+        line-height: 1;
+        margin-bottom: .4rem;
+    }
+
+    .excerpt{
+        font-size: .85em;
+        line-height: 1.4;
+    }
+
+    .more{
+        font-family: $headings-font;
+        font-weight: bold;
+    }
+}

@@ -4,16 +4,28 @@ subject: korruption
 title: Korruption in mexiko
 #date:
 order: 1
+chapter_image: chi.jpg
+gallery:
+  - images:
+    - filename: Mexico_test-1.jpg
+      alttext: Mx
+    - filename: Mexico_test-2.jpg
+      alttext: mx
+    - filename: Mexico_test-3.jpg
+      alttext: mx
 ---
 <div class="content" markdown="1">
 ## Content Text
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{% include gallery.html %}
 </div>
 
 <div class="has-sidestories grid" markdown="1">
 
 <div class="sidestory sidestory-left" markdown="1">
-# sidestory left
+![bla](/media/img/jo-jo-183491.jpg)
+# Sidestory Title
 <p class="sidestory-toggle"><span>+</span></p>
 </div>
 
@@ -59,6 +71,10 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ### sidestory-right
 </div>
 
+</div>
+
+<div class="media-wrapper">
+{% include gallery.html %}
 </div>
 
 <div class="media-wrapper">

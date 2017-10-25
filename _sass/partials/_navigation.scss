@@ -1,0 +1,62 @@
+.navbar{
+    padding: 15px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+    width: 100%;
+
+    .nav-toggle{
+        font-size: 2em;
+        cursor: pointer;
+        transform: scale(1, 0.8);
+        display: inline-block;
+        opacity: 1;
+        transition: .3s all ease;
+
+        &:hover{
+            opacity: .8;
+        }
+
+        &.active{
+            opacity: 0;
+        }
+    }
+}
+
+.menu{
+    background: rgba($darkgray, .8);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 300px;
+    height: 100%;
+    z-index: 99999;
+    color: white;
+    font-family: $headings-font;
+    padding: 1.5rem;
+    font-size: 1.2em;
+    transform: translateX(-300px);
+    box-sizing: border-box;
+    transition: .3s all ease;
+    .nav-toggle{
+        cursor: pointer;
+    }
+    &.active{
+        transform: translateX(0);
+    }
+    p{
+        text-align: right;
+    }
+    a{
+        color: white;
+        font-family: $headings-font;
+        text-transform: uppercase;
+        font-weight: bold;
+        display: block;
+
+        &.thin{
+            font-weight: normal;
+        }
+    }
+}

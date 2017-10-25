@@ -1,0 +1,96 @@
+.overlay{
+    background: $darkgray;
+    text-align: justify;
+    box-sizing: border-box;
+    hyphens: auto;
+    padding: 10px;
+    color: $whiteish;
+    font-size: .8em;
+    line-height: 1.25;
+    position: relative;
+    display: none;
+    z-index: 99;
+
+    @media screen and (min-width: $sidestory-break+1){
+        width: 90% !important;
+        max-width: 400px;
+        height: 50vh;
+    }
+
+    &.sidestory-right-content{
+        @media screen and (min-width: $sidestory-break+1){
+            justify-self: right;
+
+            &:after{
+                content: '';
+                @include triangle(20px, right, $darkgray);
+                left: 100%;
+                top: calc(50% - 10px);
+                position: absolute;
+            }
+        }
+    }
+
+    &.sidestory-left-content{
+        @media screen and (min-width: $sidestory-break+1){
+            justify-self: left;
+
+            &:after{
+                content: '';
+                @include triangle(20px, left, $darkgray);
+                right: 100%;
+                top: calc(50% - 10px);
+                position: absolute;
+            }
+        }
+    }
+
+    .ss-content{
+        position: relative;
+        overflow: auto;
+        width: 100%;
+        height: 100%;
+        padding: 1rem;
+        box-sizing: border-box;
+    }
+
+}
+
+.sidestory-toggle{
+    text-align: center;
+
+    @media screen and (min-width: $sidestory-break+1){
+        .sidestory-left &{
+            text-align: right;
+        }
+        .sidestory-right &{
+            text-align: left;
+        }
+    }
+
+    span{
+        font-size: 1.5em;
+        display: inline-block;
+        padding: 5px;
+        border-radius: 50%;
+        background: $sidestory-toggle-bg;
+        color: black-or-white($sidestory-toggle-bg);
+        transition: .3s all ease;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+        line-height: 22px;
+        cursor: pointer;
+
+        &.active{
+            transform: rotate(45deg);
+        }
+    }
+}
+
+.overlay-active{
+    .content:not(.active), .sidestory:not(.active), .media-wrapper{
+        transition: .3s all ease;
+        filter: blur(10px);
+    }
+}

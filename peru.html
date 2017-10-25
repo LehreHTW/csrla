@@ -1,0 +1,26 @@
+---
+# date:
+layout: country
+title: peru
+subtitle: peru Subtitle
+group: navigation-02
+header-img: jo-jo-183491.jpg
+bodyclass: peru
+---
+{% assign peru = site.peru | sort: "order" %}
+{% for ch in peru %}
+<section class="box chapter-{{ ch.subject }}">
+    <div class="content">
+        <p class="chapter-subject">{{ ch.subject }}</p>
+        <h1 class="chapter-title">{{ ch.title }}</h1>
+    </div>
+    {{ ch.content }}
+</section>
+{% endfor %}
+
+PAGE navigator
+BACK TO TOP
+
+Navbar Top Bar Bla
+
+5 Farben - pro Farbe ein Land

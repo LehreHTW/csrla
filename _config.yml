@@ -1,4 +1,4 @@
-name: Verantwortungsvolle Unternehmensführung in Lateinamerika
+name: Kurztitel
 author: Christian Hauser
 favicon: #favicon image path (svg)
 encoding: utf-8
@@ -10,6 +10,13 @@ kramdown:
 # keep_files: [css/main.css, js/build/main.min.js]
 excerpt_separator: "<!-- more -->"
 permalink: /:title/
+defaults:
+  -
+    scope:
+      path: ""
+      layout: "page"
+    values:
+      displaytitle: true
 sass:
     style: expanded
 collections:

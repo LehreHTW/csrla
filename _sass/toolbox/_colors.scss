@@ -5,3 +5,11 @@ $darkgray: lighten(#211F1F, 15%);
 $mediumgray: #95989A;
 $lightgray: #C9CACB;
 $yellow: #EFC94C;
+
+$mexiko: #1F8A70;
+$peru: #FD7400;
+$kolumbien: #FFE11A;
+$brasilien: #BEDB39;
+$argentinien: lighten(#004358, 10%);
+
+$countries: (mexiko: $mexiko, peru: $peru, kolumbien: $kolumbien, brasilien: $brasilien, argentinien: $argentinien);

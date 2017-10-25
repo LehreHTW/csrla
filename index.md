@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Titel
+title: Weltkarte
+group: navigation-01
 ---
 # Hello World

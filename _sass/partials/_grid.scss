@@ -43,6 +43,10 @@
         @media screen and (max-width: $sidestory-break){
           width: 80%;
           justify-self: center;
+          margin: 1rem auto;
+          padding: .5rem 15px;
+          border-top: 1px solid $lightgray;
+          border-bottom: 1px solid $lightgray;
         }
     }
 }
