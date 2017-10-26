@@ -14,6 +14,36 @@
         </header>
         <main>
             <div class="page-content">{{ content }}</div>
+
+            <div class="box">
+            {% assign  document = site.pages | sort: "order" | where:"layout", "country" %}
+                    {% for links in document %}
+                        {% if links.title == page.title %}
+
+                            {% unless forloop.first %}
+                                {% assign prevurl = prev.url %}
+
+                                {% assign prevtitle = prev.title %}
+                            {% endunless %}
+
+                            {% unless forloop.last %}
+                                {% assign next = document[forloop.index] %}
+                                {% assign nexturl = next.url %}
+                                {% assign nexttitle = next.title %}
+                            {% endunless %}
+
+                        {% endif %}
+
+                        {% assign prev = links %}
+                    {% endfor %}
+
+                    {% if prevurl or nexturl %}
+                        <div class="pagination has-sidestories grid">
+                            {% if prevurl %}<a href="{{prevurl}}" class="prev sidestory sidestory-left">&laquo; zurück nach {{ prevtitle}}</a>{% endif %}
+                            {% if nexturl %}<a href="{{nexturl}}" class="next sidestory sidestory-right">weiter nach {{nexttitle}} &raquo;</a>{% endif %}
+                        </div>
+                    {% endif %}
+                </div>
        </main>
 
         {% include footer.html %}

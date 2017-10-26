@@ -1,5 +1,6 @@
 <div class="navbar">
     <span class="nav-toggle">&#9776;</span>
+    {% include btt.html %}
 </div>
 
 <div class="menu">
@@ -12,7 +13,7 @@
           {% if page.url == item.url %}
                 <a href="{{item.url  | remove: '/index.html' }}" class="active {% if item.bodyclass %} {{item.bodyclass}} {% endif %}{% if item.layout == 'country' %} thin {% endif %}">{{item.title}}</a>
               {% else %}
-                <a href="{{item.url  | remove: '/index.html' }}" class="{% if item.bodyclass %} {{item.bodyclass}} {% endif %}{% if item.layout == 'country' %} thin {% endif %}"">{{item.title}}</a>
+                <a href="{{item.url  | remove: '/index.html' }}" class="{% if item.bodyclass %} {{item.bodyclass}} {% endif %}{% if item.layout == 'country' %} thin {% endif %}">{{item.title}}</a>
           {% endif %}      {% endif %}
         {% endfor %}
         {% assign pages_list = nil %}

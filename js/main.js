@@ -1,6 +1,6 @@
 $(document).ready(function(){
     if($('.mixer').length){
-        var mixer = mixitup('.mixer');        
+        var mixer = mixitup('.mixer');
     }
 
     $('.sidestory-toggle').click(function(){
@@ -14,6 +14,22 @@ $(document).ready(function(){
         checkIfInView(overlay);
 
         // overlay.isOnScreen();
+    });
+
+    $(window).scroll(function(event) {
+        var header = $('header').outerHeight();
+
+        if($(window).scrollTop() > header){
+            $('#btt').fadeIn();
+        } else {
+            $('#btt').fadeOut();
+        }
+    });
+
+    $('#btt').click(function() {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 600);
     });
 
     $('.nav-toggle').click(function(){

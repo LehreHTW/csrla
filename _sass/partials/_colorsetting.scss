@@ -6,6 +6,10 @@ a, a.active,
     color: $mediumgray;
 }
 
+#btt path{
+    fill: $mediumgray;
+}
+
 .toggle-next{
     border-top: 3px solid $mediumgray;
     border-right: 3px solid $mediumgray;
@@ -26,6 +30,10 @@ a, a.active,
     }
 
     .#{$l} {
+        #btt path{
+            fill: $c;
+        }
+
         .mixitup-control-active,
         a, a.active,
         .nav-toggle{

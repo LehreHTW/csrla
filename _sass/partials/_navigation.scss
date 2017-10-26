@@ -5,6 +5,12 @@
     left: 0;
     z-index: 999;
     width: 100%;
+    box-sizing: border-box;
+    @include flexbox(row, wrap, space-between, center);
+
+    svg{
+        height: 50px;
+    }
 
     .nav-toggle{
         font-size: 2em;

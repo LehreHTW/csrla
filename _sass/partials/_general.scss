@@ -121,6 +121,13 @@ img{
     }
 }
 
+.map-wrap{
+    height: auto;
+    width: 100%;
+}
+.gray{
+    filter: grayscale(100%);
+}
 
 .media-wrapper{
     width: 90%;
@@ -130,6 +137,11 @@ img{
 
 .video{
     @include paddinghack(100%, 16, 9, 'iframe, video');
+    margin: 1.5rem 0;
+}
+
+.map{
+    @include paddinghack(100%, 3, 1, 'iframe');
     margin: 1.5rem 0;
 }
 
@@ -164,5 +176,15 @@ a{
 
     h1, h2{
         hyphens: auto;
+    }
+}
+
+#btt{
+    cursor: pointer;
+    transition: .3s all ease;
+    display: none;
+
+    &:hover{
+        opacity: .8;
     }
 }

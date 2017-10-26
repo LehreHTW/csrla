@@ -1,15 +1,16 @@
 ---
 # date:
 layout: country
-title: kolumbien
+title: Kolumbien
 subtitle: kolumbien Subtitle
-group: navigation-02
+group: navigation-04
 header-img: jo-jo-183491.jpg
 bodyclass: kolumbien
+order: 3
 ---
 {% assign kolumbien = site.kolumbien | sort: "order" %}
 {% for ch in kolumbien %}
-<section class="box chapter-{{ ch.subject }}">
+<section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     <div class="content">
         <p class="chapter-subject">{{ ch.subject }}</p>
         <h1 class="chapter-title">{{ ch.title }}</h1>
@@ -17,10 +18,3 @@ bodyclass: kolumbien
     {{ ch.content }}
 </section>
 {% endfor %}
-
-PAGE navigator
-BACK TO TOP
-
-Navbar Top Bar Bla
-
-5 Farben - pro Farbe ein Land

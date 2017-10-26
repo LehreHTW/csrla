@@ -96,3 +96,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="image grid" style="background-image: url(../media/img/martin-reisch-265219.jpg);">
 </div>
+
+<div class="map-wrap gray">
+<div class="map">
+<iframe src="https://www.google.com/maps/d/embed?mid=1sBP7dO5lu7EXn-g3g3bWuxXKx3I"></iframe>
+</div>
+</div>
