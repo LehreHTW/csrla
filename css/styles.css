@@ -65,7 +65,10 @@ a, a.active,
   color: #95989A;
 }
 
-#btt path {
+#btt path,
+#btt rect, #bars path,
+#bars rect, #close path,
+#close rect {
   fill: #95989A;
 }
 
@@ -83,7 +86,10 @@ a, a.active,
   color: #1F8A70;
 }
 
-.mexiko #btt path {
+.mexiko #btt path,
+.mexiko #btt rect, .mexiko #bars path,
+.mexiko #bars rect, .mexiko #close path,
+.mexiko #close rect {
   fill: #1F8A70;
 }
 .mexiko .mixitup-control-active,
@@ -132,7 +138,10 @@ a, a.active,
   color: #FD7400;
 }
 
-.peru #btt path {
+.peru #btt path,
+.peru #btt rect, .peru #bars path,
+.peru #bars rect, .peru #close path,
+.peru #close rect {
   fill: #FD7400;
 }
 .peru .mixitup-control-active,
@@ -181,7 +190,10 @@ a, a.active,
   color: #FFE11A;
 }
 
-.kolumbien #btt path {
+.kolumbien #btt path,
+.kolumbien #btt rect, .kolumbien #bars path,
+.kolumbien #bars rect, .kolumbien #close path,
+.kolumbien #close rect {
   fill: #FFE11A;
 }
 .kolumbien .mixitup-control-active,
@@ -230,7 +242,10 @@ a, a.active,
   color: #BEDB39;
 }
 
-.brasilien #btt path {
+.brasilien #btt path,
+.brasilien #btt rect, .brasilien #bars path,
+.brasilien #bars rect, .brasilien #close path,
+.brasilien #close rect {
   fill: #BEDB39;
 }
 .brasilien .mixitup-control-active,
@@ -279,7 +294,10 @@ a, a.active,
   color: #006a8b;
 }
 
-.argentinien #btt path {
+.argentinien #btt path,
+.argentinien #btt rect, .argentinien #bars path,
+.argentinien #bars rect, .argentinien #close path,
+.argentinien #close rect {
   fill: #006a8b;
 }
 .argentinien .mixitup-control-active,
@@ -539,14 +557,23 @@ a:hover {
           hyphens: auto;
 }
 
-#btt {
+#btt,
+#close,
+#bars {
   cursor: pointer;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  display: none;
+  height: 30px;
 }
-#btt:hover {
+#btt:hover,
+#close:hover,
+#bars:hover {
   opacity: .8;
+}
+
+#btt {
+  height: 50px;
+  display: none;
 }
 
 .navbar {
@@ -729,6 +756,7 @@ a:hover {
 }
 
 .close-overlay {
+  cursor: pointer;
   position: fixed;
   top: 0;
   left: 0;
@@ -751,6 +779,7 @@ a:hover {
   position: relative;
   display: none;
   z-index: 99;
+  height: 50vh;
 }
 @media screen and (min-width: 1091px) {
   .overlay {
