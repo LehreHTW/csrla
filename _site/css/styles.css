@@ -463,7 +463,7 @@ img {
 }
 
 .map-wrap {
-  height: auto;
+  height: 60vh;
   width: 100%;
 }
 
@@ -497,19 +497,10 @@ img {
 }
 
 .map {
-  position: relative;
   width: 100%;
-  height: 0;
-  padding: 33.33333% 0 0 0;
-  display: block;
-  margin: 1.5rem 0;
+  height: 100%;
 }
 .map iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
   width: 100%;
   height: 100%;
 }
@@ -737,6 +728,15 @@ a:hover {
   }
 }
 
+.close-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+}
+
 .overlay {
   background: #484444;
   text-align: justify;
@@ -802,6 +802,8 @@ a:hover {
 
 .sidestory-toggle {
   text-align: center;
+  position: relative;
+  z-index: 99;
 }
 @media screen and (min-width: 1091px) {
   .sidestory-left .sidestory-toggle {
@@ -845,13 +847,11 @@ a:hover {
 .slider-wrap .navigator {
   position: absolute;
   top: 50%;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
   font-size: 0;
   width: 35px;
   height: 35px;
-  -webkit-transform: rotate(45deg);
-          transform: rotate(45deg);
+  -webkit-transform: translateY(-50%) rotate(45deg);
+          transform: translateY(-50%) rotate(45deg);
   cursor: pointer;
 }
 .slider-wrap .navigator.toggle-next {

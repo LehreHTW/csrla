@@ -1,3 +1,11 @@
+.close-overlay{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
 .overlay{
     background: $darkgray;
     text-align: justify;
@@ -58,6 +66,8 @@
 
 .sidestory-toggle{
     text-align: center;
+    position: relative;
+    z-index: 99;
 
     @media screen and (min-width: $sidestory-break+1){
         .sidestory-left &{

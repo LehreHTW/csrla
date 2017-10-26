@@ -5,11 +5,10 @@
     .navigator{
         position: absolute;
         top: 50%;
-        transform: translateY(-50%);
         font-size: 0;
         width: 35px;
         height: 35px;
-        transform: rotate(45deg);
+        transform: translateY(-50%) rotate(45deg);
         cursor: pointer;
 
 
