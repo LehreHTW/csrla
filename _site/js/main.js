@@ -80,9 +80,9 @@ function checkIfInView(element) {
     var vpBottom = $(window).scrollTop() + $(window).height();
     var vpTop = $(window).scrollTop();
 
-    if ((vpBottom > elTop) && (vpTop < elBottom)) {
+    if ((vpBottom >= elTop) && (vpTop <= elBottom)) {
         $('html,body').animate({
             scrollTop: elTop - element.outerHeight() / 2
-        }, 1000);
+        }, 300);
     }
 }

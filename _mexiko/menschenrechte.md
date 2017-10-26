@@ -1,6 +1,6 @@
 ---
 country: mexiko
-subject: menschenrecht
+subject: menschenrechte
 title: Menschenrecht in Mexiko
 #date:
 order: 2

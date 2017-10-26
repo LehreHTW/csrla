@@ -6,8 +6,11 @@ a, a.active,
     color: $mediumgray;
 }
 
-#btt path{
-    fill: $mediumgray;
+#btt, #bars, #close{
+    path,
+    rect{
+        fill: $mediumgray;
+    }
 }
 
 .toggle-next{
@@ -30,8 +33,11 @@ a, a.active,
     }
 
     .#{$l} {
-        #btt path{
-            fill: $c;
+        #btt, #bars, #close{
+            path,
+            rect{
+                fill: $c;
+            }
         }
 
         .mixitup-control-active,

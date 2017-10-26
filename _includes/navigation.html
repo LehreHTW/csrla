@@ -1,10 +1,10 @@
 <div class="navbar">
-    <span class="nav-toggle">&#9776;</span>
+    <span class="nav-toggle">{% include bars.html %}</span>
     {% include btt.html %}
 </div>
 
 <div class="menu">
-    <p><span class="nav-toggle">&#10006;</span></p>
+    <p><span class="nav-toggle">{% include close.html %}</span></p>
     <nav>
         {% assign pages_list = site.pages | sort:"group" %}
         {% assign group = 'navigation' %}
