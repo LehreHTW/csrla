@@ -576,6 +576,19 @@ a:hover {
   display: none;
 }
 
+body {
+  counter-reset: paragraph;
+}
+
+.content p:before {
+  position: absolute;
+  margin-left: -20px;
+  color: rgba(0, 0, 0, 0.4);
+  content: counter(paragraph);
+  counter-increment: paragraph;
+  font-size: .6em;
+}
+
 .navbar {
   padding: 15px;
   position: fixed;
@@ -625,15 +638,15 @@ a:hover {
   position: fixed;
   top: 0;
   left: 0;
-  width: 300px;
+  width: 320px;
   height: 100%;
   z-index: 99999;
   color: white;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   padding: 1.5rem;
   font-size: 1.2em;
-  -webkit-transform: translateX(-300px);
-          transform: translateX(-300px);
+  -webkit-transform: translateX(-100%);
+          transform: translateX(-100%);
   box-sizing: border-box;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
@@ -978,6 +991,7 @@ a:hover {
 }
 
 .chapter-subject {
+  display: block;
   text-transform: uppercase;
   font-weight: normal;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
@@ -1051,7 +1065,7 @@ a:hover {
   margin: 0 auto;
 }
 .mixer > div {
-  width: 33.33333%;
+  width: 33.3333333333%;
   padding: 1.5rem;
   box-sizing: border-box;
 }
