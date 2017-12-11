@@ -200,3 +200,18 @@ a{
     height: 50px;
     display: none;
 }
+
+
+body {
+    counter-reset: paragraph;
+}
+.content p {
+    &:before {
+        position: absolute;
+        margin-left: -20px;
+        color: rgba(black, .4);
+        content: counter(paragraph);
+        counter-increment: paragraph;
+        font-size: .6em;
+    }
+}

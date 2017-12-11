@@ -1,7 +1,7 @@
 ---
 # date:
 layout: country
-title: Peru
+title: peru
 subtitle: peru Subtitle
 group: navigation-03
 header-img: jo-jo-183491.jpg
@@ -12,7 +12,7 @@ order: 2
 {% for ch in peru %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     <div class="content">
-        <p class="chapter-subject">{{ ch.subject }}</p>
+        <span class="chapter-subject">{{ ch.subject }}</span>
         <h1 class="chapter-title">{{ ch.title }}</h1>
     </div>
     {{ ch.content }}

@@ -2,7 +2,7 @@ name: Kurztitel
 author: Christian Hauser
 favicon: #favicon image path (svg)
 encoding: utf-8
-gems:
+plugins:
     - jekyll-autoprefixer
 markdown: kramdown
 kramdown:

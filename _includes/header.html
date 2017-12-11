@@ -11,3 +11,32 @@
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i" rel="stylesheet">
     <link rel="stylesheet" href="/css/styles.css">
 </head>
+
+{% assign total_new = 0 %}
+{% assign pages_list = site.pages | sort:"group" %}
+{% assign group = 'navigation' %}
+{% for item in pages_list %}
+    {% if item.group contains group %}
+
+        {% if page.url == item.url %}
+            {% if item.layout == 'country' %}
+                <body class="country {% if page.bodyclass %}{{ page.bodyclass }}{%  endif %}" style="counter-reset: paragraph {{ total_new }}">
+            {% endif %}
+            {% if item.layout == 'page' %}
+                <body class="page {% if page.bodyclass %}{{ page.bodyclass }}{% endif %}" style="counter-reset: paragraph {{ total_new }}">
+            {% endif %}
+        {% endif %}
+
+
+        {{ item.title }}
+        {% assign bla = item.content | markdownify %}
+        {% assign total_paragraphs = bla | split: '<p>' | size %}
+
+        {{ total_paragraphs }}
+
+
+        {% assign total_new = total_new | plus: total_paragraphs %}
+    {% endif %}
+{% endfor %}
+{% assign pages_list = nil %}
+{% assign group = nil %}
