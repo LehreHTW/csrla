@@ -4,6 +4,7 @@ favicon: #favicon image path (svg)
 encoding: utf-8
 plugins:
     - jekyll-autoprefixer
+    - liquefy
 markdown: kramdown
 kramdown:
   input: GFM

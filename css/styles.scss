@@ -1,4 +1,5 @@
 ---
+exclude: true
 ---
 @import "partials/reset";
 
@@ -11,9 +12,11 @@
 
 @import "partials/webfonts";
 @import "partials/general";
+@import "partials/counters";
 @import "partials/navigation";
 @import "partials/grid";
 @import "partials/overlay";
 @import "partials/slider";
 @import "partials/country-page";
 @import "partials/chapter";
+@import "partials/vector";

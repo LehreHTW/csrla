@@ -1,0 +1,55 @@
+body {
+    counter-reset: paragraph page-title chapter-title;
+}
+.content p {
+    position: relative;
+    &:before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: translateX(-100%);
+        margin-left: -10px;
+        color: rgba(black, .4);
+        content: counter(paragraph);
+        counter-increment: paragraph;
+        font-size: .6em;
+        text-align: right;
+    }
+}
+
+h1.title{
+    position: relative;
+    display: inline-block;
+    &:before {
+        position: absolute;
+        top: 0;
+        left: 0;
+        transform: translateX(-100%);
+        margin-left: -10px;
+        opacity: .4;
+        content: counter(page-title, upper-alpha)'.';
+        counter-increment: page-title;
+        font-size: .6em;
+        text-align: right;
+
+        .country &{
+            opacity: .9;
+        }
+    }
+}
+
+h1.chapter-title{
+    position: relative;
+    &:before {
+        top: 0;
+        left: 0;
+        transform: translateX(-100%);
+        text-align: right;
+        position: absolute;
+        margin-left: -10px;
+        opacity: .4;
+        content: counter(chapter-title, upper-roman)'.';
+        counter-increment: chapter-title;
+        font-size: .6em;
+    }
+}

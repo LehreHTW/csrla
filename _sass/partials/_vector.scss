@@ -1,0 +1,8 @@
+.karte{
+    max-width: 100%;
+    height: 100vh;
+}
+
+.map_responsive{
+    @include paddinghack(100%, 157.1, 192.2, "svg");
+}

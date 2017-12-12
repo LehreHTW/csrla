@@ -12,31 +12,51 @@
     <link rel="stylesheet" href="/css/styles.css">
 </head>
 
-{% assign total_new = 0 %}
-{% assign pages_list = site.pages | sort:"group" %}
-{% assign group = 'navigation' %}
-{% for item in pages_list %}
-    {% if item.group contains group %}
 
-        {% if page.url == item.url %}
-            {% if item.layout == 'country' %}
-                <body class="country {% if page.bodyclass %}{{ page.bodyclass }}{%  endif %}" style="counter-reset: paragraph {{ total_new }}">
+{% assign all_pages = site.pages | sort: 'order' %}
+{% assign previous_paragraphs = 0 %}
+{% assign previous_chapters = 0 %}
+
+    {% for single_page in all_pages %}
+        {% if single_page.exclude != true %}
+            {% if single_page.url == page.url %}
+            <body class="
+                {% if page.layout == 'country' %} country {% endif %}
+                {% if page.layout == 'page' %} page {% endif %}
+                {% if page.bodyclass %} {{ page.bodyclass }} {% endif %}
+            "
+            style="counter-reset: paragraph {{ previous_paragraphs }} page-title {{ single_page.order | minus: 1 }} chapter-title {{ previous_chapters }}"
+            >
             {% endif %}
-            {% if item.layout == 'page' %}
-                <body class="page {% if page.bodyclass %}{{ page.bodyclass }}{% endif %}" style="counter-reset: paragraph {{ total_new }}">
-            {% endif %}
+
+                {% assign page_content = single_page.content | liquefy %}
+                {% assign paragraph_total = page_content | split: '<p>' | size | minus: 1 %}
+                {% assign chapter_total = page_content | split: '<h1 class="chapter-title">' | size | minus: 1 %}
+
+                {% assign sidestory_helper = page_content | split: '</div>' %}
+                {% assign sidestory_content = '' %}
+                    {% for side in sidestory_helper %}
+                        {% if side contains 'sidestory-left' or side contains 'sidestory-right' or side contains 'sidestory-right-content' or side contains 'sidestory-left-content' %}
+                            {% assign sidestory_content = sidestory_content | append: side %}
+                        {% endif %}
+                    {% endfor %}
+                    {% assign sidestory_count = sidestory_content | split: '<p>' | size | minus: 1 %}
+                    {% if sidestory_count != -1 %}
+                        {% assign content_total = paragraph_total | minus: sidestory_count %}
+                    {% else %}
+                        {% assign content_total = paragraph_total %}
+                    {% endif %}
+
+                    {% assign previous_paragraphs = previous_paragraphs | plus: content_total %}
+                    {% assign previous_chapters = previous_chapters | plus: chapter_total %}
+        {% else %}
+            {% if single_page.url == page.url %}
+        <body class="
+            {% if page.layout == 'country' %} country {% endif %}
+            {% if page.layout == 'page' %} page {% endif %}
+            {% if page.bodyclass %} {{ page.bodyclass }} {% endif %}
+        "
+        >
         {% endif %}
-
-
-        {{ item.title }}
-        {% assign bla = item.content | markdownify %}
-        {% assign total_paragraphs = bla | split: '<p>' | size %}
-
-        {{ total_paragraphs }}
-
-
-        {% assign total_new = total_new | plus: total_paragraphs %}
-    {% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+        {% endif %}
+    {% endfor %}

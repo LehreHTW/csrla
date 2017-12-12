@@ -23,23 +23,25 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="has-sidestories grid" markdown="1">
 
-<div class="sidestory sidestory-left" markdown="1">
+<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
 ![bla](/media/img/jo-jo-183491.jpg)
 # Sidestory Title
-<span class="sidestory-toggle"><span>+</span></span>
-</div>
+<p class="sidestory-toggle"><span>+</span></p>
+</div><!-- sidestory-end -->
 
-<div class="overlay sidestory-left-content content"><div class="ss-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div></div>
+<div class="overlay sidestory-left-content content"><div class="ss-content">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
 
 <div class="content" markdown="1">
 ## content
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
-<div class="sidestory sidestory-right" markdown="1">
+<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
 ### sidestory-right
-<span class="sidestory-toggle"><span>+</span></span>
-</div>
+<p class="sidestory-toggle"><span>+</span></p>
+</div><!-- sidestory-end -->
 
 <div class="overlay sidestory-right-content content">
 <div class="ss-content">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -49,9 +51,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="has-sidestories grid" markdown="1">
 
-<div class="sidestory sidestory-left" markdown="1">
+<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
 # sidestory left
-</div>
+</div><!-- sidestory-end -->
 
 <div class="content" markdown="1">
 ## content
@@ -67,9 +69,9 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </div>
 
-<div class="sidestory sidestory-right" markdown="1">
+<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
 ### sidestory-right
-</div>
+</div><!-- sidestory-end -->
 
 </div>
 
