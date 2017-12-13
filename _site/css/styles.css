@@ -83,28 +83,34 @@ a, a.active,
 }
 
 [data-filter=".mexiko"].mixitup-control-active, [data-filter=".mexiko"]:hover {
-  color: #1F8A70;
+  color: #9e7837;
 }
 
+.mexiko .icon-wrap svg {
+  fill: #9e7837;
+}
 .mexiko #btt path,
-.mexiko #btt rect, .mexiko #bars path,
-.mexiko #bars rect, .mexiko #close path,
-.mexiko #close rect {
-  fill: #1F8A70;
+.mexiko #btt rect,
+.mexiko #btt line, .mexiko #bars path,
+.mexiko #bars rect,
+.mexiko #bars line, .mexiko #close path,
+.mexiko #close rect,
+.mexiko #close line {
+  fill: #9e7837 !important;
 }
 .mexiko .mixitup-control-active,
 .mexiko a, .mexiko a.active,
 .mexiko .nav-toggle {
-  color: #1F8A70;
+  color: #9e7837;
 }
 .mexiko ::-moz-selection,
 .mexiko .sidestory-toggle span {
-  background: #1F8A70;
+  background: #9e7837;
   color: white;
 }
 .mexiko ::selection,
 .mexiko .sidestory-toggle span {
-  background: #1F8A70;
+  background: #9e7837;
   color: white;
 }
 .mexiko ::-moz-selection:hover,
@@ -116,47 +122,53 @@ a, a.active,
   opacity: .8;
 }
 .mexiko .toggle-next {
-  border-top: 3px solid #1F8A70;
-  border-right: 3px solid #1F8A70;
+  border-top: 3px solid #9e7837;
+  border-right: 3px solid #9e7837;
 }
 .mexiko .toggle-prev {
-  border-bottom: 3px solid #1F8A70;
-  border-left: 3px solid #1F8A70;
+  border-bottom: 3px solid #9e7837;
+  border-left: 3px solid #9e7837;
 }
 .mexiko .excerpt a {
   color: #95989A;
 }
 .mexiko .excerpt a:hover {
-  color: #1F8A70;
+  color: #9e7837;
 }
 
 .menu .mexiko:hover {
-  color: #1F8A70;
+  color: #9e7837;
 }
 
 [data-filter=".peru"].mixitup-control-active, [data-filter=".peru"]:hover {
-  color: #FD7400;
+  color: #BF1F1F;
 }
 
+.peru .icon-wrap svg {
+  fill: #BF1F1F;
+}
 .peru #btt path,
-.peru #btt rect, .peru #bars path,
-.peru #bars rect, .peru #close path,
-.peru #close rect {
-  fill: #FD7400;
+.peru #btt rect,
+.peru #btt line, .peru #bars path,
+.peru #bars rect,
+.peru #bars line, .peru #close path,
+.peru #close rect,
+.peru #close line {
+  fill: #BF1F1F !important;
 }
 .peru .mixitup-control-active,
 .peru a, .peru a.active,
 .peru .nav-toggle {
-  color: #FD7400;
+  color: #BF1F1F;
 }
 .peru ::-moz-selection,
 .peru .sidestory-toggle span {
-  background: #FD7400;
+  background: #BF1F1F;
   color: white;
 }
 .peru ::selection,
 .peru .sidestory-toggle span {
-  background: #FD7400;
+  background: #BF1F1F;
   color: white;
 }
 .peru ::-moz-selection:hover,
@@ -168,33 +180,39 @@ a, a.active,
   opacity: .8;
 }
 .peru .toggle-next {
-  border-top: 3px solid #FD7400;
-  border-right: 3px solid #FD7400;
+  border-top: 3px solid #BF1F1F;
+  border-right: 3px solid #BF1F1F;
 }
 .peru .toggle-prev {
-  border-bottom: 3px solid #FD7400;
-  border-left: 3px solid #FD7400;
+  border-bottom: 3px solid #BF1F1F;
+  border-left: 3px solid #BF1F1F;
 }
 .peru .excerpt a {
   color: #95989A;
 }
 .peru .excerpt a:hover {
-  color: #FD7400;
+  color: #BF1F1F;
 }
 
 .menu .peru:hover {
-  color: #FD7400;
+  color: #BF1F1F;
 }
 
 [data-filter=".kolumbien"].mixitup-control-active, [data-filter=".kolumbien"]:hover {
   color: #FFE11A;
 }
 
-.kolumbien #btt path,
-.kolumbien #btt rect, .kolumbien #bars path,
-.kolumbien #bars rect, .kolumbien #close path,
-.kolumbien #close rect {
+.kolumbien .icon-wrap svg {
   fill: #FFE11A;
+}
+.kolumbien #btt path,
+.kolumbien #btt rect,
+.kolumbien #btt line, .kolumbien #bars path,
+.kolumbien #bars rect,
+.kolumbien #bars line, .kolumbien #close path,
+.kolumbien #close rect,
+.kolumbien #close line {
+  fill: #FFE11A !important;
 }
 .kolumbien .mixitup-control-active,
 .kolumbien a, .kolumbien a.active,
@@ -239,29 +257,35 @@ a, a.active,
 }
 
 [data-filter=".brasilien"].mixitup-control-active, [data-filter=".brasilien"]:hover {
-  color: #BEDB39;
+  color: #129621;
 }
 
+.brasilien .icon-wrap svg {
+  fill: #129621;
+}
 .brasilien #btt path,
-.brasilien #btt rect, .brasilien #bars path,
-.brasilien #bars rect, .brasilien #close path,
-.brasilien #close rect {
-  fill: #BEDB39;
+.brasilien #btt rect,
+.brasilien #btt line, .brasilien #bars path,
+.brasilien #bars rect,
+.brasilien #bars line, .brasilien #close path,
+.brasilien #close rect,
+.brasilien #close line {
+  fill: #129621 !important;
 }
 .brasilien .mixitup-control-active,
 .brasilien a, .brasilien a.active,
 .brasilien .nav-toggle {
-  color: #BEDB39;
+  color: #129621;
 }
 .brasilien ::-moz-selection,
 .brasilien .sidestory-toggle span {
-  background: #BEDB39;
-  color: black;
+  background: #129621;
+  color: white;
 }
 .brasilien ::selection,
 .brasilien .sidestory-toggle span {
-  background: #BEDB39;
-  color: black;
+  background: #129621;
+  color: white;
 }
 .brasilien ::-moz-selection:hover,
 .brasilien .sidestory-toggle span:hover {
@@ -272,47 +296,53 @@ a, a.active,
   opacity: .8;
 }
 .brasilien .toggle-next {
-  border-top: 3px solid #BEDB39;
-  border-right: 3px solid #BEDB39;
+  border-top: 3px solid #129621;
+  border-right: 3px solid #129621;
 }
 .brasilien .toggle-prev {
-  border-bottom: 3px solid #BEDB39;
-  border-left: 3px solid #BEDB39;
+  border-bottom: 3px solid #129621;
+  border-left: 3px solid #129621;
 }
 .brasilien .excerpt a {
   color: #95989A;
 }
 .brasilien .excerpt a:hover {
-  color: #BEDB39;
+  color: #129621;
 }
 
 .menu .brasilien:hover {
-  color: #BEDB39;
+  color: #129621;
 }
 
 [data-filter=".argentinien"].mixitup-control-active, [data-filter=".argentinien"]:hover {
-  color: #006a8b;
+  color: #0091be;
 }
 
+.argentinien .icon-wrap svg {
+  fill: #0091be;
+}
 .argentinien #btt path,
-.argentinien #btt rect, .argentinien #bars path,
-.argentinien #bars rect, .argentinien #close path,
-.argentinien #close rect {
-  fill: #006a8b;
+.argentinien #btt rect,
+.argentinien #btt line, .argentinien #bars path,
+.argentinien #bars rect,
+.argentinien #bars line, .argentinien #close path,
+.argentinien #close rect,
+.argentinien #close line {
+  fill: #0091be !important;
 }
 .argentinien .mixitup-control-active,
 .argentinien a, .argentinien a.active,
 .argentinien .nav-toggle {
-  color: #006a8b;
+  color: #0091be;
 }
 .argentinien ::-moz-selection,
 .argentinien .sidestory-toggle span {
-  background: #006a8b;
+  background: #0091be;
   color: white;
 }
 .argentinien ::selection,
 .argentinien .sidestory-toggle span {
-  background: #006a8b;
+  background: #0091be;
   color: white;
 }
 .argentinien ::-moz-selection:hover,
@@ -324,22 +354,22 @@ a, a.active,
   opacity: .8;
 }
 .argentinien .toggle-next {
-  border-top: 3px solid #006a8b;
-  border-right: 3px solid #006a8b;
+  border-top: 3px solid #0091be;
+  border-right: 3px solid #0091be;
 }
 .argentinien .toggle-prev {
-  border-bottom: 3px solid #006a8b;
-  border-left: 3px solid #006a8b;
+  border-bottom: 3px solid #0091be;
+  border-left: 3px solid #0091be;
 }
 .argentinien .excerpt a {
   color: #95989A;
 }
 .argentinien .excerpt a:hover {
-  color: #006a8b;
+  color: #0091be;
 }
 
 .menu .argentinien:hover {
-  color: #006a8b;
+  color: #0091be;
 }
 
 @font-face {
@@ -1011,6 +1041,48 @@ h1.chapter-title:before {
     width: 100%;
   }
 }
+.country-header .meta-info {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  -ms-grid-column: 1;
+      grid-column-start: 1;
+  grid-column-end: 4;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  color: white;
+  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
+  text-align: center;
+  margin-top: 50px;
+}
+@media screen and (max-width: 1090px) {
+  .country-header .meta-info {
+    -webkit-transform: scale(0.6);
+            transform: scale(0.6);
+  }
+}
+.country-header .meta-info .meta-box {
+  width: 25%;
+  box-sizing: border-box;
+  padding: 20px;
+}
+.country-header .meta-info h5 {
+  font-weight: normal;
+  margin-top: 0;
+  line-height: 1;
+}
 .country-header .title {
   font-size: 3em;
   line-height: 1;
@@ -1030,8 +1102,8 @@ h1.chapter-title:before {
   top: 0;
   left: 0;
   z-index: 3;
-  background-image: -webkit-radial-gradient(rgba(33, 31, 31, 0.7) 50%, transparent 10%), -webkit-radial-gradient(white 25%, transparent 10%);
-  background-image: radial-gradient(rgba(33, 31, 31, 0.7) 50%, transparent 10%), radial-gradient(white 25%, transparent 10%);
+  background-image: -webkit-radial-gradient(rgba(33, 31, 31, 0.4) 50%, transparent 10%), -webkit-radial-gradient(white 25%, transparent 10%);
+  background-image: radial-gradient(rgba(33, 31, 31, 0.4) 50%, transparent 10%), radial-gradient(white 25%, transparent 10%);
   background-size: 5px 5px;
   background-position: 0 0, 5px 5px;
 }
@@ -1150,18 +1222,40 @@ h1.chapter-title:before {
 }
 
 .karte {
-  max-width: 100%;
-  height: 100vh;
+  max-height: 80vh;
+  width: 33%;
 }
 
 .map_responsive {
   position: relative;
   width: 100%;
   height: 0;
-  padding: 122.3424570337% 0 0 0;
+  padding: 110.0105513057% 0 0 0;
   display: block;
 }
 .map_responsive svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.icon-wrapper {
+  width: 100px;
+  margin: auto;
+}
+
+.icon-wrap {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding: 100% 0 0 0;
+  display: block;
+}
+.icon-wrap svg {
   position: absolute;
   top: 0;
   left: 0;

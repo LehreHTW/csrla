@@ -33,10 +33,15 @@ a, a.active,
     }
 
     .#{$l} {
-        #btt, #bars, #close{
+        .icon-wrap svg{
+            fill: $c;
+        }
+        
+        #btt, #bars, #close {
             path,
-            rect{
-                fill: $c;
+            rect,
+            line{
+                fill: $c !important;
             }
         }
 
