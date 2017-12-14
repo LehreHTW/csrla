@@ -200,3 +200,31 @@ a{
     height: 50px;
     display: none;
 }
+
+
+.country-header{
+    h1, h2, h3, h4, h5, h6{
+        background: $mediumgray;
+        color: black-or-white($mediumgray);
+        display: inline-block;
+    }
+}
+.icon-wrap svg{
+    fill: $mediumgray;
+}
+
+
+div[data-toggler="true"]{
+    position: relative;
+    cursor: pointer;
+    
+    &:after{
+        content: '+';
+        line-height: 1;
+        font-size: 2em;
+        position: absolute;
+        top: 50%;
+        right: 0;
+        transform: translateY(-50%);
+    }
+}

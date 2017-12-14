@@ -16,6 +16,7 @@
 {% assign all_pages = site.pages | sort: 'order' %}
 {% assign previous_paragraphs = 0 %}
 {% assign previous_chapters = 0 %}
+{% assign previous_sidestories = 0 %}
 
     {% for single_page in all_pages %}
         {% if single_page.exclude != true %}
@@ -25,7 +26,7 @@
                 {% if page.layout == 'page' %} page {% endif %}
                 {% if page.bodyclass %} {{ page.bodyclass }} {% endif %}
             "
-            style="counter-reset: paragraph {{ previous_paragraphs }} page-title {{ single_page.order | minus: 1 }} chapter-title {{ previous_chapters }}"
+            style="counter-reset: paragraph {{ previous_paragraphs }} page-title {{ single_page.order | minus: 1 }} chapter-title {{ previous_chapters }} sidestory {{ previous_sidestories }}"
             >
             {% endif %}
 
@@ -35,11 +36,16 @@
 
                 {% assign sidestory_helper = page_content | split: '</div>' %}
                 {% assign sidestory_content = '' %}
+                {% assign sidestory_paragraphs = '' %}
                     {% for side in sidestory_helper %}
                         {% if side contains 'sidestory-left' or side contains 'sidestory-right' or side contains 'sidestory-right-content' or side contains 'sidestory-left-content' %}
                             {% assign sidestory_content = sidestory_content | append: side %}
                         {% endif %}
+                        {% if side contains 'ss-content' %}
+                            {% assign sidestory_paragraphs = sidestory_paragraphs | append: side %}
+                        {% endif %}
                     {% endfor %}
+
                     {% assign sidestory_count = sidestory_content | split: '<p>' | size | minus: 1 %}
                     {% if sidestory_count != -1 %}
                         {% assign content_total = paragraph_total | minus: sidestory_count %}
@@ -47,8 +53,16 @@
                         {% assign content_total = paragraph_total %}
                     {% endif %}
 
+
+                    {% if sidestory_paragraphs == '' %}
+                        {% assign sidestory_p_count = 0 %}
+                    {% else %}
+                        {% assign sidestory_p_count = sidestory_paragraphs | split: '<p>' | size | minus: 1 %}
+                    {% endif %}
+
                     {% assign previous_paragraphs = previous_paragraphs | plus: content_total %}
                     {% assign previous_chapters = previous_chapters | plus: chapter_total %}
+                    {% assign previous_sidestories = previous_sidestories | plus: sidestory_p_count %}
         {% else %}
             {% if single_page.url == page.url %}
         <body class="

@@ -33,10 +33,17 @@ a, a.active,
     }
 
     .#{$l} {
+        .country-header{
+            h1, h2, h3, h4, h5, h6{
+                background: $c;
+                color: black-or-white($c);
+                display: inline-block;
+            }
+        }
         .icon-wrap svg{
             fill: $c;
         }
-        
+
         #btt, #bars, #close {
             path,
             rect,

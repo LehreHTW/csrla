@@ -31,3 +31,5 @@ collections:
         output: false
     peru:
         output: false
+    forschungstagebuch:
+        output: false
