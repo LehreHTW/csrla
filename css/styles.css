@@ -86,6 +86,11 @@ a, a.active,
   color: #9e7837;
 }
 
+.mexiko .country-header h1, .mexiko .country-header h2, .mexiko .country-header h3, .mexiko .country-header h4, .mexiko .country-header h5, .mexiko .country-header h6 {
+  background: #9e7837;
+  color: white;
+  display: inline-block;
+}
 .mexiko .icon-wrap svg {
   fill: #9e7837;
 }
@@ -144,6 +149,11 @@ a, a.active,
   color: #BF1F1F;
 }
 
+.peru .country-header h1, .peru .country-header h2, .peru .country-header h3, .peru .country-header h4, .peru .country-header h5, .peru .country-header h6 {
+  background: #BF1F1F;
+  color: white;
+  display: inline-block;
+}
 .peru .icon-wrap svg {
   fill: #BF1F1F;
 }
@@ -202,6 +212,11 @@ a, a.active,
   color: #FFE11A;
 }
 
+.kolumbien .country-header h1, .kolumbien .country-header h2, .kolumbien .country-header h3, .kolumbien .country-header h4, .kolumbien .country-header h5, .kolumbien .country-header h6 {
+  background: #FFE11A;
+  color: black;
+  display: inline-block;
+}
 .kolumbien .icon-wrap svg {
   fill: #FFE11A;
 }
@@ -260,6 +275,11 @@ a, a.active,
   color: #129621;
 }
 
+.brasilien .country-header h1, .brasilien .country-header h2, .brasilien .country-header h3, .brasilien .country-header h4, .brasilien .country-header h5, .brasilien .country-header h6 {
+  background: #129621;
+  color: white;
+  display: inline-block;
+}
 .brasilien .icon-wrap svg {
   fill: #129621;
 }
@@ -318,6 +338,11 @@ a, a.active,
   color: #0091be;
 }
 
+.argentinien .country-header h1, .argentinien .country-header h2, .argentinien .country-header h3, .argentinien .country-header h4, .argentinien .country-header h5, .argentinien .country-header h6 {
+  background: #0091be;
+  color: white;
+  display: inline-block;
+}
 .argentinien .icon-wrap svg {
   fill: #0091be;
 }
@@ -606,8 +631,33 @@ a:hover {
   display: none;
 }
 
+.country-header h1, .country-header h2, .country-header h3, .country-header h4, .country-header h5, .country-header h6 {
+  background: #95989A;
+  color: black;
+  display: inline-block;
+}
+
+.icon-wrap svg {
+  fill: #95989A;
+}
+
+div[data-toggler="true"] {
+  position: relative;
+  cursor: pointer;
+}
+div[data-toggler="true"]:after {
+  content: '+';
+  line-height: 1;
+  font-size: 2em;
+  position: absolute;
+  top: 50%;
+  right: 0;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 body {
-  counter-reset: paragraph page-title chapter-title;
+  counter-reset: paragraph page-title chapter-title sidestory;
 }
 
 .content p {
@@ -627,42 +677,21 @@ body {
   text-align: right;
 }
 
-h1.title {
+.ss-content p {
   position: relative;
-  display: inline-block;
 }
-h1.title:before {
+.ss-content p:before {
   position: absolute;
   top: 0;
   left: 0;
   -webkit-transform: translateX(-100%);
           transform: translateX(-100%);
   margin-left: -10px;
-  opacity: .4;
-  content: counter(page-title,upper-alpha) ".";
-  counter-increment: page-title;
+  color: rgba(255, 255, 255, 0.4);
+  content: counter(sidestory,upper-roman);
+  counter-increment: sidestory;
   font-size: .6em;
   text-align: right;
-}
-.country h1.title:before {
-  opacity: .9;
-}
-
-h1.chapter-title {
-  position: relative;
-}
-h1.chapter-title:before {
-  top: 0;
-  left: 0;
-  -webkit-transform: translateX(-100%);
-          transform: translateX(-100%);
-  text-align: right;
-  position: absolute;
-  margin-left: -10px;
-  opacity: .4;
-  content: counter(chapter-title,upper-roman) ".";
-  counter-increment: chapter-title;
-  font-size: .6em;
 }
 
 .navbar {
@@ -866,9 +895,18 @@ h1.chapter-title:before {
   font-size: .8em;
   line-height: 1.25;
   position: relative;
-  display: none;
   z-index: 99;
   height: 50vh;
+  opacity: 1;
+  -webkit-transition: .5s all ease;
+  transition: .5s all ease;
+}
+.overlay.overlay-hidden {
+  position: absolute;
+  left: -9999px;
+  max-height: 0px;
+  overflow: hidden;
+  opacity: 0;
 }
 @media screen and (min-width: 1091px) {
   .overlay {
@@ -1043,7 +1081,6 @@ h1.chapter-title:before {
 }
 .country-header .meta-info {
   width: 100%;
-  background: rgba(0, 0, 0, 0.3);
   -ms-grid-column: 1;
       grid-column-start: 1;
   grid-column-end: 4;
@@ -1063,7 +1100,6 @@ h1.chapter-title:before {
       -ms-flex-align: start;
           align-items: flex-start;
   color: white;
-  text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
   text-align: center;
   margin-top: 50px;
 }
@@ -1077,6 +1113,9 @@ h1.chapter-title:before {
   width: 25%;
   box-sizing: border-box;
   padding: 20px;
+}
+.country-header .meta-info h2 {
+  text-transform: none;
 }
 .country-header .meta-info h5 {
   font-weight: normal;
@@ -1108,12 +1147,15 @@ h1.chapter-title:before {
   background-position: 0 0, 5px 5px;
 }
 
+section[class*="chapter"] {
+  margin-top: 2.5rem;
+}
+
 .chapter-subject {
   display: block;
   text-transform: uppercase;
   font-weight: normal;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
-  margin-top: 2.5rem;
 }
 .chapter-subject + h1 {
   margin-top: 0;
