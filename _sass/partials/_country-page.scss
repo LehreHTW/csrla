@@ -7,15 +7,17 @@
 
     .grid{
         position: absolute;
-        bottom: 15vh;
-        z-index: 10;
+        @include flexbox(column, wrap, space-between, center);
+        height: 70vh;
+        top: 15vh;
+        z-index: 4;
     }
 
     .content{
         max-width: auto;
         width: 150%;
 
-        text-align: right;
+        text-align: center;
         color: white;
 
         @media screen and (max-width: $title-break){
@@ -99,4 +101,14 @@ section[class*="chapter"]{
 .pagination{
     width: 100%;
     font-family: $headings-font;
+
+    a{
+        display: inline-block;
+    }
+    .prev{
+        text-align: left;
+    }
+    .next{
+        text-align: right;
+    }
 }

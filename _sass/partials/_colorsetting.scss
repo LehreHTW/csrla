@@ -1,9 +1,18 @@
 .mixitup-control-active,
 a, a.active,
 .nav-toggle,
-.menu a:hover,
-.menu a.active{
-    color: $mediumgray;
+div[data-toggler="true"] {
+    font-family: $headings-font;
+    display: inline-block !important;
+    color: $lightgray;
+    text-transform: uppercase;
+    background: black-or-white($lightgray);
+
+
+    &:hover{
+        color: white;
+        background: black;
+    }
 }
 
 #btt, #bars, #close{
@@ -12,6 +21,19 @@ a, a.active,
         fill: $mediumgray;
     }
 }
+
+.country-header{
+    h1, h2, h3, h4, h5, h6{
+        background: $lightgray;
+        color: black-or-white($lightgray);
+        display: inline-block;
+    }
+}
+
+.icon-wrap svg{
+    fill: $lightgray;
+}
+
 
 .toggle-next{
     border-top: 3px solid $mediumgray;
@@ -40,6 +62,9 @@ a, a.active,
                 display: inline-block;
             }
         }
+        .meta-info{
+            background: rgba(black-or-white($c), .3)
+        }
         .icon-wrap svg{
             fill: $c;
         }
@@ -55,7 +80,19 @@ a, a.active,
         .mixitup-control-active,
         a, a.active,
         .nav-toggle{
+            font-family: $headings-font;
+            display: inline-block !important;
             color: $c;
+            text-transform: uppercase;
+            background: black-or-white($c);
+            // text-stroke: 1px darken($c, 30%);
+            // -webkit-text-stroke: 1px darken($c, 30%);
+
+
+            &:hover{
+                color: white;
+                background: black;
+            }
         }
 
         ::selection,

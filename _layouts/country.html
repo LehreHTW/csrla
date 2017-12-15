@@ -123,7 +123,7 @@
             <div class="page-content">{{ content }}</div>
 
             <div class="box">
-            {% assign  document = site.pages | sort: "order" | where:"layout", "country" %}
+            {% assign  document = site.pages | sort: "order" %}
                     {% for links in document %}
                         {% if links.title == page.title %}
 
@@ -146,8 +146,8 @@
 
                     {% if prevurl or nexturl %}
                         <div class="pagination has-sidestories grid">
-                            {% if prevurl %}<a href="{{prevurl}}" class="prev sidestory sidestory-left">&laquo; zurück nach {{ prevtitle}}</a>{% endif %}
-                            {% if nexturl %}<a href="{{nexturl}}" class="next sidestory sidestory-right">weiter nach {{nexttitle}} &raquo;</a>{% endif %}
+                            {% if prevurl %}<span class="prev sidestory sidestory-left"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
+                            {% if nexturl %}<span class="next sidestory sidestory-right"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
                         </div>
                     {% endif %}
                 </div>
