@@ -87,6 +87,11 @@ $(document).ready(function() {
             $(this).siblings().slideDown();
         }
     });
+
+    $('#map g').click(function(){
+        $('#map g').removeClass('active');
+        $(this).addClass('active');
+    });
 });
 
 function checkIfInView(element) {
