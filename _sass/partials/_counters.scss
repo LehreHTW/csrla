@@ -1,7 +1,8 @@
 body {
     counter-reset: paragraph page-title chapter-title sidestory;
 }
-.content p {
+.content p,
+.country-block p {
     position: relative;
     &:before {
         position: absolute;

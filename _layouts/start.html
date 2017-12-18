@@ -5,19 +5,11 @@
         {% include navigation.html %}
 
         <main>
-            <div class="page-content">
-                <section class="box">
-                    <div class="content title-box">
-                        {% if page.subtitle %}<h2 class="page-subtitle">{{ page.subtitle }}</h2>{% endif %}
-                        {% if page.displaytitle %}
-                        <h1 class="title">{{ page.title }}</h1>{% endif %}
-                    </div>
                     {{ content }}
-                    <div class="box">
-                    {% assign  document = site.pages | sort: "order" %}
+                    <div class="box paginator">
+                    {% assign  document = site.pages | sort: "order" | where: 'exclude', 'false' %}
                             {% for links in document %}
                                 {% if links.title == page.title %}
-
                                     {% unless forloop.first %}
                                         {% assign prevurl = prev.url %}
 
@@ -35,6 +27,7 @@
                                 {% assign prev = links %}
                             {% endfor %}
 
+
                             {% if prevurl or nexturl %}
                             <div class="pagination has-sidestories grid">
                                 {% if prevurl %}<span class="prev sidestory sidestory-left"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
@@ -42,8 +35,6 @@
                             </div>
                             {% endif %}
                         </div>
-                </section>
-            </div>
        </main>
 
         {% include footer.html %}

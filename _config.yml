@@ -18,6 +18,7 @@ defaults:
       layout: "page"
     values:
       displaytitle: true
+      exclude: false
 sass:
     style: expanded
 collections:

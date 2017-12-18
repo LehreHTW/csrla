@@ -54,6 +54,18 @@ div[data-toggler="true"] {
         }
     }
 
+    .country-block{
+        .#{$l}{
+            h2{
+                display: inline-block;
+                background: $c;
+                color: black-or-white($c);
+            }
+        }
+    }
+    .fill.#{$l}{
+        background: $c;
+    }
     .#{$l} {
         .country-header{
             h1, h2, h3, h4, h5, h6{

@@ -88,9 +88,28 @@ $(document).ready(function() {
         }
     });
 
+    $('.country-block div').hide();
+
     $('#map g').click(function(){
+        var c = $(this).attr('id');
         $('#map g').removeClass('active');
         $(this).addClass('active');
+        $('.country-block div').slideUp();
+        $('.country-block .'+c).slideDown();
+        $('.bar').each(function(){
+            var b = $(this).find('.country');
+            var info = b.data(c);
+            b.css('width', info+'%');
+            b.attr('class', '')
+            b.attr('class', c + ' fill country');
+            if(b.data(c+'-number')){
+                $(this).find('.number').text(b.data(c+'-number'));
+            } else{
+                $(this).find('.number').text(info);
+            }
+        });
+        $('.indexes .countries span').hide();
+        $('.indexes .countries .'+c).show();
     });
 });
 
