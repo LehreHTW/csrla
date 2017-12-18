@@ -20,13 +20,16 @@
 }
 
 #map{
-    .st0{opacity:0.2;fill:$mediumgray;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
-    .st1{fill:$mediumgray;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+    .st0{opacity:0.2;fill:$world;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+    .st1{fill:$world;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
     .st2{opacity:0.2;}
-    .st3{fill:$mediumgray;}
+    .st3{fill:$world;}
 
     @each $l, $c in $countries {
         ##{$l} {
+            .st1{
+                // fill: desaturate($c, 50%);
+            }
             &.active .st1,
             .st1:hover{
                 transition: .3s all ease;

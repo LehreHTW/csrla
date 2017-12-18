@@ -102,22 +102,108 @@ div[data-toggler="true"]:hover {
   border-left: 3px solid #626567;
 }
 
+[data-filter=".world"].mixitup-control-active, [data-filter=".world"]:hover {
+  color: #c9bbb7;
+}
+
+.country-block .world h2 {
+  display: inline-block;
+  background: #c9bbb7;
+  color: black;
+}
+
+.fill.world {
+  background: #c9bbb7;
+}
+
+.world .country-header h1, .world .country-header h2, .world .country-header h3, .world .country-header h4, .world .country-header h5, .world .country-header h6 {
+  background: #c9bbb7;
+  color: black;
+  display: inline-block;
+}
+.world .meta-info {
+  background: rgba(0, 0, 0, 0.3);
+}
+.world .icon-wrap svg {
+  fill: #c9bbb7;
+}
+.world #btt path,
+.world #btt rect,
+.world #btt line, .world #bars path,
+.world #bars rect,
+.world #bars line, .world #close path,
+.world #close rect,
+.world #close line {
+  fill: #c9bbb7 !important;
+}
+.world .mixitup-control-active,
+.world a, .world a.active,
+.world .nav-toggle {
+  font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
+  display: inline-block !important;
+  color: #c9bbb7;
+  text-transform: uppercase;
+  background: black;
+}
+.world .mixitup-control-active:hover,
+.world a:hover, .world a.active:hover,
+.world .nav-toggle:hover {
+  color: white;
+  background: black;
+}
+.world ::-moz-selection,
+.world .sidestory-toggle span {
+  background: #c9bbb7;
+  color: black;
+}
+.world ::selection,
+.world .sidestory-toggle span {
+  background: #c9bbb7;
+  color: black;
+}
+.world ::-moz-selection:hover,
+.world .sidestory-toggle span:hover {
+  opacity: .8;
+}
+.world ::selection:hover,
+.world .sidestory-toggle span:hover {
+  opacity: .8;
+}
+.world .toggle-next {
+  border-top: 3px solid #c9bbb7;
+  border-right: 3px solid #c9bbb7;
+}
+.world .toggle-prev {
+  border-bottom: 3px solid #c9bbb7;
+  border-left: 3px solid #c9bbb7;
+}
+.world .excerpt a {
+  color: #626567;
+}
+.world .excerpt a:hover {
+  color: #c9bbb7;
+}
+
+.menu .world:hover {
+  color: #c9bbb7;
+}
+
 [data-filter=".mexiko"].mixitup-control-active, [data-filter=".mexiko"]:hover {
-  color: #f1dbac;
+  color: #ff845e;
 }
 
 .country-block .mexiko h2 {
   display: inline-block;
-  background: #f1dbac;
+  background: #ff845e;
   color: black;
 }
 
 .fill.mexiko {
-  background: #f1dbac;
+  background: #ff845e;
 }
 
 .mexiko .country-header h1, .mexiko .country-header h2, .mexiko .country-header h3, .mexiko .country-header h4, .mexiko .country-header h5, .mexiko .country-header h6 {
-  background: #f1dbac;
+  background: #ff845e;
   color: black;
   display: inline-block;
 }
@@ -125,7 +211,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .mexiko .icon-wrap svg {
-  fill: #f1dbac;
+  fill: #ff845e;
 }
 .mexiko #btt path,
 .mexiko #btt rect,
@@ -134,14 +220,14 @@ div[data-toggler="true"]:hover {
 .mexiko #bars line, .mexiko #close path,
 .mexiko #close rect,
 .mexiko #close line {
-  fill: #f1dbac !important;
+  fill: #ff845e !important;
 }
 .mexiko .mixitup-control-active,
 .mexiko a, .mexiko a.active,
 .mexiko .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #f1dbac;
+  color: #ff845e;
   text-transform: uppercase;
   background: black;
 }
@@ -153,12 +239,12 @@ div[data-toggler="true"]:hover {
 }
 .mexiko ::-moz-selection,
 .mexiko .sidestory-toggle span {
-  background: #f1dbac;
+  background: #ff845e;
   color: black;
 }
 .mexiko ::selection,
 .mexiko .sidestory-toggle span {
-  background: #f1dbac;
+  background: #ff845e;
   color: black;
 }
 .mexiko ::-moz-selection:hover,
@@ -170,22 +256,22 @@ div[data-toggler="true"]:hover {
   opacity: .8;
 }
 .mexiko .toggle-next {
-  border-top: 3px solid #f1dbac;
-  border-right: 3px solid #f1dbac;
+  border-top: 3px solid #ff845e;
+  border-right: 3px solid #ff845e;
 }
 .mexiko .toggle-prev {
-  border-bottom: 3px solid #f1dbac;
-  border-left: 3px solid #f1dbac;
+  border-bottom: 3px solid #ff845e;
+  border-left: 3px solid #ff845e;
 }
 .mexiko .excerpt a {
   color: #626567;
 }
 .mexiko .excerpt a:hover {
-  color: #f1dbac;
+  color: #ff845e;
 }
 
 .menu .mexiko:hover {
-  color: #f1dbac;
+  color: #ff845e;
 }
 
 [data-filter=".peru"].mixitup-control-active, [data-filter=".peru"]:hover {
@@ -361,21 +447,21 @@ div[data-toggler="true"]:hover {
 }
 
 [data-filter=".brasilien"].mixitup-control-active, [data-filter=".brasilien"]:hover {
-  color: #85E897;
+  color: #89e499;
 }
 
 .country-block .brasilien h2 {
   display: inline-block;
-  background: #85E897;
+  background: #89e499;
   color: black;
 }
 
 .fill.brasilien {
-  background: #85E897;
+  background: #89e499;
 }
 
 .brasilien .country-header h1, .brasilien .country-header h2, .brasilien .country-header h3, .brasilien .country-header h4, .brasilien .country-header h5, .brasilien .country-header h6 {
-  background: #85E897;
+  background: #89e499;
   color: black;
   display: inline-block;
 }
@@ -383,7 +469,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .brasilien .icon-wrap svg {
-  fill: #85E897;
+  fill: #89e499;
 }
 .brasilien #btt path,
 .brasilien #btt rect,
@@ -392,14 +478,14 @@ div[data-toggler="true"]:hover {
 .brasilien #bars line, .brasilien #close path,
 .brasilien #close rect,
 .brasilien #close line {
-  fill: #85E897 !important;
+  fill: #89e499 !important;
 }
 .brasilien .mixitup-control-active,
 .brasilien a, .brasilien a.active,
 .brasilien .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #85E897;
+  color: #89e499;
   text-transform: uppercase;
   background: black;
 }
@@ -411,12 +497,12 @@ div[data-toggler="true"]:hover {
 }
 .brasilien ::-moz-selection,
 .brasilien .sidestory-toggle span {
-  background: #85E897;
+  background: #89e499;
   color: black;
 }
 .brasilien ::selection,
 .brasilien .sidestory-toggle span {
-  background: #85E897;
+  background: #89e499;
   color: black;
 }
 .brasilien ::-moz-selection:hover,
@@ -428,22 +514,22 @@ div[data-toggler="true"]:hover {
   opacity: .8;
 }
 .brasilien .toggle-next {
-  border-top: 3px solid #85E897;
-  border-right: 3px solid #85E897;
+  border-top: 3px solid #89e499;
+  border-right: 3px solid #89e499;
 }
 .brasilien .toggle-prev {
-  border-bottom: 3px solid #85E897;
-  border-left: 3px solid #85E897;
+  border-bottom: 3px solid #89e499;
+  border-left: 3px solid #89e499;
 }
 .brasilien .excerpt a {
   color: #626567;
 }
 .brasilien .excerpt a:hover {
-  color: #85E897;
+  color: #89e499;
 }
 
 .menu .brasilien:hover {
-  color: #85E897;
+  color: #89e499;
 }
 
 [data-filter=".argentinien"].mixitup-control-active, [data-filter=".argentinien"]:hover {
@@ -1456,13 +1542,13 @@ section[class*="chapter"] {
 
 #map .st0 {
   opacity: 0.2;
-  fill: #626567;
+  fill: #c9bbb7;
   stroke: #FFFFFF;
   stroke-width: 2;
   stroke-miterlimit: 10;
 }
 #map .st1 {
-  fill: #626567;
+  fill: #c9bbb7;
   stroke: #FFFFFF;
   stroke-width: 2;
   stroke-miterlimit: 10;
@@ -1471,13 +1557,20 @@ section[class*="chapter"] {
   opacity: 0.2;
 }
 #map .st3 {
-  fill: #626567;
+  fill: #c9bbb7;
+}
+#map #world.active .st1,
+#map #world .st1:hover {
+  -webkit-transition: .3s all ease;
+  transition: .3s all ease;
+  fill: #c9bbb7;
+  cursor: pointer;
 }
 #map #mexiko.active .st1,
 #map #mexiko .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #f1dbac;
+  fill: #ff845e;
   cursor: pointer;
 }
 #map #peru.active .st1,
@@ -1498,7 +1591,7 @@ section[class*="chapter"] {
 #map #brasilien .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #85E897;
+  fill: #89e499;
   cursor: pointer;
 }
 #map #argentinien.active .st1,
@@ -1624,17 +1717,23 @@ section[class*="chapter"] {
   min-width: 0;
   min-height: 0;
 }
+.start main .indexes > div {
+  padding: 20px 0;
+}
 .start main .indexes .countries span {
   display: none;
 }
 .start main .indexes h2:first-of-type {
   margin-top: 0;
 }
+.start main .indexes p {
+  margin-bottom: 10px;
+}
 .start main .indexes .bar {
   width: 100%;
   height: 20px;
-  border: 1px solid black;
   position: relative;
+  margin: 2px 0;
 }
 .start main .indexes .bar .fill {
   position: absolute;
@@ -1645,7 +1744,7 @@ section[class*="chapter"] {
   transition: .3s all ease;
 }
 .start main .indexes .bar .fill.world {
-  background: #626567;
+  background: #c9bbb7;
 }
 .start main .indexes .bar .fill.world span {
   color: white;
