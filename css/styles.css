@@ -57,6 +57,10 @@ i, em {
  * 2. items per row: how many items are in a row max.
  * 3++. to make this responsive add breakpoints, separating with a comma, the mixin automatically reduces by 1.
  */
+footer a, footer a:hover {
+  background: transparent !important;
+}
+
 .mixitup-control-active,
 a, a.active,
 .nav-toggle,
