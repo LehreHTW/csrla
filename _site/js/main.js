@@ -88,14 +88,15 @@ $(document).ready(function() {
         }
     });
 
-    $('.country-block div').hide();
-
+    $('.country-block div:not(.world)').addClass('hidden');
+    $('.indexes span.world').show();
+    
     $('#map g').click(function(){
         var c = $(this).attr('id');
         $('#map g').removeClass('active');
         $(this).addClass('active');
-        $('.country-block div').slideUp();
-        $('.country-block .'+c).slideDown();
+        $('.country-block div:not(.hidden)').addClass('hidden');
+        $('.country-block .'+c).removeClass('hidden');
         $('.bar').each(function(){
             var b = $(this).find('.country');
             var info = b.data(c);

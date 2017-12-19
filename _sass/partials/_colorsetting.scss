@@ -64,7 +64,7 @@ div[data-toggler="true"] {
         }
     }
     .fill.#{$l}{
-        background: $c;
+        background: $c !important;
     }
     .#{$l} {
         .country-header{

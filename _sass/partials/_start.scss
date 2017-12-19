@@ -62,12 +62,25 @@
             min-height: 0;
 
             div{
+                opacity: 1;
+                transition: .3s all ease;
+                position: relative;
+
                 h2{
                     font-size: 1.2em;
+                    display: inline;
                 }
                 text-align: right;
                 p{
                     text-align: right;
+                }
+
+                &.hidden{
+                    position: absolute;
+                    left: -9999px;
+                    max-height: 0px;
+                    overflow: hidden;
+                    opacity: 0;
                 }
             }
         }
@@ -112,9 +125,10 @@
                     left: 0;
                     height: 100%;
                     transition: .3s all ease;
+                    background: $world;
 
                     &.world{
-                        background: $world;
+                        // background: $world;
                         span{
                             color: white;
                         }
