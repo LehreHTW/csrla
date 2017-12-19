@@ -29,6 +29,8 @@ $(document).ready(function() {
         $('.sidestory').removeClass('active');
         $('.overlay').removeClass('active');
         $('.close-overlay').remove();
+        $('.menu').removeClass('active');
+        $('.nav-toggle').removeClass('active');
     });
 
     $(window).scroll(function(event) {
@@ -50,6 +52,7 @@ $(document).ready(function() {
     $('.nav-toggle').click(function() {
         $('.menu').toggleClass('active');
         $('.nav-toggle').toggleClass('active');
+        $('body').append('<div class="close-overlay"></div>');
     });
 
     $('.slider').each(function() {
@@ -90,7 +93,7 @@ $(document).ready(function() {
 
     $('.country-block div:not(.world)').addClass('hidden');
     $('.indexes span.world').show();
-    
+
     $('#map g').click(function(){
         var c = $(this).attr('id');
         $('#map g').removeClass('active');

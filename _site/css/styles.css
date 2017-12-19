@@ -63,7 +63,7 @@ a, a.active,
 div[data-toggler="true"] {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #e3e4e4;
+  color: #E3E4E4;
   text-transform: uppercase;
   background: black;
 }
@@ -83,41 +83,31 @@ div[data-toggler="true"]:hover {
 }
 
 .country-header h1, .country-header h2, .country-header h3, .country-header h4, .country-header h5, .country-header h6 {
-  background: #e3e4e4;
+  background: #E3E4E4;
   color: black;
   display: inline-block;
 }
 
 .icon-wrap svg {
-  fill: #e3e4e4;
-}
-
-.toggle-next {
-  border-top: 3px solid #626567;
-  border-right: 3px solid #626567;
-}
-
-.toggle-prev {
-  border-bottom: 3px solid #626567;
-  border-left: 3px solid #626567;
+  fill: #E3E4E4;
 }
 
 [data-filter=".world"].mixitup-control-active, [data-filter=".world"]:hover {
-  color: #c9bbb7;
+  color: #C9BBB7;
 }
 
 .country-block .world h2 {
   display: inline-block;
-  background: #c9bbb7;
+  background: #C9BBB7;
   color: black;
 }
 
 .fill.world {
-  background: #c9bbb7 !important;
+  background: #C9BBB7 !important;
 }
 
 .world .country-header h1, .world .country-header h2, .world .country-header h3, .world .country-header h4, .world .country-header h5, .world .country-header h6 {
-  background: #c9bbb7;
+  background: #C9BBB7;
   color: black;
   display: inline-block;
 }
@@ -125,7 +115,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .world .icon-wrap svg {
-  fill: #c9bbb7;
+  fill: #C9BBB7;
 }
 .world #btt path,
 .world #btt rect,
@@ -134,14 +124,14 @@ div[data-toggler="true"]:hover {
 .world #bars line, .world #close path,
 .world #close rect,
 .world #close line {
-  fill: #c9bbb7 !important;
+  fill: #C9BBB7 !important;
 }
 .world .mixitup-control-active,
 .world a, .world a.active,
 .world .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #c9bbb7;
+  color: #C9BBB7;
   text-transform: uppercase;
   background: black;
 }
@@ -153,12 +143,12 @@ div[data-toggler="true"]:hover {
 }
 .world ::-moz-selection,
 .world .sidestory-toggle span {
-  background: #c9bbb7;
+  background: #C9BBB7;
   color: black;
 }
 .world ::selection,
 .world .sidestory-toggle span {
-  background: #c9bbb7;
+  background: #C9BBB7;
   color: black;
 }
 .world ::-moz-selection:hover,
@@ -169,41 +159,33 @@ div[data-toggler="true"]:hover {
 .world .sidestory-toggle span:hover {
   opacity: .8;
 }
-.world .toggle-next {
-  border-top: 3px solid #c9bbb7;
-  border-right: 3px solid #c9bbb7;
-}
-.world .toggle-prev {
-  border-bottom: 3px solid #c9bbb7;
-  border-left: 3px solid #c9bbb7;
-}
 .world .excerpt a {
   color: #626567;
 }
 .world .excerpt a:hover {
-  color: #c9bbb7;
+  color: #C9BBB7;
 }
 
 .menu .world:hover {
-  color: #c9bbb7;
+  color: #C9BBB7;
 }
 
 [data-filter=".mexiko"].mixitup-control-active, [data-filter=".mexiko"]:hover {
-  color: #fb8662;
+  color: #FB8662;
 }
 
 .country-block .mexiko h2 {
   display: inline-block;
-  background: #fb8662;
+  background: #FB8662;
   color: black;
 }
 
 .fill.mexiko {
-  background: #fb8662 !important;
+  background: #FB8662 !important;
 }
 
 .mexiko .country-header h1, .mexiko .country-header h2, .mexiko .country-header h3, .mexiko .country-header h4, .mexiko .country-header h5, .mexiko .country-header h6 {
-  background: #fb8662;
+  background: #FB8662;
   color: black;
   display: inline-block;
 }
@@ -211,7 +193,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .mexiko .icon-wrap svg {
-  fill: #fb8662;
+  fill: #FB8662;
 }
 .mexiko #btt path,
 .mexiko #btt rect,
@@ -220,14 +202,14 @@ div[data-toggler="true"]:hover {
 .mexiko #bars line, .mexiko #close path,
 .mexiko #close rect,
 .mexiko #close line {
-  fill: #fb8662 !important;
+  fill: #FB8662 !important;
 }
 .mexiko .mixitup-control-active,
 .mexiko a, .mexiko a.active,
 .mexiko .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #fb8662;
+  color: #FB8662;
   text-transform: uppercase;
   background: black;
 }
@@ -239,12 +221,12 @@ div[data-toggler="true"]:hover {
 }
 .mexiko ::-moz-selection,
 .mexiko .sidestory-toggle span {
-  background: #fb8662;
+  background: #FB8662;
   color: black;
 }
 .mexiko ::selection,
 .mexiko .sidestory-toggle span {
-  background: #fb8662;
+  background: #FB8662;
   color: black;
 }
 .mexiko ::-moz-selection:hover,
@@ -255,41 +237,33 @@ div[data-toggler="true"]:hover {
 .mexiko .sidestory-toggle span:hover {
   opacity: .8;
 }
-.mexiko .toggle-next {
-  border-top: 3px solid #fb8662;
-  border-right: 3px solid #fb8662;
-}
-.mexiko .toggle-prev {
-  border-bottom: 3px solid #fb8662;
-  border-left: 3px solid #fb8662;
-}
 .mexiko .excerpt a {
   color: #626567;
 }
 .mexiko .excerpt a:hover {
-  color: #fb8662;
+  color: #FB8662;
 }
 
 .menu .mexiko:hover {
-  color: #fb8662;
+  color: #FB8662;
 }
 
 [data-filter=".peru"].mixitup-control-active, [data-filter=".peru"]:hover {
-  color: #dc7f76;
+  color: #DC7F76;
 }
 
 .country-block .peru h2 {
   display: inline-block;
-  background: #dc7f76;
+  background: #DC7F76;
   color: black;
 }
 
 .fill.peru {
-  background: #dc7f76 !important;
+  background: #DC7F76 !important;
 }
 
 .peru .country-header h1, .peru .country-header h2, .peru .country-header h3, .peru .country-header h4, .peru .country-header h5, .peru .country-header h6 {
-  background: #dc7f76;
+  background: #DC7F76;
   color: black;
   display: inline-block;
 }
@@ -297,7 +271,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .peru .icon-wrap svg {
-  fill: #dc7f76;
+  fill: #DC7F76;
 }
 .peru #btt path,
 .peru #btt rect,
@@ -306,14 +280,14 @@ div[data-toggler="true"]:hover {
 .peru #bars line, .peru #close path,
 .peru #close rect,
 .peru #close line {
-  fill: #dc7f76 !important;
+  fill: #DC7F76 !important;
 }
 .peru .mixitup-control-active,
 .peru a, .peru a.active,
 .peru .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #dc7f76;
+  color: #DC7F76;
   text-transform: uppercase;
   background: black;
 }
@@ -325,12 +299,12 @@ div[data-toggler="true"]:hover {
 }
 .peru ::-moz-selection,
 .peru .sidestory-toggle span {
-  background: #dc7f76;
+  background: #DC7F76;
   color: black;
 }
 .peru ::selection,
 .peru .sidestory-toggle span {
-  background: #dc7f76;
+  background: #DC7F76;
   color: black;
 }
 .peru ::-moz-selection:hover,
@@ -341,41 +315,33 @@ div[data-toggler="true"]:hover {
 .peru .sidestory-toggle span:hover {
   opacity: .8;
 }
-.peru .toggle-next {
-  border-top: 3px solid #dc7f76;
-  border-right: 3px solid #dc7f76;
-}
-.peru .toggle-prev {
-  border-bottom: 3px solid #dc7f76;
-  border-left: 3px solid #dc7f76;
-}
 .peru .excerpt a {
   color: #626567;
 }
 .peru .excerpt a:hover {
-  color: #dc7f76;
+  color: #DC7F76;
 }
 
 .menu .peru:hover {
-  color: #dc7f76;
+  color: #DC7F76;
 }
 
 [data-filter=".kolumbien"].mixitup-control-active, [data-filter=".kolumbien"]:hover {
-  color: #f1d728;
+  color: #F1D728;
 }
 
 .country-block .kolumbien h2 {
   display: inline-block;
-  background: #f1d728;
+  background: #F1D728;
   color: black;
 }
 
 .fill.kolumbien {
-  background: #f1d728 !important;
+  background: #F1D728 !important;
 }
 
 .kolumbien .country-header h1, .kolumbien .country-header h2, .kolumbien .country-header h3, .kolumbien .country-header h4, .kolumbien .country-header h5, .kolumbien .country-header h6 {
-  background: #f1d728;
+  background: #F1D728;
   color: black;
   display: inline-block;
 }
@@ -383,7 +349,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .kolumbien .icon-wrap svg {
-  fill: #f1d728;
+  fill: #F1D728;
 }
 .kolumbien #btt path,
 .kolumbien #btt rect,
@@ -392,14 +358,14 @@ div[data-toggler="true"]:hover {
 .kolumbien #bars line, .kolumbien #close path,
 .kolumbien #close rect,
 .kolumbien #close line {
-  fill: #f1d728 !important;
+  fill: #F1D728 !important;
 }
 .kolumbien .mixitup-control-active,
 .kolumbien a, .kolumbien a.active,
 .kolumbien .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #f1d728;
+  color: #F1D728;
   text-transform: uppercase;
   background: black;
 }
@@ -411,12 +377,12 @@ div[data-toggler="true"]:hover {
 }
 .kolumbien ::-moz-selection,
 .kolumbien .sidestory-toggle span {
-  background: #f1d728;
+  background: #F1D728;
   color: black;
 }
 .kolumbien ::selection,
 .kolumbien .sidestory-toggle span {
-  background: #f1d728;
+  background: #F1D728;
   color: black;
 }
 .kolumbien ::-moz-selection:hover,
@@ -427,41 +393,33 @@ div[data-toggler="true"]:hover {
 .kolumbien .sidestory-toggle span:hover {
   opacity: .8;
 }
-.kolumbien .toggle-next {
-  border-top: 3px solid #f1d728;
-  border-right: 3px solid #f1d728;
-}
-.kolumbien .toggle-prev {
-  border-bottom: 3px solid #f1d728;
-  border-left: 3px solid #f1d728;
-}
 .kolumbien .excerpt a {
   color: #626567;
 }
 .kolumbien .excerpt a:hover {
-  color: #f1d728;
+  color: #F1D728;
 }
 
 .menu .kolumbien:hover {
-  color: #f1d728;
+  color: #F1D728;
 }
 
 [data-filter=".brasilien"].mixitup-control-active, [data-filter=".brasilien"]:hover {
-  color: #95d8a1;
+  color: #95D8A1;
 }
 
 .country-block .brasilien h2 {
   display: inline-block;
-  background: #95d8a1;
+  background: #95D8A1;
   color: black;
 }
 
 .fill.brasilien {
-  background: #95d8a1 !important;
+  background: #95D8A1 !important;
 }
 
 .brasilien .country-header h1, .brasilien .country-header h2, .brasilien .country-header h3, .brasilien .country-header h4, .brasilien .country-header h5, .brasilien .country-header h6 {
-  background: #95d8a1;
+  background: #95D8A1;
   color: black;
   display: inline-block;
 }
@@ -469,7 +427,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .brasilien .icon-wrap svg {
-  fill: #95d8a1;
+  fill: #95D8A1;
 }
 .brasilien #btt path,
 .brasilien #btt rect,
@@ -478,14 +436,14 @@ div[data-toggler="true"]:hover {
 .brasilien #bars line, .brasilien #close path,
 .brasilien #close rect,
 .brasilien #close line {
-  fill: #95d8a1 !important;
+  fill: #95D8A1 !important;
 }
 .brasilien .mixitup-control-active,
 .brasilien a, .brasilien a.active,
 .brasilien .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #95d8a1;
+  color: #95D8A1;
   text-transform: uppercase;
   background: black;
 }
@@ -497,12 +455,12 @@ div[data-toggler="true"]:hover {
 }
 .brasilien ::-moz-selection,
 .brasilien .sidestory-toggle span {
-  background: #95d8a1;
+  background: #95D8A1;
   color: black;
 }
 .brasilien ::selection,
 .brasilien .sidestory-toggle span {
-  background: #95d8a1;
+  background: #95D8A1;
   color: black;
 }
 .brasilien ::-moz-selection:hover,
@@ -513,41 +471,33 @@ div[data-toggler="true"]:hover {
 .brasilien .sidestory-toggle span:hover {
   opacity: .8;
 }
-.brasilien .toggle-next {
-  border-top: 3px solid #95d8a1;
-  border-right: 3px solid #95d8a1;
-}
-.brasilien .toggle-prev {
-  border-bottom: 3px solid #95d8a1;
-  border-left: 3px solid #95d8a1;
-}
 .brasilien .excerpt a {
   color: #626567;
 }
 .brasilien .excerpt a:hover {
-  color: #95d8a1;
+  color: #95D8A1;
 }
 
 .menu .brasilien:hover {
-  color: #95d8a1;
+  color: #95D8A1;
 }
 
 [data-filter=".argentinien"].mixitup-control-active, [data-filter=".argentinien"]:hover {
-  color: #6a9fd6;
+  color: #6A9FD6;
 }
 
 .country-block .argentinien h2 {
   display: inline-block;
-  background: #6a9fd6;
+  background: #6A9FD6;
   color: black;
 }
 
 .fill.argentinien {
-  background: #6a9fd6 !important;
+  background: #6A9FD6 !important;
 }
 
 .argentinien .country-header h1, .argentinien .country-header h2, .argentinien .country-header h3, .argentinien .country-header h4, .argentinien .country-header h5, .argentinien .country-header h6 {
-  background: #6a9fd6;
+  background: #6A9FD6;
   color: black;
   display: inline-block;
 }
@@ -555,7 +505,7 @@ div[data-toggler="true"]:hover {
   background: rgba(0, 0, 0, 0.3);
 }
 .argentinien .icon-wrap svg {
-  fill: #6a9fd6;
+  fill: #6A9FD6;
 }
 .argentinien #btt path,
 .argentinien #btt rect,
@@ -564,14 +514,14 @@ div[data-toggler="true"]:hover {
 .argentinien #bars line, .argentinien #close path,
 .argentinien #close rect,
 .argentinien #close line {
-  fill: #6a9fd6 !important;
+  fill: #6A9FD6 !important;
 }
 .argentinien .mixitup-control-active,
 .argentinien a, .argentinien a.active,
 .argentinien .nav-toggle {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   display: inline-block !important;
-  color: #6a9fd6;
+  color: #6A9FD6;
   text-transform: uppercase;
   background: black;
 }
@@ -583,12 +533,12 @@ div[data-toggler="true"]:hover {
 }
 .argentinien ::-moz-selection,
 .argentinien .sidestory-toggle span {
-  background: #6a9fd6;
+  background: #6A9FD6;
   color: black;
 }
 .argentinien ::selection,
 .argentinien .sidestory-toggle span {
-  background: #6a9fd6;
+  background: #6A9FD6;
   color: black;
 }
 .argentinien ::-moz-selection:hover,
@@ -599,23 +549,15 @@ div[data-toggler="true"]:hover {
 .argentinien .sidestory-toggle span:hover {
   opacity: .8;
 }
-.argentinien .toggle-next {
-  border-top: 3px solid #6a9fd6;
-  border-right: 3px solid #6a9fd6;
-}
-.argentinien .toggle-prev {
-  border-bottom: 3px solid #6a9fd6;
-  border-left: 3px solid #6a9fd6;
-}
 .argentinien .excerpt a {
   color: #626567;
 }
 .argentinien .excerpt a:hover {
-  color: #6a9fd6;
+  color: #6A9FD6;
 }
 
 .menu .argentinien:hover {
-  color: #6a9fd6;
+  color: #6A9FD6;
 }
 
 @font-face {
@@ -987,7 +929,7 @@ body {
   margin: 10px 0;
 }
 .menu a:hover {
-  color: #e3e4e4;
+  color: #E3E4E4;
 }
 
 .content {
@@ -1081,8 +1023,8 @@ body {
     justify-self: center;
     margin: 1rem auto;
     padding: .5rem 15px;
-    border-top: 1px solid #e3e4e4;
-    border-bottom: 1px solid #e3e4e4;
+    border-top: 1px solid #E3E4E4;
+    border-bottom: 1px solid #E3E4E4;
   }
 }
 
@@ -1187,7 +1129,7 @@ body {
   display: inline-block;
   padding: 5px;
   border-radius: 50%;
-  background: #e3e4e4;
+  background: #E3E4E4;
   color: black;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
@@ -1219,23 +1161,47 @@ body {
   font-size: 0;
   width: 35px;
   height: 35px;
-  -webkit-transform: translateY(-50%) rotate(45deg);
-          transform: translateY(-50%) rotate(45deg);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
   cursor: pointer;
 }
 .slider-wrap .navigator.toggle-next {
   right: 30px;
-  box-shadow: 6px -6px 6px rgba(0, 0, 0, 0.7);
 }
-.slider-wrap .navigator.toggle-next:hover {
-  border-color: white;
+.slider-wrap .navigator.toggle-next:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent transparent transparent white;
+  border-width: 20px 34.641px;
+}
+.slider-wrap .navigator.toggle-next:hover:after {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+  border-width: 20px 34.641px;
 }
 .slider-wrap .navigator.toggle-prev {
   left: 30px;
-  box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.7);
 }
-.slider-wrap .navigator.toggle-prev:hover {
-  border-color: white;
+.slider-wrap .navigator.toggle-prev:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+  border-width: 20px 34.641px;
+  position: absolute;
+  right: 0;
+}
+.slider-wrap .navigator.toggle-prev:hover:after {
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent black transparent transparent;
+  border-width: 20px 34.641px;
 }
 
 .slider {
@@ -1542,13 +1508,13 @@ section[class*="chapter"] {
 
 #map .st0 {
   opacity: 0.2;
-  fill: #c9bbb7;
+  fill: #C9BBB7;
   stroke: #FFFFFF;
   stroke-width: 2;
   stroke-miterlimit: 10;
 }
 #map .st1 {
-  fill: #c9bbb7;
+  fill: #C9BBB7;
   stroke: #FFFFFF;
   stroke-width: 2;
   stroke-miterlimit: 10;
@@ -1557,48 +1523,48 @@ section[class*="chapter"] {
   opacity: 0.2;
 }
 #map .st3 {
-  fill: #c9bbb7;
+  fill: #C9BBB7;
 }
 #map #world.active .st1,
 #map #world .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #c9bbb7;
+  fill: #C9BBB7;
   cursor: pointer;
 }
 #map #mexiko.active .st1,
 #map #mexiko .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #fb8662;
+  fill: #FB8662;
   cursor: pointer;
 }
 #map #peru.active .st1,
 #map #peru .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #dc7f76;
+  fill: #DC7F76;
   cursor: pointer;
 }
 #map #kolumbien.active .st1,
 #map #kolumbien .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #f1d728;
+  fill: #F1D728;
   cursor: pointer;
 }
 #map #brasilien.active .st1,
 #map #brasilien .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #95d8a1;
+  fill: #95D8A1;
   cursor: pointer;
 }
 #map #argentinien.active .st1,
 #map #argentinien .st1:hover {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  fill: #6a9fd6;
+  fill: #6A9FD6;
   cursor: pointer;
 }
 
@@ -1754,7 +1720,7 @@ section[class*="chapter"] {
   height: 100%;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
-  background: #c9bbb7;
+  background: #C9BBB7;
 }
 .start main .indexes .bar .fill.world span {
   color: white;

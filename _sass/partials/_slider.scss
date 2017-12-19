@@ -8,22 +8,35 @@
         font-size: 0;
         width: 35px;
         height: 35px;
-        transform: translateY(-50%) rotate(45deg);
+        transform: translateY(-50%);
         cursor: pointer;
-
 
         &.toggle-next{
             right: 30px;
-            box-shadow: 6px -6px 6px rgba(black, .7);
+            &:after{
+                content: '';
+                @include triangle-eqla(40px, right, white);
+            }
+
             &:hover{
-                border-color: white;
+                &:after{
+                    @include triangle-eqla(40px, right, black);
+                }
             }
         }
         &.toggle-prev{
             left: 30px;
-            box-shadow: -6px 6px 6px rgba(black, .7);
+            &:after{
+                content: '';
+                @include triangle-eqla(40px, left, white);
+                position: absolute;
+                right: 0;
+            }
+
             &:hover{
-                border-color: white;
+                &:after{
+                    @include triangle-eqla(40px, left, black);
+                }
             }
         }
     }
