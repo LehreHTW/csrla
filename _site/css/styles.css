@@ -625,6 +625,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   text-transform: uppercase;
   font-weight: bold;
+  text-align: left;
+}
+@media screen and (max-width: 700px) {
+  h1, h2, h3, h4, h5, h6 {
+    -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+            hyphens: auto;
+  }
 }
 
 h1 {
