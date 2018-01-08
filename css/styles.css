@@ -920,7 +920,7 @@ body {
   z-index: 99999;
   color: white;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
-  padding: 1.5rem;
+  padding: 1rem 1.5rem;
   font-size: 1.2em;
   -webkit-transform: translateX(-100%);
           transform: translateX(-100%);
@@ -936,7 +936,9 @@ body {
           transform: translateX(0);
 }
 .menu p {
-  text-align: right;
+  position: absolute;
+  top: 15px;
+  right: 15px;
 }
 .menu a {
   color: white;
@@ -1881,6 +1883,7 @@ section[class*="chapter"] {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   font-size: .8em;
   line-height: 20px;
+  color: white;
 }
 .start main .indexes .bar .fill span span, .start main .indexes .bar .fill p span {
   position: relative;
