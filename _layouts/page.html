@@ -36,10 +36,10 @@
                             {% endfor %}
 
                             {% if prevurl or nexturl %}
-                            <div class="pagination has-sidestories grid">
-                                {% if prevurl %}<span class="prev sidestory sidestory-left"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
-                                {% if nexturl %}<span class="next sidestory sidestory-right"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
-                            </div>
+                                <div class="pagination">
+                                    {% if nexturl %}<span class="next"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
+                                    {% if prevurl %}<span class="prev"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
+                                </div>
                             {% endif %}
                         </div>
                 </section>

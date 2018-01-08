@@ -12,7 +12,7 @@ $(document).ready(function() {
         $(this).children('span').toggleClass('active');
         $(this).parent().toggleClass('active');
         $('body').toggleClass('overlay-active');
-        checkIfInView(overlay);
+        // checkIfInView(overlay);
         $('body').append('<div class="close-overlay"></div>');
 
         // overlay.isOnScreen();

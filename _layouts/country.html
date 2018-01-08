@@ -9,112 +9,112 @@
                 <div class="content">
                     <h1 class="title">{{ page.title }}</h1>
                     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
-                </div>
-                <div class="meta-info">
-                    {% if page.surface %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#land_{{page.title | downcase }}" />
-                                </svg>
+                    <div class="meta-info">
+                        {% if page.surface %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#land_{{page.title | downcase }}" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.surface }} km<sup>2</sup></h2><br>
+                            <h5>Fläche</h5>
                         </div>
-                        <h2>{{ page.surface }} km<sup>2</sup></h2><br>
-                        <h5>Fläche</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.population %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#population" />
-                                </svg>
+                        {% endif %}
+                        {% if page.population %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#population" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.population }}</h2><br>
+                            <h5>Einwohner</h5>
                         </div>
-                        <h2>{{ page.population }}</h2><br>
-                        <h5>Einwohner</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.gdp %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#gdp" />
-                                </svg>
+                        {% endif %}
+                        {% if page.gdp %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#gdp" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>CHF {{ page.gdp }}</h2><br>
+                            <h5>BIP pro Kopf 2016 (nominal)</h5>
                         </div>
-                        <h2>CHF {{ page.gdp }}</h2><br>
-                        <h5>BIP pro Kopf 2016 (nominal)</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.altitude %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#altitude" />
-                                </svg>
+                        {% endif %}
+                        {% if page.altitude %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#altitude" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.altitude }} m ü. M.</h2><br>
+                            <h5>Höhe der Hauptstadt</h5>
                         </div>
-                        <h2>{{ page.altitude }} m ü. M.</h2><br>
-                        <h5>Höhe der Hauptstadt</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.flight %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#plane" />
-                                </svg>
+                        {% endif %}
+                        {% if page.flight %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#plane" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.flight }} km</h2><br>
+                            <h5>Flugstrecke</h5>
                         </div>
-                        <h2>{{ page.flight }} km</h2><br>
-                        <h5>Flugstrecke</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.cabrides %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#taxi" />
-                                </svg>
+                        {% endif %}
+                        {% if page.cabrides %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#taxi" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.cabrides }}</h2><br>
+                            <h5>Taxifahrten</h5>
                         </div>
-                        <h2>{{ page.cabrides }}</h2><br>
-                        <h5>Taxifahrten</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.interviews %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#interview" />
-                                </svg>
+                        {% endif %}
+                        {% if page.interviews %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#interview" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.interviews }} min</h2><br>
+                            <h5>Interviews</h5>
                         </div>
-                        <h2>{{ page.interviews }} min</h2><br>
-                        <h5>Interviews</h5>
-                    </div>
-                    {% endif %}
-                    {% if page.hoehe %}
-                    <div class="meta-box">
-                        <div class="icon-wrapper">
-                            <div class="icon-wrap">
-                                <svg class="icon">
-                                  <use xlink:href="#altitude" />
-                                </svg>
+                        {% endif %}
+                        {% if page.hoehe %}
+                        <div class="meta-box">
+                            <div class="icon-wrapper">
+                                <div class="icon-wrap">
+                                    <svg class="icon">
+                                      <use xlink:href="#altitude" />
+                                    </svg>
+                                </div>
                             </div>
+                            <h2>{{ page.hoehe }}</h2><br>
+                            <h5>Höhenmeter</h5>
                         </div>
-                        <h2>{{ page.hoehe }}</h2><br>
-                        <h5>Höhenmeter</h5>
+                        {% endif %}
                     </div>
-                    {% endif %}
                 </div>
             </div>
             <div class="img-overlay"></div>
@@ -145,9 +145,9 @@
                     {% endfor %}
 
                     {% if prevurl or nexturl %}
-                        <div class="pagination has-sidestories grid">
-                            {% if prevurl %}<span class="prev sidestory sidestory-left"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
-                            {% if nexturl %}<span class="next sidestory sidestory-right"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
+                        <div class="pagination">
+                            {% if nexturl %}<span class="next"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
+                            {% if prevurl %}<span class="prev"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
                         </div>
                     {% endif %}
                 </div>

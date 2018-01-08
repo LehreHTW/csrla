@@ -5,6 +5,15 @@
     background-size: cover;
     position: relative;
 
+    @media screen and (max-width: $sidestory-break){
+        height: 800px;
+    }
+
+    @media screen and (max-width: 370px){
+        height: 900px;
+    }
+
+
     .grid{
         position: absolute;
         @include flexbox(column, wrap, space-between, center);
@@ -14,8 +23,9 @@
     }
 
     .content{
-        max-width: auto;
+        // max-width: auto;
         width: 150%;
+        position: relative;
 
         text-align: center;
         color: white;
@@ -26,7 +36,10 @@
     }
 
     .meta-info{
-        width: 100%;
+        width: 100vw;
+        transform: translateX(-50%);
+        left: 50%;
+        position: absolute;
         // background: rgba(black, .3);
         grid-column-start: 1;
         grid-column-end: 4;
@@ -35,16 +48,30 @@
         color: white;
         // text-shadow: 0px 0px 2px rgba(black, .5);
         text-align: center;
-        margin-top: 50px;
+        margin-top: 150px;
+        transform-origin: 50% 0;
 
         @media screen and (max-width: $sidestory-break){
-            transform: scale(.6);
+            transform: translateX(-50%) scale(.6);
+        }
+
+        @media screen and (max-width: 370px){
+            margin-top: 10px;
         }
 
         .meta-box{
             width: 25%;
             box-sizing: border-box;
             padding: 20px;
+
+            @media screen and (max-width: 790px){
+                width: 50%;
+            }
+
+            @media screen and (max-width: 370px){
+                width: 100%;
+                padding: 5px;
+            }
         }
         h2{
             text-transform: none;
@@ -61,6 +88,9 @@
         font-size: 3em;
         line-height: 1;
         margin: 0;
+        @media screen and (max-width: $sidestory-break){
+            font-size: 2.5em;
+        }
     }
 
     .subtitle{
@@ -68,6 +98,9 @@
         line-height: 1;
         margin: 0;
         font-weight: normal;
+        @media screen and (max-width: $sidestory-break){
+            font-size: 2em;
+        }
     }
 
 }
@@ -101,6 +134,10 @@ section[class*="chapter"]{
 .pagination{
     width: 100%;
     font-family: $headings-font;
+    margin: 10px 0;
+    padding: 15px;
+    box-sizing: border-box;
+    @include flexbox(row-reverse, wrap, space-between, center);
 
     a{
         display: inline-block;

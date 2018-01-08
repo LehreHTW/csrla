@@ -1,65 +1,57 @@
 .start{
     main{
-        display: grid;
-        grid-template-columns: repeat(12, 1fr);
-        grid-template-rows: repeat(6, 1fr);
         width: 100%;
-        height: calc(100vh - 42px);
-        min-width: 0;
-        min-height: 0;
-        box-sizing: border-box;
+        height: 100vh;
         padding: 30px;
+        @include flexbox(row, wrap, space-between, center);
 
-        .paginator{
-            grid-column-start: 1;
-            grid-column-end: span 12;
-            grid-row-start: 7;
-            grid-row-end: span 1;
-            align-self: start;
-            justify-self: end;
+        .title-alt{
+            display: none;
 
+            @media screen and (max-width: $home-break-4){
+                display: block;
+            }
+        }
+        .size-container{
+            width: 130%;
+
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: -25%;
         }
 
         .karte{
-            grid-column-start: 3;
-            grid-column-end: 9;
-            grid-row-start: 1;
-            grid-row-end: span 6;
-            justify-self: center;
-            align-self: center;
-            width: 100%;
-            height: 100%;
-            @include flexbox(column, wrap, center, center);
+            width: 30%;
+            position: relative;
         }
-        .size-container{
-            width: 80%;
+        .left{
+            width: 30%;
+            transform: translateX(4vw);
+        }
+        .indexes{
+            width: 30%;
+
+            > div{
+                width: 100%;
+            }
         }
 
         .main-project-title{
-            grid-column-start: 1;
-            grid-column-end: span 4;
-            grid-row-start: 3;
-            grid-row-end: span 1;
-            text-align: right;
-            align-self: start;
-            justify-self: end;
+            margin-top: 12vh;
 
             h1{
                 margin: 0;
                 padding: 0;
+                text-align: right;
+            }
+            @media screen and (max-width: $home-break-4){
+                display: none;
             }
         }
 
         .country-block{
-            grid-column-start: 2;
-            grid-column-end: span 3;
-            grid-row-start: 4;
-            text-align: right;
-            align-self: start;
-            justify-self: end;
             padding-top: 2.4em;
-            min-width: 0;
-            min-height: 0;
 
             div{
                 opacity: 1;
@@ -86,10 +78,6 @@
         }
 
         .indexes{
-            grid-column-start: 9;
-            grid-column-end: span 3;
-            grid-row-start: 2;
-            grid-row-end: span 4;
             font-family: $headings-font;
             line-height: 1;
             min-width: 0;
@@ -126,6 +114,7 @@
                     height: 100%;
                     transition: .3s all ease;
                     background: $world;
+                    display: none;
 
                     &.world{
                         // background: $world;
@@ -134,12 +123,18 @@
                         }
                     }
 
-                    span{
+                    span, p{
                         position: absolute;
                         right: 5px;
                         font-family: $headings-font;
                         font-size: .8em;
                         line-height: 20px;
+
+                        span{
+                            position: relative;
+                            right: 0;
+                            font-size: 1em;
+                        }
                     }
                 }
             }

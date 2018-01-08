@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6{
 h1{
     font-size: 2em;
     line-height: 1.05;
-    margin-bottom: 2.5rem / 2;
+    margin-bottom: (2.5rem / 2);
     margin-top: 2.5rem;
 
     .sidestory &{
@@ -58,7 +58,7 @@ h1{
 h2{
     font-size: 1.75em;
     line-height: 1.25;
-    margin-bottom: 1.25rem / 2;
+    margin-bottom: (1.25rem / 2);
     margin-top: 1.25rem;
 
     .sidestory &{
@@ -69,7 +69,7 @@ h2{
 h3{
     font-size: 1.5em;
     line-height: 1.25;
-    margin-bottom: 1.25rem / 2;
+    margin-bottom: (1.25rem / 2);
     margin-top: 1.25rem;
 
     .sidestory &{
@@ -80,7 +80,7 @@ h3{
 h4{
     font-size: 1.125em;
     line-height: 1.22;
-    margin-bottom: .5rem / 2;
+    margin-bottom: (.5rem / 2);
     margin-top: .5rem;
 
     .sidestory &{
@@ -90,7 +90,7 @@ h4{
 
 h5{
     font-size: 1.1em;
-    margin-bottom: .3rem / 2;
+    margin-bottom: (.3rem / 2);
     margin-top: .3rem;
 
     .sidestory &{
@@ -100,7 +100,7 @@ h5{
 
 h6{
     font-size: 1em;
-    margin-bottom: .25rem / 2;
+    margin-bottom: (.25rem / 2);
     margin-top: .25rem;
 
     .sidestory &{
@@ -110,7 +110,7 @@ h6{
 
 img{
     max-width: 100%;
-    heigh: auto;
+    height: auto;
 }
 
 .image{
@@ -121,7 +121,7 @@ img{
     margin: 1.5rem 0;
 
     img{
-        max-width: auto;
+        // max-width: auto;
         width: 100%;
     }
 }

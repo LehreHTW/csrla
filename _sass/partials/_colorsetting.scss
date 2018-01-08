@@ -1,6 +1,6 @@
 footer a{
     &, &:hover{
-        background: transparent !important;        
+        background: transparent !important;
     }
 }
 
@@ -71,6 +71,7 @@ div[data-toggler="true"] {
     }
     .fill.#{$l}{
         background: $c !important;
+        display: block !important;
     }
     .#{$l} {
         .country-header{
