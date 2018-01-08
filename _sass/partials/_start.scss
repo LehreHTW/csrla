@@ -1,7 +1,8 @@
 .start{
     main{
         width: 100%;
-        height: 100vh;
+        min-height: 100vh;
+        height: auto;
         padding: 30px;
         box-sizing: border-box;
         @include flexbox(row, wrap, space-between, center);
@@ -30,6 +31,10 @@
             left: -25%;
 
             @media screen and (max-width: $home-break-2){
+                width: 90%;
+            }
+
+            @media screen and (max-width: $home-break-3){
                 width: 120%;
             }
         }
@@ -69,6 +74,12 @@
                 margin: 0;
                 padding: 0;
                 text-align: right;
+                font-size: 2em;
+
+                @media screen and (max-width: $home-break-2){
+                    font-size: 1.75em;
+                }
+
             }
             @media screen and (max-width: $home-break-4){
                 display: none;

@@ -1646,7 +1646,8 @@ section[class*="chapter"] {
 
 .start main {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   padding: 30px;
   box-sizing: border-box;
   display: -webkit-box;
@@ -1690,6 +1691,11 @@ section[class*="chapter"] {
   left: -25%;
 }
 @media screen and (max-width: 1150px) {
+  .start main .size-container {
+    width: 90%;
+  }
+}
+@media screen and (max-width: 790px) {
   .start main .size-container {
     width: 120%;
   }
@@ -1751,6 +1757,12 @@ section[class*="chapter"] {
   margin: 0;
   padding: 0;
   text-align: right;
+  font-size: 2em;
+}
+@media screen and (max-width: 1150px) {
+  .start main .main-project-title h1 {
+    font-size: 1.75em;
+  }
 }
 @media screen and (max-width: 680px) {
   .start main .main-project-title {
