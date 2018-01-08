@@ -1648,6 +1648,7 @@ section[class*="chapter"] {
   width: 100%;
   height: 100vh;
   padding: 30px;
+  box-sizing: border-box;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1663,6 +1664,14 @@ section[class*="chapter"] {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+}
+.start main p {
+  line-height: 1.25em;
+}
+@media screen and (max-width: 1400px) {
+  .start main {
+    font-size: 80%;
+  }
 }
 .start main .title-alt {
   display: none;
@@ -1680,20 +1689,60 @@ section[class*="chapter"] {
           transform: translateY(-50%);
   left: -25%;
 }
+@media screen and (max-width: 1150px) {
+  .start main .size-container {
+    width: 120%;
+  }
+}
 .start main .karte {
   width: 30%;
   position: relative;
+}
+@media screen and (max-width: 1150px) {
+  .start main .karte {
+    width: 47%;
+  }
 }
 .start main .left {
   width: 30%;
   -webkit-transform: translateX(4vw);
           transform: translateX(4vw);
 }
+@media screen and (max-width: 1150px) {
+  .start main .left {
+    width: 47%;
+  }
+}
 .start main .indexes {
   width: 30%;
 }
+@media screen and (max-width: 1150px) {
+  .start main .indexes {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+}
 .start main .indexes > div {
   width: 100%;
+}
+@media screen and (max-width: 1150px) {
+  .start main .indexes > div {
+    width: 30%;
+  }
 }
 .start main .main-project-title {
   margin-top: 12vh;
@@ -1739,7 +1788,7 @@ section[class*="chapter"] {
   min-height: 0;
 }
 .start main .indexes > div {
-  padding: 20px 0;
+  padding: 5px 0;
 }
 .start main .indexes .countries span {
   display: none;
