@@ -927,6 +927,7 @@ body {
   box-sizing: border-box;
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
+  overflow: auto;
 }
 .menu .nav-toggle {
   cursor: pointer;

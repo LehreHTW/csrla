@@ -45,6 +45,7 @@
     transform: translateX(-100%);
     box-sizing: border-box;
     transition: .3s all ease;
+    overflow: auto;
     .nav-toggle{
         cursor: pointer;
     }
