@@ -40,7 +40,7 @@
     z-index: 99999;
     color: white;
     font-family: $headings-font;
-    padding: 1.5rem;
+    padding: 1rem 1.5rem;
     font-size: 1.2em;
     transform: translateX(-100%);
     box-sizing: border-box;
@@ -52,7 +52,10 @@
         transform: translateX(0);
     }
     p{
-        text-align: right;
+            position: absolute;
+            top: 15px;
+            right: 15px;
+
     }
     a{
         color: white;
