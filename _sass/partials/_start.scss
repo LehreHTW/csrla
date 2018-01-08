@@ -73,8 +73,11 @@
             @media screen and (max-width: $home-break-4){
                 width: 100%;
                 transform: none;
-                div{
-                    text-align: left;                    
+                div {
+                    div,
+                    p{
+                        text-align: left !important;
+                    }
                 }
             }
         }
