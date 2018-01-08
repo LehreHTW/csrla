@@ -108,6 +108,7 @@ div[data-toggler="true"]:hover {
 
 .fill.world {
   background: #C9BBB7 !important;
+  display: block !important;
 }
 
 .world .country-header h1, .world .country-header h2, .world .country-header h3, .world .country-header h4, .world .country-header h5, .world .country-header h6 {
@@ -186,6 +187,7 @@ div[data-toggler="true"]:hover {
 
 .fill.mexiko {
   background: #FB8662 !important;
+  display: block !important;
 }
 
 .mexiko .country-header h1, .mexiko .country-header h2, .mexiko .country-header h3, .mexiko .country-header h4, .mexiko .country-header h5, .mexiko .country-header h6 {
@@ -264,6 +266,7 @@ div[data-toggler="true"]:hover {
 
 .fill.peru {
   background: #DC7F76 !important;
+  display: block !important;
 }
 
 .peru .country-header h1, .peru .country-header h2, .peru .country-header h3, .peru .country-header h4, .peru .country-header h5, .peru .country-header h6 {
@@ -342,6 +345,7 @@ div[data-toggler="true"]:hover {
 
 .fill.kolumbien {
   background: #F1D728 !important;
+  display: block !important;
 }
 
 .kolumbien .country-header h1, .kolumbien .country-header h2, .kolumbien .country-header h3, .kolumbien .country-header h4, .kolumbien .country-header h5, .kolumbien .country-header h6 {
@@ -420,6 +424,7 @@ div[data-toggler="true"]:hover {
 
 .fill.brasilien {
   background: #95D8A1 !important;
+  display: block !important;
 }
 
 .brasilien .country-header h1, .brasilien .country-header h2, .brasilien .country-header h3, .brasilien .country-header h4, .brasilien .country-header h5, .brasilien .country-header h6 {
@@ -498,6 +503,7 @@ div[data-toggler="true"]:hover {
 
 .fill.argentinien {
   background: #6A9FD6 !important;
+  display: block !important;
 }
 
 .argentinien .country-header h1, .argentinien .country-header h2, .argentinien .country-header h3, .argentinien .country-header h4, .argentinien .country-header h5, .argentinien .country-header h6 {
@@ -638,7 +644,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2em;
   line-height: 1.05;
-  margin-bottom: 2.5rem / 2;
+  margin-bottom: 1.25rem;
   margin-top: 2.5rem;
 }
 .sidestory h1 {
@@ -648,7 +654,7 @@ h1 {
 h2 {
   font-size: 1.75em;
   line-height: 1.25;
-  margin-bottom: 1.25rem / 2;
+  margin-bottom: 0.625rem;
   margin-top: 1.25rem;
 }
 .sidestory h2 {
@@ -658,7 +664,7 @@ h2 {
 h3 {
   font-size: 1.5em;
   line-height: 1.25;
-  margin-bottom: 1.25rem / 2;
+  margin-bottom: 0.625rem;
   margin-top: 1.25rem;
 }
 .sidestory h3 {
@@ -668,7 +674,7 @@ h3 {
 h4 {
   font-size: 1.125em;
   line-height: 1.22;
-  margin-bottom: .5rem / 2;
+  margin-bottom: 0.25rem;
   margin-top: .5rem;
 }
 .sidestory h4 {
@@ -677,7 +683,7 @@ h4 {
 
 h5 {
   font-size: 1.1em;
-  margin-bottom: .3rem / 2;
+  margin-bottom: 0.15rem;
   margin-top: .3rem;
 }
 .sidestory h5 {
@@ -686,7 +692,7 @@ h5 {
 
 h6 {
   font-size: 1em;
-  margin-bottom: .25rem / 2;
+  margin-bottom: 0.125rem;
   margin-top: .25rem;
 }
 .sidestory h6 {
@@ -695,7 +701,7 @@ h6 {
 
 img {
   max-width: 100%;
-  heigh: auto;
+  height: auto;
 }
 
 .image {
@@ -706,7 +712,6 @@ img {
   margin: 1.5rem 0;
 }
 .image img {
-  max-width: auto;
   width: 100%;
 }
 
@@ -938,7 +943,6 @@ body {
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   text-transform: uppercase;
   font-weight: bold;
-  margin: 10px 0;
 }
 .menu a:hover {
   color: #E3E4E4;
@@ -1254,6 +1258,16 @@ body {
   background-size: cover;
   position: relative;
 }
+@media screen and (max-width: 1090px) {
+  .country-header {
+    height: 800px;
+  }
+}
+@media screen and (max-width: 370px) {
+  .country-header {
+    height: 900px;
+  }
+}
 .country-header .grid {
   position: absolute;
   display: -webkit-box;
@@ -1276,8 +1290,8 @@ body {
   z-index: 4;
 }
 .country-header .content {
-  max-width: auto;
   width: 150%;
+  position: relative;
   text-align: center;
   color: white;
 }
@@ -1287,7 +1301,11 @@ body {
   }
 }
 .country-header .meta-info {
-  width: 100%;
+  width: 100vw;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  left: 50%;
+  position: absolute;
   -ms-grid-column: 1;
       grid-column-start: 1;
   grid-column-end: 4;
@@ -1308,18 +1326,36 @@ body {
           align-items: flex-start;
   color: white;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 150px;
+  -webkit-transform-origin: 50% 0;
+          transform-origin: 50% 0;
 }
 @media screen and (max-width: 1090px) {
   .country-header .meta-info {
-    -webkit-transform: scale(0.6);
-            transform: scale(0.6);
+    -webkit-transform: translateX(-50%) scale(0.6);
+            transform: translateX(-50%) scale(0.6);
+  }
+}
+@media screen and (max-width: 370px) {
+  .country-header .meta-info {
+    margin-top: 10px;
   }
 }
 .country-header .meta-info .meta-box {
   width: 25%;
   box-sizing: border-box;
   padding: 20px;
+}
+@media screen and (max-width: 790px) {
+  .country-header .meta-info .meta-box {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 370px) {
+  .country-header .meta-info .meta-box {
+    width: 100%;
+    padding: 5px;
+  }
 }
 .country-header .meta-info h2 {
   text-transform: none;
@@ -1334,11 +1370,21 @@ body {
   line-height: 1;
   margin: 0;
 }
+@media screen and (max-width: 1090px) {
+  .country-header .title {
+    font-size: 2.5em;
+  }
+}
 .country-header .subtitle {
   font-size: 2.5em;
   line-height: 1;
   margin: 0;
   font-weight: normal;
+}
+@media screen and (max-width: 1090px) {
+  .country-header .subtitle {
+    font-size: 2em;
+  }
 }
 
 .img-overlay {
@@ -1371,6 +1417,24 @@ section[class*="chapter"] {
 .pagination {
   width: 100%;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
+  margin: 10px 0;
+  padding: 15px;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 .pagination a {
   display: inline-block;
@@ -1581,96 +1645,71 @@ section[class*="chapter"] {
 }
 
 .start main {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (1fr)[12];
-      grid-template-columns: repeat(12, 1fr);
-  -ms-grid-rows: (1fr)[6];
-      grid-template-rows: repeat(6, 1fr);
   width: 100%;
-  height: calc(100vh - 42px);
-  min-width: 0;
-  min-height: 0;
-  box-sizing: border-box;
+  height: 100vh;
   padding: 30px;
-}
-.start main .paginator {
-  -ms-grid-column: 1;
-      grid-column-start: 1;
-  -ms-grid-column-span: 12;
-      grid-column-end: span 12;
-  -ms-grid-row: 7;
-      grid-row-start: 7;
-  -ms-grid-row-span: 1;
-      grid-row-end: span 1;
-  -ms-flex-item-align: start;
-      align-self: start;
-  justify-self: end;
-}
-.start main .karte {
-  -ms-grid-column: 3;
-      grid-column-start: 3;
-  grid-column-end: 9;
-  -ms-grid-row: 1;
-      grid-row-start: 1;
-  -ms-grid-row-span: 6;
-      grid-row-end: span 6;
-  justify-self: center;
-  -ms-flex-item-align: center;
-      align-self: center;
-  width: 100%;
-  height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
+  -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+      -ms-flex-direction: row;
+          flex-direction: row;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
 }
+.start main .title-alt {
+  display: none;
+}
+@media screen and (max-width: 680px) {
+  .start main .title-alt {
+    display: block;
+  }
+}
 .start main .size-container {
-  width: 80%;
+  width: 130%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  left: -25%;
+}
+.start main .karte {
+  width: 30%;
+  position: relative;
+}
+.start main .left {
+  width: 30%;
+  -webkit-transform: translateX(4vw);
+          transform: translateX(4vw);
+}
+.start main .indexes {
+  width: 30%;
+}
+.start main .indexes > div {
+  width: 100%;
 }
 .start main .main-project-title {
-  -ms-grid-column: 1;
-      grid-column-start: 1;
-  -ms-grid-column-span: 4;
-      grid-column-end: span 4;
-  -ms-grid-row: 3;
-      grid-row-start: 3;
-  -ms-grid-row-span: 1;
-      grid-row-end: span 1;
-  text-align: right;
-  -ms-flex-item-align: start;
-      align-self: start;
-  justify-self: end;
+  margin-top: 12vh;
 }
 .start main .main-project-title h1 {
   margin: 0;
   padding: 0;
+  text-align: right;
+}
+@media screen and (max-width: 680px) {
+  .start main .main-project-title {
+    display: none;
+  }
 }
 .start main .country-block {
-  -ms-grid-column: 2;
-      grid-column-start: 2;
-  -ms-grid-column-span: 3;
-      grid-column-end: span 3;
-  -ms-grid-row: 4;
-      grid-row-start: 4;
-  text-align: right;
-  -ms-flex-item-align: start;
-      align-self: start;
-  justify-self: end;
   padding-top: 2.4em;
-  min-width: 0;
-  min-height: 0;
 }
 .start main .country-block div {
   opacity: 1;
@@ -1694,14 +1733,6 @@ section[class*="chapter"] {
   opacity: 0;
 }
 .start main .indexes {
-  -ms-grid-column: 9;
-      grid-column-start: 9;
-  -ms-grid-column-span: 3;
-      grid-column-end: span 3;
-  -ms-grid-row: 2;
-      grid-row-start: 2;
-  -ms-grid-row-span: 4;
-      grid-row-end: span 4;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   line-height: 1;
   min-width: 0;
@@ -1733,16 +1764,22 @@ section[class*="chapter"] {
   -webkit-transition: .3s all ease;
   transition: .3s all ease;
   background: #C9BBB7;
+  display: none;
 }
 .start main .indexes .bar .fill.world span {
   color: white;
 }
-.start main .indexes .bar .fill span {
+.start main .indexes .bar .fill span, .start main .indexes .bar .fill p {
   position: absolute;
   right: 5px;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
   font-size: .8em;
   line-height: 20px;
+}
+.start main .indexes .bar .fill span span, .start main .indexes .bar .fill p span {
+  position: relative;
+  right: 0;
+  font-size: 1em;
 }
 .start footer {
   margin-top: 0;
