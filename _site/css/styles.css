@@ -1363,23 +1363,13 @@ body {
 
 .country-header {
   width: 100%;
-  height: 100vh;
   background-position: center center;
   background-size: cover;
   position: relative;
-}
-@media screen and (max-width: 1090px) {
-  .country-header {
-    height: 800px;
-  }
-}
-@media screen and (max-width: 520px) {
-  .country-header {
-    height: 850px;
-  }
+  height: auto;
 }
 .country-header .grid {
-  position: absolute;
+  position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1395,8 +1385,8 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 70vh;
-  top: 15vh;
+  height: auto;
+  padding-top: 15vh;
   z-index: 4;
 }
 .country-header .content {
@@ -1415,7 +1405,7 @@ body {
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   left: 50%;
-  position: absolute;
+  position: relative;
   -ms-grid-column: 1;
       grid-column-start: 1;
   grid-column-end: 4;
@@ -1436,24 +1426,15 @@ body {
           align-items: flex-start;
   color: white;
   text-align: center;
-  margin-top: 35vh;
+  margin-top: 7.5vh;
+  margin-bottom: 20vh;
   -webkit-transform-origin: 50% 0;
           transform-origin: 50% 0;
-}
-@media screen and (max-width: 1300px) {
-  .country-header .meta-info {
-    margin-top: 15vh;
-  }
 }
 @media screen and (max-width: 1090px) {
   .country-header .meta-info {
     -webkit-transform: translateX(-50%) scale(0.6);
             transform: translateX(-50%) scale(0.6);
-  }
-}
-@media screen and (max-width: 520px) {
-  .country-header .meta-info {
-    margin-top: 7.5vh;
   }
 }
 .country-header .meta-info .meta-box {
@@ -1555,11 +1536,30 @@ section[class*="chapter"] {
 .pagination span:nth-of-type(1) {
   padding-left: 30px;
 }
+@media screen and (max-width: 450px) {
+  .pagination span:nth-of-type(1) {
+    padding-left: 15px;
+  }
+}
 .pagination .prev {
   text-align: left;
 }
 .pagination .next {
   text-align: right;
+}
+
+.page-content {
+  -webkit-transform: translateY(calc(-10vh - 2.5rem));
+          transform: translateY(calc(-10vh - 2.5rem));
+  position: relative;
+  z-index: 3;
+  padidng-top: 0;
+}
+.page-content section:first-of-type .content:first-of-type {
+  background: white;
+  position: relative;
+  box-sizing: content-box;
+  padding: 1rem 2.5rem 0;
 }
 
 .filter {
