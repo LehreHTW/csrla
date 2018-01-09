@@ -54,7 +54,8 @@
         transform-origin: 50% 0;
 
         @media screen and (max-width: $sidestory-break){
-            transform: translateX(-50%) scale(.6);
+          width: 70%;
+          font-size: 60%;
         }
 
         .meta-box{
@@ -170,19 +171,20 @@ section[class*="chapter"]{
 }
 
 
+@media screen and (min-width: 890px){
+  .page-content{
+      transform: translateY(calc(-10vh - 2.5rem));
+      position: relative;
+      z-index: 3;
+      padidng-top: 0;
 
-.page-content{
-    transform: translateY(calc(-10vh - 2.5rem));
-    position: relative;
-    z-index: 3;
-    padidng-top: 0;
-
-    section:first-of-type{
-        .content:first-of-type{
-            background: white;
-            position: relative;
-            box-sizing: content-box;
-            padding: 1rem 2.5rem 0;
-        }
-    }
+      section:first-of-type{
+          .content:first-of-type{
+              background: white;
+              position: relative;
+              box-sizing: content-box;
+              padding: 1rem 2.5rem 0;
+          }
+      }
+  }  
 }

@@ -1,7 +1,7 @@
 <div class="navbar">
     <span class="nav-toggle link">Inhaltsverzeichnis</span>
     <div class="right">
-    {% assign  document = site.pages | sort: "order" %}
+      {% assign  document = site.pages | sort: "order" | where: 'exclude', 'false' %}
             {% for links in document %}
                 {% if links.title == page.title %}
 

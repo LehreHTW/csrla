@@ -8,7 +8,7 @@ body, html{
     line-height: $main-line-height;
     color: $text-color;
     background: $whiteish;
-
+    
     @media screen and (max-width: $font-break){
         font-size: $mobile-main-font-size;
     }

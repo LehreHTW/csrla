@@ -1,6 +1,10 @@
 .icon-wrapper{
     width: 100px;
     margin: auto;
+
+    @media screen and (max-width: $sidestory-break){
+      width: 70px;
+    }
 }
 .icon-wrap{
     @include paddinghack(100%, 1, 1, "svg");
