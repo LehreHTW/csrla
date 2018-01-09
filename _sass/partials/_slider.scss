@@ -16,6 +16,7 @@
             &:after{
                 content: '';
                 @include triangle-eqla(40px, right, white);
+                position: absolute;
             }
 
             &:hover{

@@ -143,6 +143,20 @@ div[data-toggler="true"] {
         }
 
     }
+    .menu .#{$l}{
+        position: relative;
+        margin-left: 20px;
+        &:before{
+            content: '';
+            width: 10px;
+            height: 10px;
+            background: $c;
+            position: absolute;
+            top: 50%;
+            right: calc(100% + 10px);
+            transform: translateY(-50%);
+        }
+    }
     .menu .#{$l}:hover{
         color: $c;
     }

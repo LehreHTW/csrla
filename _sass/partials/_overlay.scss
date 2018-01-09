@@ -18,7 +18,7 @@
     line-height: 1.25;
     position: relative;
     z-index: 99;
-    height: 50vh;
+    height: 60vh;
     opacity: 1;
     transition: .5s all ease;
 
@@ -44,7 +44,7 @@
                 content: '';
                 @include triangle(20px, right, $darkgray);
                 left: 100%;
-                top: calc(50% - 10px);
+                top: 30px;
                 position: absolute;
             }
         }
@@ -58,7 +58,7 @@
                 content: '';
                 @include triangle(20px, left, $darkgray);
                 right: 100%;
-                top: calc(50% - 10px);
+                top: 30px;
                 position: absolute;
             }
         }

@@ -171,6 +171,22 @@ div[data-toggler="true"]:hover {
   color: #C9BBB7;
 }
 
+.menu .world {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .world:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #C9BBB7;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 .menu .world:hover {
   color: #C9BBB7;
 }
@@ -248,6 +264,22 @@ div[data-toggler="true"]:hover {
 }
 .mexiko .excerpt a:hover {
   color: #FB8662;
+}
+
+.menu .mexiko {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .mexiko:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #FB8662;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .menu .mexiko:hover {
@@ -329,6 +361,22 @@ div[data-toggler="true"]:hover {
   color: #DC7F76;
 }
 
+.menu .peru {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .peru:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #DC7F76;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 .menu .peru:hover {
   color: #DC7F76;
 }
@@ -406,6 +454,22 @@ div[data-toggler="true"]:hover {
 }
 .kolumbien .excerpt a:hover {
   color: #F1D728;
+}
+
+.menu .kolumbien {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .kolumbien:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #F1D728;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .menu .kolumbien:hover {
@@ -487,6 +551,22 @@ div[data-toggler="true"]:hover {
   color: #95D8A1;
 }
 
+.menu .brasilien {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .brasilien:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #95D8A1;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
 .menu .brasilien:hover {
   color: #95D8A1;
 }
@@ -564,6 +644,22 @@ div[data-toggler="true"]:hover {
 }
 .argentinien .excerpt a:hover {
   color: #6A9FD6;
+}
+
+.menu .argentinien {
+  position: relative;
+  margin-left: 20px;
+}
+.menu .argentinien:before {
+  content: '';
+  width: 10px;
+  height: 10px;
+  background: #6A9FD6;
+  position: absolute;
+  top: 50%;
+  right: calc(100% + 10px);
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
 }
 
 .menu .argentinien:hover {
@@ -737,7 +833,6 @@ img {
   height: 0;
   padding: 56.25% 0 0 0;
   display: block;
-  margin: 1.5rem 0;
 }
 .video iframe, .video video {
   position: absolute;
@@ -867,7 +962,7 @@ body {
 }
 
 .navbar {
-  padding: 15px;
+  padding: 7px 15px;
   position: fixed;
   top: 0;
   left: 0;
@@ -889,15 +984,26 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  background: #211F1F;
+  font-weight: bold;
+}
+@media screen and (max-width: 450px) {
+  .navbar {
+    font-size: .8em !important;
+  }
 }
 .navbar svg {
+  position: absolute;
+  top: 80px;
   height: 50px;
+  right: 15px;
+}
+.navbar .right {
+  width: auto;
 }
 .navbar .nav-toggle {
-  font-size: 2em;
+  font-size: 1em;
   cursor: pointer;
-  -webkit-transform: scale(1, 0.8);
-          transform: scale(1, 0.8);
   display: inline-block;
   opacity: 1;
   -webkit-transition: .3s all ease;
@@ -991,8 +1097,8 @@ body {
   -ms-grid-columns: 1fr 2fr 1fr;
       grid-template-columns: 1fr 2fr 1fr;
   grid-template-areas: "sidestory-left content sidestory-right";
-  -ms-grid-row-align: center;
-      align-items: center;
+  -ms-grid-row-align: start;
+      align-items: start;
 }
 .grid .sidestory-left {
   grid-area: sidestory-left;
@@ -1070,7 +1176,7 @@ body {
   line-height: 1.25;
   position: relative;
   z-index: 99;
-  height: 50vh;
+  height: 60vh;
   opacity: 1;
   -webkit-transition: .5s all ease;
   transition: .5s all ease;
@@ -1101,7 +1207,7 @@ body {
     border-color: transparent transparent transparent #484444;
     border-width: 20px;
     left: 100%;
-    top: calc(50% - 10px);
+    top: 30px;
     position: absolute;
   }
 }
@@ -1117,7 +1223,7 @@ body {
     border-color: transparent #484444 transparent transparent;
     border-width: 20px;
     right: 100%;
-    top: calc(50% - 10px);
+    top: 30px;
     position: absolute;
   }
 }
@@ -1194,6 +1300,7 @@ body {
   border-style: solid;
   border-color: transparent transparent transparent white;
   border-width: 20px 34.641px;
+  position: absolute;
 }
 .slider-wrap .navigator.toggle-next:hover:after {
   width: 0;
@@ -1266,9 +1373,9 @@ body {
     height: 800px;
   }
 }
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 520px) {
   .country-header {
-    height: 900px;
+    height: 850px;
   }
 }
 .country-header .grid {
@@ -1329,9 +1436,14 @@ body {
           align-items: flex-start;
   color: white;
   text-align: center;
-  margin-top: 150px;
+  margin-top: 35vh;
   -webkit-transform-origin: 50% 0;
           transform-origin: 50% 0;
+}
+@media screen and (max-width: 1300px) {
+  .country-header .meta-info {
+    margin-top: 15vh;
+  }
 }
 @media screen and (max-width: 1090px) {
   .country-header .meta-info {
@@ -1339,9 +1451,9 @@ body {
             transform: translateX(-50%) scale(0.6);
   }
 }
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 520px) {
   .country-header .meta-info {
-    margin-top: 10px;
+    margin-top: 7.5vh;
   }
 }
 .country-header .meta-info .meta-box {
@@ -1354,7 +1466,7 @@ body {
     width: 50%;
   }
 }
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 520px) {
   .country-header .meta-info .meta-box {
     width: 100%;
     padding: 5px;
@@ -1420,8 +1532,6 @@ section[class*="chapter"] {
 .pagination {
   width: 100%;
   font-family: "PT Sans Narrow", "Helvetica Neue Condensed", sans-serif;
-  margin: 10px 0;
-  padding: 15px;
   box-sizing: border-box;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1441,6 +1551,9 @@ section[class*="chapter"] {
 }
 .pagination a {
   display: inline-block;
+}
+.pagination span:nth-of-type(1) {
+  padding-left: 30px;
 }
 .pagination .prev {
   text-align: left;

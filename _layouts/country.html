@@ -19,8 +19,8 @@
                                     </svg>
                                 </div>
                             </div>
-                            <h2>{{ page.surface }} km<sup>2</sup></h2><br>
-                            <h5>Fläche</h5>
+                            <h2>{{ page.surface }}</h2><br>
+                            <h5>km<sup>2</sup> Fläche</h5>
                         </div>
                         {% endif %}
                         {% if page.population %}
@@ -45,8 +45,8 @@
                                     </svg>
                                 </div>
                             </div>
-                            <h2>CHF {{ page.gdp }}</h2><br>
-                            <h5>BIP pro Kopf 2016 (nominal)</h5>
+                            <h2>{{ page.gdp }}</h2><br>
+                            <h5>BIP/Kopf in USD</h5>
                         </div>
                         {% endif %}
                         {% if page.altitude %}
@@ -58,8 +58,8 @@
                                     </svg>
                                 </div>
                             </div>
-                            <h2>{{ page.altitude }} m ü. M.</h2><br>
-                            <h5>Höhe der Hauptstadt</h5>
+                            <h2>{{ page.altitude }}</h2><br>
+                            <h5>m ü. M. Hauptstadt</h5>
                         </div>
                         {% endif %}
                         {% if page.flight %}
@@ -121,36 +121,6 @@
         </header>
         <main>
             <div class="page-content">{{ content }}</div>
-
-            <div class="box">
-            {% assign  document = site.pages | sort: "order" %}
-                    {% for links in document %}
-                        {% if links.title == page.title %}
-
-                            {% unless forloop.first %}
-                                {% assign prevurl = prev.url %}
-
-                                {% assign prevtitle = prev.title %}
-                            {% endunless %}
-
-                            {% unless forloop.last %}
-                                {% assign next = document[forloop.index] %}
-                                {% assign nexturl = next.url %}
-                                {% assign nexttitle = next.title %}
-                            {% endunless %}
-
-                        {% endif %}
-
-                        {% assign prev = links %}
-                    {% endfor %}
-
-                    {% if prevurl or nexturl %}
-                        <div class="pagination">
-                            {% if nexturl %}<span class="next"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
-                            {% if prevurl %}<span class="prev"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
-                        </div>
-                    {% endif %}
-                </div>
        </main>
 
         {% include footer.html %}

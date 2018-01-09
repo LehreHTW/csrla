@@ -19,7 +19,7 @@
     width: 100%;
     max-width: 1920px;
     @include gridCreator(auto, 1fr 2fr 1fr, (sidestory-left, sidestory-right, content), "sidestory-left content sidestory-right");
-    align-items: center;
+    align-items: start;
 
     @media screen and (max-width: $sidestory-break){
         @include gridCreator(auto auto auto, auto, (sidestory-left, sidestory-right, content), "sidestory-left", "content", "sidestory-right");

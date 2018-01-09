@@ -1,7 +1,7 @@
 ---
 country: Mexiko
 subject: menschenrechte
-title: Menschenrechte/Arbeitsbedingungen
+title: Menschenrechte / Arbeitsbedingungen
 #date:
 order: 2
 chapter_image: BILD_MEXIKO-15.jpg

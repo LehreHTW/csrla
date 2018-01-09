@@ -1,5 +1,34 @@
 <div class="navbar">
-    <span class="nav-toggle link">Menu</span>
+    <span class="nav-toggle link">Inhaltsverzeichnis</span>
+    <div class="right">
+    {% assign  document = site.pages | sort: "order" %}
+            {% for links in document %}
+                {% if links.title == page.title %}
+
+                    {% unless forloop.first %}
+                        {% assign prevurl = prev.url %}
+
+                        {% assign prevtitle = prev.title %}
+                    {% endunless %}
+
+                    {% unless forloop.last %}
+                        {% assign next = document[forloop.index] %}
+                        {% assign nexturl = next.url %}
+                        {% assign nexttitle = next.title %}
+                    {% endunless %}
+
+                {% endif %}
+
+                {% assign prev = links %}
+            {% endfor %}
+
+            {% if prevurl or nexturl %}
+                <div class="pagination">
+                    {% if nexturl %}<span class="next"><a href="{{nexturl}}">{{nexttitle}} &raquo;</a></span>{% endif %}
+                    {% if prevurl %}<span class="prev"><a href="{{prevurl}}">&laquo; {{ prevtitle}}</a></span>{% endif %}
+                </div>
+            {% endif %}
+        </div>
     {% include btt.html %}
 </div>
 
