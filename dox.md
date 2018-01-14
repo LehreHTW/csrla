@@ -4,6 +4,7 @@ title: Documentation
 exclude: true
 order: 99
 ---
+<div class="content" markdown="1">
 # Beim 1. Mal durchführen
 
 ## jekyll Installation
@@ -306,3 +307,4 @@ Diese Inhalte werden ausserhalb der `content` Blöcke verwendet.
     <img src="../media/img/martin-reisch-265219.jpg">
 </div>
 ```
+</div>
