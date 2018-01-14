@@ -110,6 +110,8 @@
 }
 
 .overlay-active{
+    overflow: hidden;
+
     .content:not(.active), .sidestory:not(.active), .media-wrapper{
         transition: .3s all ease;
         filter: blur(10px);

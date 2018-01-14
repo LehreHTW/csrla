@@ -3,6 +3,8 @@ $(document).ready(function() {
         var mixer = mixitup('.mixer');
     }
 
+    $('body').css('margin-top', $('.navbar').outerHeight());
+
     $('.overlay').addClass('overlay-hidden');
     $('.sidestory-toggle').click(function() {
         var overlay = $(this).parent().next('.overlay');
@@ -53,6 +55,7 @@ $(document).ready(function() {
         $('.menu').toggleClass('active');
         $('.nav-toggle').toggleClass('active');
         $('body').append('<div class="close-overlay"></div>');
+        $('body').toggleClass('overlay-active');
     });
 
     $('.slider').each(function() {

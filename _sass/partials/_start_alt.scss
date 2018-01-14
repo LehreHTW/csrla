@@ -1,0 +1,235 @@
+.start{
+    overflow-x: hidden;
+
+    main{
+        width: 100%;
+        min-height: 100vh;
+        height: auto;
+        padding: 30px;
+        box-sizing: border-box;
+        @include flexbox(row, wrap, space-between, center);
+
+        p{
+            line-height: 1.25em;
+        }
+
+        @media screen and (max-width: $home-break-1){
+            font-size: 80%;
+        }
+
+        .title-alt{
+            display: none;
+
+            @media screen and (max-width: $home-break-4){
+                display: block;
+                order: -1;
+            }
+        }
+        .size-container{
+            width: 130%;
+
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            left: -25%;
+
+            @media screen and (max-width: $home-break-2){
+                width: 90%;
+                left: -10%;
+            }
+
+            @media screen and (max-width: $home-break-3){
+                width: 115%;
+                left: -15%;
+            }
+
+            @media screen and (max-width: $home-break-4){
+                position: relative;
+                width: 100%;
+                max-width: 450px;
+                margin: 0 auto;
+                transform: none;
+                left: 0;
+            }
+
+        }
+
+        .karte{
+            width: 30%;
+            position: relative;
+            @media screen and (max-width: $home-break-2){
+              width: 47%;
+            }
+            @media screen and (max-width: $home-break-4){
+                order: -1;
+                width: 100%;
+            }
+        }
+        .left{
+            width: 30%;
+            transform: translateX(4vw);
+            background: $lightgray;
+            margin-top: 12vh;
+            padding-right: 10px;
+            position: relative;
+
+            &::before{
+              content: '';
+              position: absolute;
+              top: 0;
+              right: 100%;
+              width: 50vw;
+              background: $lightgray;
+              height: 100%;
+            }
+
+
+            @media screen and (max-width: $home-break-2){
+              width: 47%;
+            }
+
+            @media screen and (max-width: $home-break-4){
+                width: 100%;
+                transform: none;
+                div {
+                    div,
+                    p{
+                        text-align: left !important;
+                    }
+                }
+            }
+        }
+        .indexes{
+            width: 30%;
+            @media screen and (max-width: $home-break-2){
+              width: 100%;
+              @include flexbox(row, wrap, space-between, center);
+            }
+            @media screen and (max-width: $home-break-4){
+                width: 100%;
+            }
+
+            > div{
+                width: 100%;
+                @media screen and (max-width: $home-break-2){
+                  width: 30%;
+                }
+                @media screen and (max-width: $home-break-4){
+                    width: 100%;
+                }
+
+            }
+        }
+
+        .main-project-title{
+            h1{
+                margin: 0;
+                padding: 0;
+                text-align: right;
+                font-size: 2em;
+
+                @media screen and (max-width: $home-break-2){
+                    font-size: 1.5em;
+                }
+
+            }
+            @media screen and (max-width: $home-break-4){
+                display: none;
+            }
+        }
+
+        .country-block{
+            padding-top: 2.4em;
+
+            div{
+                opacity: 1;
+                transition: .3s all ease;
+                position: relative;
+
+                h2{
+                    font-size: 1.2em;
+                    display: inline;
+                }
+                text-align: right;
+                p{
+                    text-align: right;
+                }
+
+                &.hidden{
+                    position: absolute;
+                    left: -9999px;
+                    max-height: 0px;
+                    overflow: hidden;
+                    opacity: 0;
+                }
+            }
+        }
+
+        .indexes{
+            font-family: $headings-font;
+            line-height: 1;
+            min-width: 0;
+            min-height: 0;
+
+            > div{
+                padding: 5px 0;
+            }
+
+            .countries{
+                span{
+                    display: none;
+                }
+            }
+            h2{
+                &:first-of-type{
+                    margin-top: 0;
+                }
+            }
+            p{
+                margin-bottom: 10px;
+            }
+            .bar{
+                width: 100%;
+                height: 20px;
+                // border: 1px solid black;
+                position: relative;
+                margin: 2px 0;
+
+                .fill{
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    height: 100%;
+                    transition: .3s all ease;
+                    background: $mediumgray;
+                    display: none;
+
+                    &.world{
+                        background: $mediumgray !important;
+                        span{
+                            color: white;
+                        }
+                    }
+
+                    span, p{
+                        position: absolute;
+                        right: 5px;
+                        font-family: $headings-font;
+                        font-size: .8em;
+                        line-height: 20px;
+                        color: white;
+
+                        span{
+                            position: relative;
+                            right: 0;
+                            font-size: 1em;
+                        }
+                    }
+                }
+            }
+        }
+    }
+    footer{
+        margin-top: 0;
+    }
+}

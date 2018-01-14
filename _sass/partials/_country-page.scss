@@ -4,6 +4,7 @@
     background-position: center center;
     background-size: cover;
     position: relative;
+    overflow: hidden;
 
     // @media screen and (max-width: $sidestory-break){
     //     height: 800px;
@@ -84,7 +85,7 @@
     }
 
     .title{
-        font-size: 3em;
+        font-size: 2.8em;
         line-height: 1;
         margin: 0;
         @media screen and (max-width: $sidestory-break){
@@ -93,12 +94,12 @@
     }
 
     .subtitle{
-        font-size: 2.5em;
+        font-size: 1.8em;
         line-height: 1;
         margin: 0;
-        font-weight: normal;
+        // font-weight: normal;
         @media screen and (max-width: $sidestory-break){
-            font-size: 2em;
+            font-size: 1.6em;
         }
     }
 
@@ -186,5 +187,5 @@ section[class*="chapter"]{
               padding: 1rem 2.5rem 0;
           }
       }
-  }  
+  }
 }
