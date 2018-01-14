@@ -1,22 +1,14 @@
-.country-header{
+// Style country page headers
+
+.country-header {
     width: 100%;
-    // height: $country-header-height;
     background-position: center center;
     background-size: cover;
     position: relative;
     overflow: hidden;
-
-    // @media screen and (max-width: $sidestory-break){
-    //     height: 800px;
-    // }
-    //
-    // @media screen and (max-width: $meta-info-break-2){
-    //     height: 850px;
-    // }
-
     height: auto;
 
-    .grid{
+    .grid {
         position: relative;
         @include flexbox(column, wrap, space-between, center);
         height: auto;
@@ -24,84 +16,78 @@
         z-index: 4;
     }
 
-    .content{
-
+    .content {
         width: 100%;
         position: relative;
-
         text-align: center;
         color: white;
-
-        @media screen and (max-width: $title-break){
-          width: 100%;
+        @media screen and (max-width: $title-break) {
+            width: 100%;
         }
     }
 
-    .meta-info{
+    .meta-info {
         width: 100%;
         max-width: 100%;
         position: relative;
         box-sizing: border-box;
         @include flexbox(row, wrap, space-around, flex-start);
         color: white;
-        // text-shadow: 0px 0px 2px rgba(black, .5);
         text-align: center;
         margin-top: 7.5vh;
         margin-bottom: 20vh;
         transform-origin: 50% 0;
-
-        @media screen and (max-width: $sidestory-break){
-          width: 70%;
-          font-size: 60%;
+        @media screen and (max-width: $sidestory-break) {
+            width: 70%;
+            font-size: 60%;
         }
 
-        .meta-box{
+        .meta-box {
             width: 25%;
             box-sizing: border-box;
             padding: 20px;
-
-            @media screen and (max-width: $meta-info-break-1){
+            @media screen and (max-width: $meta-info-break-1) {
                 width: 50%;
             }
-
-            @media screen and (max-width: $meta-info-break-2){
+            @media screen and (max-width: $meta-info-break-2) {
                 width: 100%;
                 padding: 5px;
             }
         }
-        h2{
+
+        h2 {
             text-transform: none;
         }
-        h5{
+
+        h5 {
             font-weight: normal;
             margin-top: 0;
             line-height: 1;
-            // color: $lightgray;
         }
     }
 
-    .title{
+    .title {
         font-size: 2.8em;
         line-height: 1;
         margin: 0;
-        @media screen and (max-width: $sidestory-break){
+        @media screen and (max-width: $sidestory-break) {
             font-size: 2.5em;
         }
     }
 
-    .subtitle{
+    .subtitle {
         font-size: 1.8em;
         line-height: 1;
         margin: 0;
         // font-weight: normal;
-        @media screen and (max-width: $sidestory-break){
+        @media screen and (max-width: $sidestory-break) {
             font-size: 1.6em;
         }
     }
-
 }
+// dotted pattern over header
 
-.img-overlay{
+.img-overlay {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -109,80 +95,41 @@
     left: 0;
     z-index: 3;
     background-image: radial-gradient(rgba($blackish, .4) 50%, transparent 10%), radial-gradient(white 25%, transparent 10%);
-    background-size:5px 5px;
+    background-size: 5px 5px;
     background-position: 0 0, 5px 5px;
-
-    // &:after{
-    //     content: '';
-    //     width: 50px;
-    //     height: 50px;
-    //     border-right: 10px solid white;
-    //     border-bottom: 10px solid white;
-    //     transform: rotate(45deg) translateX(-50%);
-    //     position: absolute;
-    //     top: calc(100vh - 70px);
-    //     left: 50%;
-    // }
 }
+// styling chapter styles
 
-section[class*="chapter"]{
+section[class*="chapter"] {
     margin-top: 2.5rem;
 }
-.chapter-subject{
+
+.chapter-subject {
     display: block;
     text-transform: $headings-text-transform;
     font-weight: normal;
     font-family: $headings-font;
 
-    + h1{
+    + h1 {
         margin-top: 0;
     }
 }
+// move content up a bit on bigger screens, to create some content overlap
+@media screen and (min-width: 890px) {
+    .page-content {
+        transform: translateY(calc(-10vh - 2.5rem)) translateZ(0);
+        position: relative;
+        z-index: 5;
+        padding-top: 0;
 
-.pagination{
-    width: 100%;
-    font-family: $headings-font;
-    // margin: 10px 0;
-    // padding: 15px;
-    box-sizing: border-box;
-    @include flexbox(row-reverse, wrap, space-between, center);
-
-    a{
-        display: inline-block;
-    }
-    span{
-        &:nth-of-type(1){
-            padding-left: 30px;
-
-            @media screen and (max-width: $font-navbar-break){
-                padding-left: 15px;
+        > section:first-of-type {
+            > .content:first-of-type {
+                background: white;
+                position: relative;
+                box-sizing: content-box;
+                padding: 1rem 2.5rem 0;
+                max-width: 800px;
             }
         }
     }
-    .prev{
-        text-align: left;
-    }
-    .next{
-        text-align: right;
-    }
-}
-
-
-@media screen and (min-width: 890px){
-  .page-content{
-      transform: translateY(calc(-10vh - 2.5rem)) translateZ(0);
-      position: relative;
-      z-index: 5;
-      padding-top: 0;
-
-      > section:first-of-type{
-          > .content:first-of-type{
-              background: white;
-              position: relative;
-              box-sizing: content-box;
-              padding: 1rem 2.5rem 0;
-              max-width: 800px;
-          }
-      }
-  }
 }

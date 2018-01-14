@@ -1,3 +1,4 @@
+// invisible container to click "outside" of element and toggle the close functions
 .close-overlay{
     cursor: pointer;
     position: fixed;
@@ -7,6 +8,8 @@
     height: 100%;
     z-index: 9;
 }
+
+// styling sidestory overlays
 .overlay{
     background: $darkgray;
     text-align: justify;
@@ -80,6 +83,7 @@
 
 }
 
+//  sidestory toggles
 .sidestory-toggle{
     text-align: center;
     position: relative;

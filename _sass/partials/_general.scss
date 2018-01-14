@@ -1,7 +1,7 @@
+// general settings
 body, html{
-    // min-height: 100vh;
+    min-height: calc(100vh - 54px);
     width: 100%;
-    // overflow: auto;
     font-family: $main-font;
     font-size: $main-font-size;
     font-weight: $main-font-weight;
@@ -24,6 +24,7 @@ main {
 }
 
 
+// Typography
 p{
     hyphens: $hyphenate;
     text-align: $p-text-align;
@@ -108,6 +109,7 @@ h6{
     }
 }
 
+// Images and Other Media
 img{
     max-width: 100%;
     height: auto;
@@ -162,19 +164,22 @@ audio{
     width: 100%;
 }
 
+// Footer
 footer{
     background: $darkgray;
     color: $whiteish;
     font-size: .8em;
-    margin-top: 1.5rem;
+
     p{
         text-align: center;
     }
 }
 
+// Link styling
 a{
     text-decoration: none;
     transition: .3s all ease;
+    color: inherit;
 
     &:hover{
         opacity: .8;
@@ -222,4 +227,31 @@ div[data-toggler="true"]{
         }
     }
 
+}
+
+// Pagination
+.pagination{
+    width: 100%;
+    font-family: $headings-font;
+    box-sizing: border-box;
+    @include flexbox(row-reverse, wrap, space-between, center);
+
+    a{
+        display: inline-block;
+    }
+    span{
+        &:nth-of-type(1){
+            padding-left: 30px;
+
+            @media screen and (max-width: $font-navbar-break){
+                padding-left: 15px;
+            }
+        }
+    }
+    .prev{
+        text-align: left;
+    }
+    .next{
+        text-align: right;
+    }
 }

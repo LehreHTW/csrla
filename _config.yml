@@ -8,6 +8,8 @@ plugins:
 markdown: kramdown
 kramdown:
   input: GFM
+  syntax_highlighter: rouge
+
 # keep_files: [css/main.css, js/build/main.min.js]
 excerpt_separator: "<!-- more -->"
 permalink: /:title/
@@ -20,7 +22,7 @@ defaults:
       displaytitle: true
       exclude: false
 sass:
-    style: expanded
+    style: compressed
 collections:
     argentinien:
         output: false

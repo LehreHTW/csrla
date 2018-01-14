@@ -1,3 +1,4 @@
+// this page sets default colors and colors based on the country information
 footer a{
     &, &:hover{
         background: transparent !important;
@@ -5,19 +6,31 @@ footer a{
 }
 
 .mixitup-control-active,
-a, a.active,
+a, a.active{
+    font-family: $headings-font;
+    // color: $text-color;
+    border-bottom: 2px solid $lightgray;
+    transition: .3s all ease;
+    &:hover{
+        border-bottom: 2px solid currentColor;
+    }
+}
 .nav-toggle,
-div[data-toggler="true"] {
+div[data-toggler="true"],
+.navbar a {
     font-family: $headings-font;
     display: inline-block !important;
     text-transform: uppercase;
     color: $lightgray;
+    border-bottom: 0px solid transparent;
+
     h1, span{
         background: black-or-white($lightgray) !important;
     }
 
     &:hover{
         color: white;
+        border-bottom: 0px solid transparent;
         h1, span{
             background: black;
         }
@@ -44,16 +57,7 @@ div[data-toggler="true"] {
 }
 
 
-// .toggle-next{
-//     border-top: 3px solid $mediumgray;
-//     border-right: 3px solid $mediumgray;
-// }
-//
-// .toggle-prev{
-//     border-bottom: 3px solid $mediumgray;
-//     border-left: 3px solid $mediumgray;
-// }
-
+// iterating through all countries in the country list and applying the color to it
 @each $l, $c in $countries {
     $i: index($countries, $c);
     [data-filter=".#{$l}"]{
@@ -100,12 +104,16 @@ div[data-toggler="true"] {
         }
 
         .mixitup-control-active,
-        a, a.active,
-        .nav-toggle{
+        a, a.active{
+            border-bottom: 2px solid $c;
+        }
+
+        .nav-toggle, .navbar a{
             font-family: $headings-font;
             display: inline-block !important;
             color: $c;
             text-transform: uppercase;
+            border-bottom: 0px solid transparent;
             background: black-or-white($c);
             // text-stroke: 1px darken($c, 30%);
             // -webkit-text-stroke: 1px darken($c, 30%);

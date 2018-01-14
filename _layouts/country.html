@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="de">
+    <!-- load all resources  -->
     {% include header.html %}
     {% include country-icons.html %}
     {% include navigation.html %}
         <header class="country-header" style="background-image: url('../media/img/{{ page.header-img }}')">
-
+            <!-- include icons and inormation based on page -->
             <div class="grid">
                 <div class="content">
                     <h1 class="title">{{ page.title }}</h1>
@@ -71,8 +72,8 @@
                                     </svg>
                                 </div>
                             </div>
-                            <h2>{{ page.flight }} km</h2><br>
-                            <h5>Flugstrecke</h5>
+                            <h2>{{ page.flight }}</h2><br>
+                            <h5>km Flugstrecke</h5>
                         </div>
                         {% endif %}
                         {% if page.cabrides %}
@@ -97,8 +98,8 @@
                                     </svg>
                                 </div>
                             </div>
-                            <h2>{{ page.interviews }} min</h2><br>
-                            <h5>Interviews</h5>
+                            <h2>{{ page.interviews }}</h2><br>
+                            <h5>min Interviews</h5>
                         </div>
                         {% endif %}
                         {% if page.hoehe %}
@@ -119,6 +120,8 @@
             </div>
             <div class="img-overlay"></div>
         </header>
+
+        <!-- Content to be placed here -->
         <main>
             <div class="page-content">{{ content }}</div>
        </main>

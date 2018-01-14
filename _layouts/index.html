@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
-{% include header.html %} {% include country-icons.html %} {% include navigation.html %}
+{% include header.html %} {% include navigation.html %}
+<!-- header with info -->
 <header class="country-header" style="background-image: url('../media/img/{{ page.header-img }}')">
     <div class="wrapper">
         <div class="title-box">
@@ -10,6 +11,7 @@
     </div>
     <div class="img-overlay"></div>
 </header>
+<!-- page content -->
 <main>
     {{ content }}
 </main>

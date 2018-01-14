@@ -10,7 +10,6 @@ exclude: true
 @import "settings";
 @import "partials/colorsetting";
 
-@import "partials/webfonts";
 @import "partials/general";
 @import "partials/counters";
 @import "partials/navigation";
@@ -21,3 +20,4 @@ exclude: true
 @import "partials/chapter";
 @import "partials/vector";
 @import "partials/start";
+@import "partials/syntax";

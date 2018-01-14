@@ -1,0 +1,103 @@
+// Syntax highlighter
+
+$color-1: $darkgray;
+$color-2: $whiteish;
+$color-3: adjust-hue(#ffc, -25deg);
+$color-4: adjust-hue(#2e3436, -25deg);
+$color-5: adjust-hue(#0e1416, -25deg);
+$color-6: adjust-hue(#eeeeec, -25deg);
+$color-7: adjust-hue(#E9A94B, -25deg);
+$color-8: adjust-hue(#babdb6, -25deg);
+$color-9: adjust-hue(#1f2b2d, -25deg);
+$color-10: adjust-hue(#2c3032, -25deg);
+$color-11: adjust-hue(#e3e7df, -125deg);
+$color-12: adjust-hue(#888a85, -25deg);
+$color-13: adjust-hue(#8D9684, -25deg);
+$color-14: red;
+$color-15: adjust-hue(#c00, -25deg);
+$color-16: adjust-hue(#8ae234, -25deg);
+$color-17: adjust-hue(#989DAA, -25deg);
+$color-18: adjust-hue(#729fcf, -25deg);
+
+// code blocks with color
+div.highlighter-rouge {
+    background: $color-1;
+    color: $color-2;
+    text-align: left;
+    font-family: "Source Code Pro", monospace;
+    font-size: .8em;
+}
+
+// inline code
+code.highlighter-rouge {
+    background: $color-1;
+    color: $color-2;
+    padding: 0 3px;
+    white-space: pre;
+    font-family: "Source Code Pro", monospace;
+    font-size: .8em;
+}
+
+.highlight{
+    margin: 15px 0;
+    overflow-x: auto;
+    max-width: 100%;
+
+    code,
+    pre{
+        background: $color-1;
+        color: $color-2;
+    }
+    .hll {
+        background-color: $color-3;
+    }
+    .gd {
+        color: $color-4;
+        background-color: $color-5;
+    }
+    .gr {
+        color: $color-6;
+        background-color: $color-7;
+    }
+    .gi {
+        color: $color-8;
+        background-color: $color-9;
+    }
+    .go {
+        color: $color-10;
+    }
+    .kt {
+        color: $color-11;
+    }
+    .ni {
+        color: $color-12;
+    }
+    .c,.cm,.c1,.cs {
+        color: $color-13;
+        font-style: italic;
+    }
+    .err,.g,.l,.n,.x,.p,.ge,
+    .gp,.gs,.gt,.ld,.s,.nc,.nd,
+    .ne,.nl,.nn,.nx,.py,.ow,.w,.sb,
+    .sc,.sd,.s2,.se,.sh,.si,.sx,.sr,
+    .s1,.ss,.bp {
+        color: $color-2;
+    }
+    .k,.kc,.kd,.kn,.kp,.kr,
+    .nt {
+        color: $color-14;
+    }
+    .cp,.gh,.gu,.na,.nf {
+        color: $color-15;
+    }
+    .m,.nb,.no,.mf,.mh,.mi,.mo,
+    .il {
+        color: $color-16;
+    }
+    .o {
+        color: $color-17;
+    }
+    .nv,.vc,.vg,.vi {
+        color: $color-18;
+    }
+}

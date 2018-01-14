@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 <div class="media-wrapper">
     <div class="video">
-        <iframe src="https://www.youtube.com/embed/_SPz_Jpf3aA?ecver=1" frameborder="0" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/_SPz_Jpf3aA?ecver=1"  allowfullscreen></iframe>
     </div>
 </div>
 
