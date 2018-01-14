@@ -9,6 +9,11 @@
     @include flexbox(row, wrap, space-between, center);
     background: $blackish;
     font-weight: bold;
+    transition: .3s all ease;
+
+    .overlay-active & {
+        transform: translateY(-100%);
+    }
 
     @media screen and (max-width: $font-navbar-break){
         font-size: .8em !important;

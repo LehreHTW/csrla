@@ -10,14 +10,17 @@ a, a.active,
 div[data-toggler="true"] {
     font-family: $headings-font;
     display: inline-block !important;
-    color: $lightgray;
     text-transform: uppercase;
-    background: black-or-white($lightgray);
-
+    color: $lightgray;
+    h1, span{
+        background: black-or-white($lightgray) !important;
+    }
 
     &:hover{
         color: white;
-        background: black;
+        h1, span{
+            background: black;
+        }
     }
 }
 

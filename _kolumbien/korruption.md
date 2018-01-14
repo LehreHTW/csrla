@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 
 
-<div class="has-sidestories grid" markdown="1">
+<div class="has-sidestories-left grid" markdown="1">
 
 <!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
 # sidestory left
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 </div>
 
-<div class="has-sidestories grid" markdown="1">
+<div class="has-sidestories-right grid" markdown="1">
 
 <div class="content" markdown="1">
 ## content

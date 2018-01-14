@@ -16,8 +16,6 @@ $(document).ready(function() {
         $('body').toggleClass('overlay-active');
         // checkIfInView(overlay);
         $('body').append('<div class="close-overlay"></div>');
-
-        // overlay.isOnScreen();
     });
 
     $('.overlay').click(function(e) {
@@ -88,10 +86,12 @@ $(document).ready(function() {
     $('.togglable:first-of-type div[data-toggler="true"]').siblings().show();
 
     $('div[data-toggler="true"]').click(function(){
-        if(!$(this).siblings().is(':visible')){
-            $('div[data-toggler="true"]').siblings().slideUp();
-            $(this).siblings().slideDown();
-        }
+        $(this).siblings().slideToggle();
+
+        // if(!$(this).siblings().is(':visible')){
+        //     $('div[data-toggler="true"]').siblings().slideUp();
+        //     $(this).siblings().slideDown();
+        // }
     });
 
     $('.country-block div:not(.world)').addClass('hidden');
@@ -127,8 +127,8 @@ function checkIfInView(element) {
     var vpTop = $(window).scrollTop();
 
     if ((vpBottom >= elTop) && (vpTop <= elBottom)) {
-        $('html,body').animate({
+        $('body').animate({
             scrollTop: elTop - element.outerHeight() / 2
-        }, 300);
+        }, 100);
     }
 }
