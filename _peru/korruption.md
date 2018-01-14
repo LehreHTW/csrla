@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 <div class="has-sidestories grid" markdown="1">
 
 <!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
-![bla](/media/img/jo-jo-183491.jpg)
+ ![bla]({{"/media/img/jo-jo-183491.jpg" | prepend: site.baseurl }})
 # Sidestory Title
 <p class="sidestory-toggle"><span>+</span></p>
 </div><!-- sidestory-end -->
@@ -86,15 +86,15 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/martin-reisch-265219.jpg">
+    <img src="{{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }}">
 </div>
 
 <div class="media-wrapper">
     <audio controls>
-        <source src="../media/audio/Strassengeräusche_Tankstelle_MexicoStadt_20170719.mp3" type="audio/mpeg">
+        <source src="{{"/media/audio/Strassengeräusche_Tankstelle_MexicoStadt_20170719.mp3" | prepend: site.baseurl }}" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
 
-<div class="image grid" style="background-image: url(../media/img/martin-reisch-265219.jpg);">
+<div class="image grid" style="background-image: url({{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }});">
 </div>

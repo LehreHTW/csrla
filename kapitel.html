@@ -1,5 +1,5 @@
 ---
-# date:
+
 layout: page
 title: Kapitel
 subtitle: CSR in Lateinamerika
@@ -36,65 +36,65 @@ order: 9
     {% for c in mexiko %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country }} {{ c.subject }}">
-            <img src="/media/img/{{c.chapter_image}}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="/{{c.country}}/{{ c.subject | prepend: '#' }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
     {% for c in kolumbien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country }} {{ c.subject }}">
-            <img src="/media/img/{{c.chapter_image}}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="/{{c.country}}/{{ c.subject | prepend: '#' }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
     {% for c in peru %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country }} {{ c.subject }}">
-            <img src="/media/img/{{c.chapter_image}}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="/{{c.country}}/{{ c.subject | prepend: '#' }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
     {% for c in brasilien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country }} {{ c.subject }}">
-            <img src="/media/img/{{c.chapter_image}}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="/{{c.country}}/{{ c.subject | prepend: '#' }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
     {% for c in argentinien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country }} {{ c.subject }}">
-            <img src="/media/img/{{c.chapter_image}}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="/{{c.country}}/{{ c.subject | prepend: '#' }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}

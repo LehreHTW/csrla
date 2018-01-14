@@ -2,7 +2,7 @@
     <div class="slider">
         {% for gallery in page.gallery %}
             {% for image in gallery.images %}
-                <div style="background-image: url(/media/img/{{ image.filename }})"><img src="/media/img/{{ image.filename }}" alt="{{ image.alttext }}"></div>
+                <div style="background-image: url({{ image.filename | prepend: '/media/img/' | prepend: site.baseurl }})"><img src="{{ image.filename | prepend: '/media/img/' | prepend: site.baseurl }}" alt="{{ image.alttext }}"></div>
             {% endfor %}
         {% endfor %}
     </div>

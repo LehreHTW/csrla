@@ -4,7 +4,7 @@
     {% include header.html %}
     {% include country-icons.html %}
     {% include navigation.html %}
-        <header class="country-header" style="background-image: url('../media/img/{{ page.header-img }}')">
+    <header class="country-header" style="background-image: url({{ page.header-img  | prepend: '/media/img/' | prepend: site.baseurl }})">
             <!-- include icons and inormation based on page -->
             <div class="grid">
                 <div class="content">

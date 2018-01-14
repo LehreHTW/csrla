@@ -1,8 +1,7 @@
 ---
-# date:
+
 layout: page
 title: Impressum
-subtitle: Untertitel
 displaytitle: true
 order: 12
 ---

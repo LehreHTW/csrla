@@ -186,7 +186,7 @@ Der Sidestory Toggle wird entsprechend vor oder nach dem Content eingebunden und
 <div class="has-sidestories grid" markdown="1">
 
 <div class="sidestory sidestory-left" markdown="1">
-![bla](/media/img/jo-jo-183491.jpg)
+ ![bla]({{"/media/img/jo-jo-183491.jpg" | prepend: site.baseurl }})
 ### Sidestory Title
 <p class="sidestory-toggle"><span>+</span></p>
 </div>
@@ -221,7 +221,7 @@ Inhalt Hier
 <div class="has-sidestories-left grid" markdown="1">
 
 <div class="sidestory sidestory-left" markdown="1">
-![bla](/media/img/jo-jo-183491.jpg)
+ ![bla]({{"/media/img/jo-jo-183491.jpg" | prepend: site.baseurl }})
 ### Sidestory Title
 <p class="sidestory-toggle"><span>+</span></p>
 </div>

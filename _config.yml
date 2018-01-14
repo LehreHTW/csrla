@@ -1,6 +1,8 @@
 name: Kurztitel
 author: Christian Hauser
 favicon: #favicon image path (svg)
+url: http://code.halfapx.com
+baseurl: /csr-lateinamerika
 encoding: utf-8
 plugins:
     - jekyll-autoprefixer

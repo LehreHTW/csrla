@@ -2,7 +2,7 @@
 <html lang="de">
 {% include header.html %} {% include navigation.html %}
 <!-- header with info -->
-<header class="country-header" style="background-image: url('../media/img/{{ page.header-img }}')">
+<header class="country-header" style="background-image: url({{ page.header-img  | prepend: '/media/img/' | prepend: site.baseurl }})">
     <div class="wrapper">
         <div class="title-box">
             <h1 class="title">{{ page.main-title }}</h1> {% if page.subtitle %}
