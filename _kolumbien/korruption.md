@@ -1,6 +1,6 @@
 ---
 country: kolumbien
-subject: korruption
+subject: Korruption
 title: Korruption in kolumbien
 #date:
 order: 1

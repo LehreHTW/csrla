@@ -1,6 +1,6 @@
 ---
 country: brasilien
-subject: korruption
+subject: Korruption
 title: Korruption in brasilien
 #date:
 order: 1

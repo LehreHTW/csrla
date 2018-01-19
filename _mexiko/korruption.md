@@ -1,7 +1,7 @@
 ---
 country: Mexiko
-subject: korruption
-title: Korruption in mexiko
+subject: Korruption
+title: «Korruption ist ein Krebsgeschwür in Mexiko»
 #date:
 order: 4
 chapter_image: BILD_MEXIKO-10.jpg

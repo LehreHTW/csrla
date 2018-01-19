@@ -1,6 +1,6 @@
 ---
 country: argentinien
-subject: korruption
+subject: Korruption
 title: Korruption in argentinien
 #date:
 chapter_image: chi.jpg

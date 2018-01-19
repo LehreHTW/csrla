@@ -2,7 +2,11 @@ $(document).ready(function() {
 
     // initiate mixitup (for chapter page)
     if ($('.mixer').length) {
-        var mixer = mixitup('.mixer');
+        var mixer = mixitup('.mixer', {
+            controls: {
+                toggleLogic: 'or'
+            }
+        });
     }
 
     // add margin top of nav height, so that navigation doesn't overlap content

@@ -1,6 +1,6 @@
 ---
 country: peru
-subject: korruption
+subject: Korruption
 title: Korruption in peru
 #date:
 order: 1

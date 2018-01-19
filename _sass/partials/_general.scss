@@ -271,3 +271,30 @@ div[data-toggler="true"]{
         }
     }
 }
+
+table{
+    text-align: left;
+    font-size: 80%;
+    line-height: 1.1;
+    width: 100%;
+    
+    th{
+        font-family: $headings-font;
+    }
+    td,th{
+        border-right: 1px solid $lightgray;
+        padding: 5px;
+        &:last-of-type{
+            border-right: 0px solid transparent;
+        }
+    }
+    thead{
+        border-bottom: 2px solid $darkgray;
+    }
+    tr{
+        border-bottom: 1px solid $lightgray;
+    }
+    tr:last-of-type {
+        border-bottom: 0px solid transparent;
+    }
+}

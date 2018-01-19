@@ -24,7 +24,7 @@ order: 9
     <div class="laender">
         <h4>Länder</h4>
         <span class="filter-btn" data-filter="all">Alle</span>
-        <span class="filter-btn" data-filter=".mexiko">mexiko</span>
+        <span class="filter-btn" data-filter=".mexiko">Mexiko</span>
         <span class="filter-btn" data-filter=".peru">peru</span>
         <span class="filter-btn" data-filter=".kolumbien">kolumbien</span>
         <span class="filter-btn" data-filter=".brasilien">brasilien</span>
@@ -35,7 +35,7 @@ order: 9
 <div class="mixer">
     {% for c in mexiko %}
         {% if c.chapter_image %}
-        <div class="chapter mix {{c.country }} {{ c.subject }}">
+        <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
@@ -48,7 +48,7 @@ order: 9
     {% endfor %}
     {% for c in kolumbien %}
         {% if c.chapter_image %}
-        <div class="chapter mix {{c.country }} {{ c.subject }}">
+        <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
@@ -61,7 +61,7 @@ order: 9
     {% endfor %}
     {% for c in peru %}
         {% if c.chapter_image %}
-        <div class="chapter mix {{c.country }} {{ c.subject }}">
+        <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
@@ -74,7 +74,7 @@ order: 9
     {% endfor %}
     {% for c in brasilien %}
         {% if c.chapter_image %}
-        <div class="chapter mix {{c.country }} {{ c.subject }}">
+        <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
@@ -87,7 +87,7 @@ order: 9
     {% endfor %}
     {% for c in argentinien %}
         {% if c.chapter_image %}
-        <div class="chapter mix {{c.country }} {{ c.subject }}">
+        <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
             <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
                 <span class="country">{{c.country}}</span>
