@@ -94,8 +94,9 @@
     top: 0;
     left: 0;
     z-index: 3;
-    background-image: radial-gradient(rgba($blackish, .4) 50%, transparent 10%), radial-gradient(white 25%, transparent 10%);
-    background-size: 5px 5px;
+    background-image: url(../dots.png);
+    background-size: 5px;
+    background-repeat: repeat;
     background-position: 0 0, 5px 5px;
 }
 // styling chapter styles

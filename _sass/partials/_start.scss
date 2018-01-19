@@ -19,12 +19,13 @@
             width: 40%;
             background: $lightgray;
             padding: 15px;
-            font-size: 90%;
+            font-size: 85%;
             box-sizing: border-box;
             text-align: left;
 
             .subtitle{
                 padding-top: 15px;
+                font-size: 1.5em;
             }
 
             @media screen and (max-width: $start-break-1){
@@ -115,7 +116,7 @@
         }
 
         p {
-            margin-bottom: 10px;
+            margin-top: 10px;
         }
 
         .bar {
@@ -131,11 +132,14 @@
                 left: 0;
                 height: 100%;
                 transition: 0.3s all ease;
-                background: $mediumgray;
+                background-color: $mediumgray;
+                background-image: url(../dots.png);
+                background-size: 5px;
+                background-repeat: repeat;
                 display: none;
 
                 &.world {
-                    background: $mediumgray !important;
+                    background-color: $mediumgray !important;
 
                     span {
                         color: white;
@@ -146,6 +150,8 @@
                 span {
                     position: absolute;
                     right: 5px;
+                    padding: 0;
+                    margin: 0;
                     font-family: $headings-font;
                     font-size: 0.8em;
                     line-height: 20px;
