@@ -297,3 +297,12 @@ table{
         border-bottom: 0px solid transparent;
     }
 }
+
+.source {
+    padding: 10px 0;
+    text-indent: -30px;
+
+    &:first-line {
+        text-indent: 0;
+    }
+}

@@ -8,8 +8,10 @@
             <!-- include icons and inormation based on page -->
             <div class="grid">
                 <div class="content">
+                    {% if page.subtitle %}<div class="title-box">{% endif %}
                     <h1 class="title">{{ page.title }}</h1>
                     {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+                    {% if page.subtitle %}</div>{% endif %}
                     <div class="meta-info">
                         {% if page.surface %}
                         <div class="meta-box">

@@ -38,3 +38,5 @@ collections:
         output: false
     forschungstagebuch:
         output: false
+    empfehlungen:
+        output: false

@@ -3,11 +3,11 @@ layout: country
 title: Einleitung
 group: navigation-02
 order: 2
-header-img: 
+header-img:
 ---
 <section class="box">
 <div class="content">
-<span class="chapter-subject">Einleitung</span>
+<span class="chapter-subject">Einführung</span>
 <h1 class="chapter-title">«Wissenschaftliche Untersuchungen zur verantwortungsvollen Unternehmensführung in Lateinamerika sind rar»</h1>
 </div>
 <div class="content" markdown="1">
