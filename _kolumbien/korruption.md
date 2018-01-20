@@ -1,100 +1,14 @@
 ---
-country: kolumbien
+country: Kolumbien
 subject: Korruption
-title: Korruption in kolumbien
-#date:
-order: 1
-chapter_image: chi.jpg
-gallery:
-  - images:
-    - filename: Mexico_test-1.jpg
-      alttext: Mx
-    - filename: Mexico_test-2.jpg
-      alttext: mx
-    - filename: Mexico_test-3.jpg
-      alttext: mx
+title: «Der informelle Sektor ist eine Tragödie für Kolumbien»
+order: 4
+chapter_image: BILD_KOLUMBIEN-6.jpg
 ---
 <div class="content" markdown="1">
-## Content Text
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [Duis](#) aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Die kolumbianische Wirtschaft ist durch einen hohen Grad an Informalität gekennzeichnet. Ein Großteil der Beschäftigten ist im informellen Sektor tätig. Es wird zwischen informellen und illegalen Unternehmen unterschieden. Informell sind all jene Unternehmen, die grundsätzlich regelkonform agieren, aber nicht bei der Handelskammer registriert sind. Sie wären jedoch prinzipiell registrierfähig. Illegal sind hingegen all jene Unternehmen, die nicht bewilligungsfähige Aktivitäten nachgehen, da sie bspw. in Gebieten operieren, die unter Naturschutz stehen. Einerseits empfinden die Unternehmen die Formalisierung als unnötig großen bürokratischen Aufwand, andererseits ist das Denken weit verbreitet, dass derjenige, der Steuern bezahlt, bestohlen werde. Außerdem orientiert man sich an anderen Unternehmen. Wenn diese ebenfalls informell funktionieren und dafür nicht geahndet werden, warum sollte man selbst dann etwas ändern.
 
-{% include gallery.html %}
-</div>
+Für multinationale Unternehmen und die lokalen Unternehmen des formalen Sektors ist der hohe Grad an Informalität mit erheblichen Herausforderungen verbunden. Dies gilt vor allem dann, wenn die Unternehmen Projekte in ländlichen Gebieten realisieren, da dort der Grad an Informalität besonders ausgeprägt ist. Dennoch gibt es Beispiele von Unternehmen, denen es auch in diesem Fall gelingt, sicherzustellen, dass in ihrer Lieferkette nur formelle Unternehmen tätig sind.
 
-<div class="has-sidestories grid" markdown="1">
-
-<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
- ![bla]({{"/media/img/jo-jo-183491.jpg" | prepend: site.baseurl }})
-# Sidestory Title
-<p class="sidestory-toggle"><span>+</span></p>
-</div><!-- sidestory-end -->
-
-<div class="overlay sidestory-left-content content"><div class="ss-content">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
-### sidestory-right
-<p class="sidestory-toggle"><span>+</span></p>
-</div><!-- sidestory-end -->
-
-<div class="overlay sidestory-right-content content">
-<div class="ss-content"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
-</div>
-
-
-<div class="has-sidestories-left grid" markdown="1">
-
-<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
-# sidestory left
-</div><!-- sidestory-end -->
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-</div>
-
-<div class="has-sidestories-right grid" markdown="1">
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
-### sidestory-right
-</div><!-- sidestory-end -->
-
-</div>
-
-<div class="media-wrapper">
-{% include gallery.html %}
-</div>
-
-<div class="media-wrapper">
-    <div class="video">
-        <iframe src="https://www.youtube.com/embed/_SPz_Jpf3aA?ecver=1"  allowfullscreen></iframe>
-    </div>
-</div>
-
-<div class="media-wrapper">
-    <img src="{{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }}">
-</div>
-
-<div class="media-wrapper">
-    <audio controls>
-        <source src="{{"/media/audio/Strassengeräusche_Tankstelle_MexicoStadt_20170719.mp3" | prepend: site.baseurl }}" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-</div>
-
-<div class="image grid" style="background-image: url({{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }});">
+Dies erreichen die Unternehmen einerseits, indem sie formale Zulieferer aus den großen Städten in die ländlichen Gebieten mitbringen, auch wenn sich dies aufgrund der großen geografischen Distanzen häufig als sehr ineffizient erweist. Andererseits entwickeln die Unternehmen Zulieferer aus dem ländlichen Raum und führen diese in die Formalität. Einige Unternehmen nehmen diese Entwicklungsaufgaben in ihre Projektkalkulation auf. Die Einbindung von lokalen Unternehmen in die Projektarbeit hat den positiven Zusatzeffekt, dass dies die Akzeptanz des Projektes in der lokalen Bevölkerung deutlich steigert.
 </div>

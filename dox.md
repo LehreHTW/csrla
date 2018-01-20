@@ -167,7 +167,7 @@ Wenn eine Gallerie verwendet wird, muss diese im Inhalt eingebunden werden.
 ```
 
 ### Inhalte
-Inhaltsblöcke denen keine Sidestories zugehören, werden in einen einfachen Div-Container eingebunden. markdown="1" stellt sicher, dass markdown Code auch innterhalb davon umgewandelt wird. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+Inhaltsblöcke denen keine Sidestories zugehören, werden in einen einfachen Div-Container eingebunden. markdown="1" stellt sicher, dass markdown Code auch innerhalb davon umgewandelt wird. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ```html
 <div class="content" markdown="1">
