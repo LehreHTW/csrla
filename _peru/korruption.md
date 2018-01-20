@@ -1,100 +1,15 @@
 ---
-country: peru
+country: Peru
 subject: Korruption
-title: Korruption in peru
+title: «Korruption verursacht mehr Schäden als eine Naturkatastrophe»
 #date:
-order: 1
-chapter_image: chi.jpg
-gallery:
-  - images:
-    - filename: Mexico_test-1.jpg
-      alttext: Mx
-    - filename: Mexico_test-2.jpg
-      alttext: mx
-    - filename: Mexico_test-3.jpg
-      alttext: mx
+order: 4
+chapter_image: BILD_PERU-19.jpg
 ---
 <div class="content" markdown="1">
-## Content Text
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. [Duis](#) aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Auch in Peru ist Alltagskorruption ein Thema. Sie zeigt sich in der Bestechung von Polizisten an der Straßenecke oder bei Straßensperren. Bei Verkehrsunfällen wird beispielsweise dem zuständigen Polizisten ein Schmiergeld zugesteckt, um die «Sache vergessen zu machen» – «arreglar» nennt man dies in Peru. Aber auch im Bausektor sind kriminelle, bis hin zu mafiösen Strukturen vorhanden. So kommt es vor, dass Unternehmen an die Bauarbeiter informelle Zahlungen leisten, um sicherzugehen, dass am nächsten Morgen das Baumaterial, wie Holz, Farben und Backsteine, noch vorhanden ist und nicht von den Arbeitern weiterverkauft wurde. Zahlreiche Unternehmen befinden sich in diesem korrupten Kreislauf und bezahlen, da sie nicht riskieren wollen, ohne Baumaterial dazustehen.
 
-{% include gallery.html %}
-</div>
+Inzwischen gibt es aber immer mehr Unternehmen, die sich gegen die weit verbreitete Korruption wehren. Vor allem unter der jungen Generation von Unternehmern ist die Ansicht verbreitet, dass Korruption kein Kavaliersdelikt ist und auf lange Sicht keine Gewinner, sondern nur Verlierer kennt. Sie beteiligen sich beispielsweise nicht mehr an Ausschreibungen, bei denen sie wissen, dass sie ohne informelle Zahlungen nicht weiterkommen. Sie wollen auf ehrliche Art an ihre Aufträge kommen.
 
-<div class="has-sidestories grid" markdown="1">
-
-<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
- ![bla]({{"/media/img/jo-jo-183491.jpg" | prepend: site.baseurl }})
-# Sidestory Title
-<p class="sidestory-toggle"><span>+</span></p>
-</div><!-- sidestory-end -->
-
-<div class="overlay sidestory-left-content content"><div class="ss-content">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
-### sidestory-right
-<p class="sidestory-toggle"><span>+</span></p>
-</div><!-- sidestory-end -->
-
-<div class="overlay sidestory-right-content content">
-<div class="ss-content"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></div></div>
-</div>
-
-
-<div class="has-sidestories-left grid" markdown="1">
-
-<!-- sidestory-start --><div class="sidestory sidestory-left" markdown="1">
-# sidestory left
-</div><!-- sidestory-end -->
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-</div>
-
-<div class="has-sidestories-right grid" markdown="1">
-
-<div class="content" markdown="1">
-## content
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
-
-<!-- sidestory-start --><div class="sidestory sidestory-right" markdown="1">
-### sidestory-right
-</div><!-- sidestory-end -->
-
-</div>
-
-<div class="media-wrapper">
-{% include gallery.html %}
-</div>
-
-<div class="media-wrapper">
-    <div class="video">
-        <iframe src="https://www.youtube.com/embed/_SPz_Jpf3aA?ecver=1"  allowfullscreen></iframe>
-    </div>
-</div>
-
-<div class="media-wrapper">
-    <img src="{{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }}">
-</div>
-
-<div class="media-wrapper">
-    <audio controls>
-        <source src="{{"/media/audio/Strassengeräusche_Tankstelle_MexicoStadt_20170719.mp3" | prepend: site.baseurl }}" type="audio/mpeg">
-        Your browser does not support the audio element.
-    </audio>
-</div>
-
-<div class="image grid" style="background-image: url({{"/media/img/martin-reisch-265219.jpg" | prepend: site.baseurl }});">
+Ein Zusammenschluss von Unternehmen, die sich gegen den Teufelskreis von korrupten Machenschaften verbünden, könnte helfen, die Korruption in Peru vereint anzugehen und langfristig zu bekämpfen.
 </div>

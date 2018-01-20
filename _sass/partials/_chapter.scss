@@ -8,7 +8,8 @@
     form{
         width: 100%;
         margin: 5px 0;
-        @include flexbox(row, wrap, flex-start, center);
+        @include flexbox(row, wrap, center, center);
+        text-align: center;
         h6{
             // width: 150px;
             padding-right: 30px;

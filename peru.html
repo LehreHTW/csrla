@@ -1,9 +1,8 @@
 ---
-
 layout: country
 title: Peru
 group: navigation-04
-header-img: mexiko.jpg
+header-img: BILD_PERU-17.jpg
 bodyclass: peru
 order: 4
 surface: 1'285'216
@@ -14,6 +13,10 @@ altitude: 161
 {% assign peru = site.peru | sort: "order" %}
 {% for ch in peru %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
+    {% if ch.chapter_image %}
+        <div class="image grid" style="background-image: url(../media/img/{{ ch.chapter_image }});">
+        </div>
+    {% endif %}
     <div class="content">
         <span class="chapter-subject">{{ ch.subject }}</span>
         <h1 class="chapter-title">{{ ch.title }}</h1>
