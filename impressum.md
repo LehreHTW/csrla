@@ -4,10 +4,10 @@ title: Impressum
 displaytitle: true
 order: 13
 ---
-<div class="content" markdown="1">
-**Konzeption, Gestaltung, Programmierung**<br>
+<div class="content">
+<b>Konzeption, Gestaltung, Programmierung</b><br>
 Damian Schurtenberger<br>
 Jeremy Marugan<br>
-[Myriam Frisano](https://halfapx.com)<br>
+<a href="https://halfapx.com">Myriam Frisano</a><br>
 Olivia Kasper<br>
 </div>
