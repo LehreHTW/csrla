@@ -57,6 +57,14 @@ git push
 ```
 Die Änderungen auf den Server hochladen geht über FTP, einloggen und dann den Inhalt des `_site` Ordners hochladen.
 
+Vor dem Hochladen sicherstellen, dass im config-file alle Daten angepasst sind.
+
+```yml
+url: http://code.halfapx.com
+baseurl: /csr-lateinamerika
+```
+
+URL ist die Website, wenn sie im Root Ordner der Website angezeigt werden soll, dann baseurl leer lassen, ansonsten name des Subordners.
 
 # Änderungen
 ## CSS
