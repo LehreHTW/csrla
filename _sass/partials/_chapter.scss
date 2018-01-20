@@ -5,7 +5,7 @@
     width: 80%;
     box-sizing: border-box;
 
-    fieldset{
+    form{
         width: 100%;
         margin: 5px 0;
         @include flexbox(row, wrap, flex-start, center);

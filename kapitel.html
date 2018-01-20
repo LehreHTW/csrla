@@ -13,9 +13,9 @@ order: 9
 
 
 
-<form class="filter">
+<div class="filter">
 
-<fieldset data-filter-group>
+<form data-filter-group>
     <h6>Themen</h6>
     <div>
         <input type="checkbox" name="subject" value=".menschenrechte" id="filter-menschenrechte"/>
@@ -35,9 +35,9 @@ order: 9
 
         <button type="reset">Reset</button>
     </div>
-</fieldset>
+</form>
 
-<fieldset data-filter-group>
+<form data-filter-group>
     <h6>Länder</h6>
     <div>
         <input type="checkbox" name="subject" value=".mexiko" id="filter-mexiko"/>
@@ -67,10 +67,10 @@ order: 9
 
         <button type="reset">Reset</button>
     </div>
-</fieldset>
-
-
 </form>
+
+
+</div>
 
 <div class="mixer">
     {% for c in mexiko %}
