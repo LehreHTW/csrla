@@ -98,7 +98,7 @@ $(document).ready(function() {
     });
 
     // Make Toggle-Divs in Forschungstagebuch
-    $('.togglable div').each(function(){
+    $('.togglable > div').each(function(){
         if(!$(this).data('toggler')){
             $(this).hide();
         }
