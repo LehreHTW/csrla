@@ -5,6 +5,9 @@ $(document).ready(function() {
         var mixer = mixitup('.mixer', {
             controls: {
                 toggleLogic: 'or'
+            },
+            multifilter: {
+                enable: true // enable the multifilter extension for the mixer
             }
         });
     }

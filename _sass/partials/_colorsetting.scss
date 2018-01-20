@@ -60,6 +60,15 @@ div[data-toggler="true"],
 // iterating through all countries in the country list and applying the color to it
 @each $l, $c in $countries {
     $i: index($countries, $c);
+
+
+    input[type=checkbox]{
+        &:checked + label[for="filter-#{$l}"] {
+            background: $c !important;
+            color: black-or-white($c) !important;
+        }
+    }
+
     [data-filter=".#{$l}"]{
         &.mixitup-control-active,
         &:hover{

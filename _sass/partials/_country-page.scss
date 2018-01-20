@@ -117,7 +117,7 @@ section[class*="chapter"] {
 }
 // move content up a bit on bigger screens, to create some content overlap
 @media screen and (min-width: 890px) {
-    .page-content {
+    .country .page-content {
         transform: translateY(calc(-10vh - 2.5rem)) translateZ(0);
         position: relative;
         z-index: 5;

@@ -1,26 +1,60 @@
 // Styling the Chapter Page
 .filter{
     @include flexbox(row, wrap, center, center);
-    width: 100%;
+    padding: 15px 1.5rem;
+    width: 80%;
+    box-sizing: border-box;
 
-    div{
-        text-align: center;
-        padding: 1.5rem;
+    fieldset{
+        width: 100%;
+        margin: 5px 0;
+        @include flexbox(row, wrap, flex-start, center);
+        h6{
+            // width: 150px;
+            padding-right: 30px;
+            margin: 5px 0;
+            line-height: 1;
+        }
+    }
 
+    button,
+    label{
+        position: relative;
+        padding: 2px 15px;
+        margin: 5px;
+        border: 1px solid $text-color;
         font-family: $headings-font;
         text-transform: uppercase;
-
-        @media screen and (max-width: $grid-break-1){
-            padding: .5rem;
-        }
-
-        span{
-            padding: 0 7px;
-            cursor: pointer;
+        line-height: 1;
+        font-size: 1em;
+        display: inline-block;
+        cursor: pointer;
+    }
+    button{
+        background: $blackish;
+        color: black-or-white($blackish);
+    }
+    label{
+        &:before{
+            content: '+';
+            position: relative;
+            display: inline-block;
+            width: 10px;
             transition: .3s all ease;
+            transform: scale(1.2);
+        }
+    }
+    input[type=checkbox]{
+        position: absolute;
+        left: -999999px;
+        opacity: 0;
 
-            &:hover{
-                opacity: .8;
+        &:checked + label {
+            background: $lightgray;
+            color: black-or-white($lightgray);
+
+            &:before{
+                transform: scale(1.2) rotate(45deg);
             }
         }
     }

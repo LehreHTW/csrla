@@ -7,11 +7,13 @@
         <main>
             <div class="page-content">
                 <section class="box">
+                    {% if page.title or page.title %}
                     <div class="content title-box">
                         {% if page.subtitle %}<h2 class="page-subtitle">{{ page.subtitle }}</h2>{% endif %}
                         {% if page.displaytitle %}
                         <h1 class="title">{{ page.title }}</h1>{% endif %}
                     </div>
+                    {% endif %}
                     {{ content }}
                 </section>
             </div>

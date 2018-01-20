@@ -1,8 +1,6 @@
 ---
-
 layout: page
 title: Kapitel
-subtitle: CSR in Lateinamerika
 group: navigation-09
 displaytitle: false
 order: 9
@@ -13,24 +11,66 @@ order: 9
 {% assign brasilien = site.brasilien | sort: "order" %}
 {% assign argentinien = site.argentinien | sort: "order" %}
 
-<div class="filter">
-    <div class="themen">
-        <h4>Themen</h4>
-        <span class="filter-btn" data-filter="all">Alle</span>
-        <span class="filter-btn" data-filter=".menschenrechte">Menschenrechte</span>
-        <span class="filter-btn" data-filter=".korruption">Korruption</span>
-        <span class="filter-btn" data-filter=".umwelt">Umwelt</span>
+
+
+<form class="filter">
+
+<fieldset data-filter-group>
+    <h6>Themen</h6>
+    <div>
+        <input type="checkbox" name="subject" value=".menschenrechte" id="filter-menschenrechte"/>
+        <label for="filter-menschenrechte">
+            Menschenrechte
+        </label>
+
+        <input type="checkbox" name="subject" value=".korruption" id="filter-korruption"/>
+        <label for="filter-korruption">
+            Korruption
+        </label>
+
+        <input type="checkbox" name="subject" value=".umwelt" id="filter-umwelt"/>
+        <label for="filter-umwelt">
+            Umwelt
+        </label>
+
+        <button type="reset">Reset</button>
     </div>
-    <div class="laender">
-        <h4>Länder</h4>
-        <span class="filter-btn" data-filter="all">Alle</span>
-        <span class="filter-btn" data-filter=".mexiko">Mexiko</span>
-        <span class="filter-btn" data-filter=".peru">peru</span>
-        <span class="filter-btn" data-filter=".kolumbien">kolumbien</span>
-        <span class="filter-btn" data-filter=".brasilien">brasilien</span>
-        <span class="filter-btn" data-filter=".argentinien">argentinien</span>
+</fieldset>
+
+<fieldset data-filter-group>
+    <h6>Länder</h6>
+    <div>
+        <input type="checkbox" name="subject" value=".mexiko" id="filter-mexiko"/>
+        <label for="filter-mexiko">
+            Mexiko
+        </label>
+
+        <input type="checkbox" name="subject" value=".peru" id="filter-peru"/>
+        <label for="filter-peru">
+            Peru
+        </label>
+
+        <input type="checkbox" name="subject" value=".kolumbien" id="filter-kolumbien"/>
+        <label for="filter-kolumbien">
+            Kolumbien
+        </label>
+
+        <input type="checkbox" name="subject" value=".brasilien" id="filter-brasilien"/>
+        <label for="filter-brasilien">
+            Brasilien
+        </label>
+
+        <input type="checkbox" name="subject" value=".argentinien" id="filter-argentinien"/>
+        <label for="filter-argentinien">
+            Argentinien
+        </label>
+
+        <button type="reset">Reset</button>
     </div>
-</div>
+</fieldset>
+
+
+</form>
 
 <div class="mixer">
     {% for c in mexiko %}
