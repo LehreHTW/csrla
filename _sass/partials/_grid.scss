@@ -52,6 +52,10 @@
         box-sizing: border-box;
         max-width: 800px;
 
+        p, table{
+            font-size: 80%;            
+        }
+
         @media screen and (max-width: $sidestory-break){
           width: 80%;
           margin: 1rem auto;
