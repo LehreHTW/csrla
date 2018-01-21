@@ -1,7 +1,7 @@
 ---
 subject: Mexiko
 title: 3. - 25. Juli 2017
-#date: 
+#date:
 order: 1
 ---
 
@@ -10,7 +10,7 @@ order: 1
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG 20170704_120549.jpg">
+    <img src="../media/img/ftb/20170704_120549.jpg">
 </div>
 
 <div class="content" markdown="1">
