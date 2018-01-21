@@ -3,6 +3,26 @@ subject: Argentinien
 title: 7. Oktober - 4. November 2017
 #date:
 order: 5
+gallery:
+  - images:
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_1.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_2.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_3.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_4.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_5.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_6.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_7.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_8.jpg
+      alttext: AT 1
+    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
+      alttext: AT 1
 ---
 <div class="content" markdown="1">
 ## Samstag, 7. Oktober 2017
@@ -10,6 +30,10 @@ order: 5
 
 <div class="content" markdown="1">
 Nach insgesamt 38 Tagen in Brasilien heißt es heute Abschied nehmen von der portugiesischen Sprache. Mit Flug AR1231 geht es von Porto Alegre nach Buenos Aires. Der Stadt-Flughafen Jorge Newbery liegt unmittelbar am Ufer des Río de la Plata und nur rund zwei Kilometer vom Stadtzentrum entfernt. Die Fahrt zu unserer Unterkunft an der Plaza de la República dauert gut 15 Minuten.
+</div>
+
+<div class="media-wrapper">
+{% include gallery.html %}
 </div>
 
 <div class="content" markdown="1">
@@ -20,11 +44,24 @@ Am ersten Abend in Buenos Aires erwartet uns ein Straßenfest der bolivianischen
 ## Sonntag, 8. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20171008_145341.jpg">
+</div>
+
 <div class="content" markdown="1">
-Mate-Tee-Gefäße auf dem Sonntagsmarkt in San Telmo.</div>
+Mate-Tee-Gefäße auf dem Sonntagsmarkt in San Telmo.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20171008_151200.jpg">
+</div>
 
 <div class="content" markdown="1">
 Straßenszene Sonntagsmarkt San Telmo.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_3.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -90,6 +127,10 @@ Francisco von Wuthenau konstatiert, dass in Argentinien die Vorstellung vorherrs
 ## Freitag, 13. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Schlafstaette-Obdachloser_BA.jpg">
+</div>
+
 <div class="content" markdown="1">
 Im Zentrum von Buenos Aires leben auffallend viele Menschen auf der Straße. Teilweise haben sie sich richtig «häuslich» eingerichtet – mit Stühlen, Tischchen, Matratzen und Plastikvorhängen als Sichtschutz.
 
@@ -112,8 +153,16 @@ Auf der Avenida 9 de Julio, eine der Hauptverkehrsadern von Buenos Aires, verkeh
 ## Sonntag, 15. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Politisches_Graffiti_Buenos_Aires_wir-haben-alle-mapucheblut-die-armen-in-den-venen-die-reichen-an-den-haenden.jpg">
+</div>
+
 <div class="content" markdown="1">
 In Buenos Aires stößt man immer wieder auf politisch motivierte Graffiti: «Wir haben alle Mapucheblut: die Armen in den Venen, die Reichen an den Händen»
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruuecke_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -124,8 +173,18 @@ Auf dem Rückweg vom modernen Hafenviertel Puerto Madero in die Unterkunft am Ob
 ## Montag, 16. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20171030_094140.jpg">
+</div>
+
 <div class="content" markdown="1">
 Das andere Buenos Aires zeigt sich direkt hinter dem Bahnhof Retiro. Dort befindet sich auf Bundesgebiet die informelle Siedlung Villa 31, das größte Elendsviertel der Stadt. In mehrstöckigen, wild aneinander und übereinander entstandenen Bauten, aus verschiedensten Materialien, haben sich dort vor allem Menschen aus anderen lateinamerikanischen Ländern wie Paraguay, Bolivien oder Peru angesiedelt.
+</div>
+
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/pu49loeuc44?ecver=1" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="content" markdown="1">
@@ -156,11 +215,23 @@ Die [Grupo Murchison](http://www.grupomurchison.com.ar/) betreibt für ihren Haf
 ## Donnerstag, 19. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Donnerstag-Demo_Madres_der_Plaza_de_Mayo_vor_den_Wahlen_Oktober_2017_Buenos_Aires_1.jpg">
+</div>
+
 <div class="content" markdown="1">
 Seit 41 Jahren marschieren jeweils donnerstags die [Madres](http://madres.org/) der Plaza de Mayo friedlich vor dem Regierungspalast Casa Rosada auf. Sie verlangen, dass das Schicksal ihrer in der Militärdiktatur verschwundenen Kinder und Enkel endlich aufgeklärt wird.
 
 
 Heute demonstrieren noch weitere politische Gruppierungen auf der Plaza de Mayo. Am Sonntag sind in Argentinien Parlamentswahlen. Die ehemalige Präsidentin Cristina Kirchner kandidiert für den Senat. Ihr werden gute Chancen eingeräumt, obwohl gegen sie ein Korruptionsverfahren läuft.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Politische_Demo_wo_ist_Santiago_Maldonado_1.jpg">
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Wo_ist_Santiago_Graffiti.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -229,6 +300,10 @@ Kunst und Kultur haben in Argentinien einen hohen Stellenwert – es gibt viele 
 Während sämtliche Gesprächspartner aus der Privatwirtschaft sehr zuverlässig waren, erscheint heute erneut ein Gesprächspartner aus dem akademischen Bereich nicht zum vereinbarten Termin.
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20171014_192432.jpg">
+</div>
+
 <div class="content" markdown="1">
 Heute besuchen wir eine Generalprobe des Philharmonischen Orchesters Buenos Aires im renommierten [Teatro Colón](www.teatrocolon.org.ar/). Gespielt wird «Ein Heldenleben, Op. 40» von Richard Strauss.
 </div>
@@ -248,12 +323,22 @@ Die türkische Soziologin Zeynep Tufekci thematisiert dieses Phänomen in ihrem 
 ## Samstag, 28. Oktober 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20171028_Hundekot_Gehweg_Buenos_Aires.jpg">
+</div>
+
 <div class="content" markdown="1">
 Im Vergleich mit den anderen lateinamerikanischen Städten, die wir in den zurückliegenden Monaten bereist haben, sind die Gehwege in Buenos Aires auffallend stark mit Hundekot verunreinigt.
 </div>
 
 <div class="content" markdown="1">
 ## Sonntag, 29. Oktober 2017
+</div>
+
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://www.youtube.com/embed/i_WMvxUlI3o?ecver=1" allowfullscreen></iframe>
+    </div>
 </div>
 
 <div class="content" markdown="1">
@@ -268,8 +353,20 @@ Die peruanische Gemeinde von Buenos Aires veranstaltet heute die traditionelle P
 Heute hat der erste Gesprächspartner aus dem Privatsektor unseren Termin vergessen. Er hat jedoch keine andere Verpflichtung, so dass wir unser Gespräch dennoch wie geplant durchführen können.
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Fensterputzer_Buenos-Aires.jpg">
+</div>
+
 <div class="content" markdown="1">
 Ob die schweizerische Unfallversicherung Suva die Sicherheitsstandards wohl gutheißen würde, unter denen die Fenster von lateinamerikanischen Hochhäuser geputzt werden?
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Blick_auf_buenos_Aires_von_Colonia_Uruguay.jpg">
+</div>
+
+<div class="content" markdown="1">
+Blick über den Río de la Plata auf die Skyline von Buenos Aires.
 </div>
 
 <div class="content" markdown="1">
@@ -295,6 +392,14 @@ Der Dokumentarfilm [«El futuro llegó»](https://www.filmaffinity.com/es/film12
 Heute Vormittag halte ich den letzten Vortrag im Rahmen der Forschungsreise. Dieser wird von der Arbeitsgruppe Compliance der AHK Argentinien organisiert und findet auf dem Campus der IAE Business School – Universidad Austral statt. Der Campus liegt gut 50km vom Stadtzentrum entfernt. Herzlichen Dank an Barbara Konner und Matthias Kleinhempel sowie ihre Teams!
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20171101_134036.jpg">
+</div>
+
+<div class="content" markdown="1">
+Daniel Funes de Rioja übernimmt die Präsidentschaft der B20.
+</div>
+
 <div class="content" markdown="1">
 Heute übernimmt Argentinien von Deutschland den Vorsitz in der Gruppe der zwanzig wichtigsten Industrie- und Schwellenländer G20. Aus diesem Anlass findet in der [AHK Argentinien](www.ahkargentina.com.ar/de/) ein Networking-Lunch des Dialogforums B20 mit Wirtschaftsvertretern aus beiden Ländern statt. Der bisherige Präsident der [B20](https://www.b20germany.org/), Jürgen Heraeus, hebt in seiner kurzen Ansprache die zentrale Bedeutung der unternehmerischen Verantwortung hervor.
 </div>
@@ -311,8 +416,16 @@ Das letzte Interview der Forschungsreise führe ich mit Reynaldo Postacchini vom
 ## Freitag, 3. November 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20171103_121503.jpg">
+</div>
+
 <div class="content" markdown="1">
 Zum Abschluss des Aufenthaltes in Argentinien darf ein butterzartes Filetsteak im Restaurant [Santos Manjares](https://www.facebook.com/santosmanjares) nicht fehlen :-)
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20171103_174416.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -321,6 +434,10 @@ Nach 28 Tagen in Argentinien heißt es Abschied nehmen. Um 18:05 Uhr Ortszeit st
 
 <div class="content" markdown="1">
 ## Samstag, 4. November 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20171104_072612.jpg">
 </div>
 
 <div class="content" markdown="1">

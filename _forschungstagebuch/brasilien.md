@@ -24,12 +24,24 @@ Besuch im [Regionalbüro für Lateinamerika der Allianz für Integrität](https:
 ## Samstag, 2. September 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_0513.jpg">
+</div>
+
 <div class="content" markdown="1">
 Die Wochenenden nutzen viele Paulistanos für einen Besuch im [Stadtpark Ibirapuera](https://goo.gl/maps/HLvBT4K1mUL2). Im Park befindet sich u.a. das [Museu Afro Brasil](http://www.museuafrobrasil.org.br/), dass sich der afro-brasilianischen Geschichte und Kultur widmet. Dort ist auch ein Code of Conduct für Sklavenhalter aus dem Jahr 1870 ausgestellt: «Instruções para a administração das fazendas» («Anweisungen für die Farmverwaltung»).
 </div>
 
 <div class="content" markdown="1">
 ## Sonntag, 3. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_0572.jpg">
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_0623.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -75,6 +87,10 @@ Zitat eines Uber-Fahrers: «São Paulo ist keine Stadt zum Leben, sondern eine S
 ## Freitag, 8. September 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20170916_175836.jpg">
+</div>
+
 <div class="content" markdown="1">
 Der brasilianische Spielfilm [«Polícia Federal – A Lei é Para Todos»]( http://www.imdb.com/title/tt6471684/?ref_=nv_sr_1) erzählt die Anfänge der Operação Lava Jato (Operation Hochdruckreiniger). Diese brachte den größten Korruptionsskandal in der Geschichte des Landes ins Rollen. Kritiker bemängeln, dass der Film zwar auf wahren Begebenheiten beruhe, diese aber nicht historisch korrekt verarbeite. Zum Teil werde dramaturgisch frei interpretiert. Spannend inszeniert ist er allemal.
 </div>
@@ -105,12 +121,24 @@ Heute geht es nach elf Tagen in São Paulo weiter nach Curitiba. Die Hauptstadt 
 ## Montag, 11. September 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/PRME_Konferenz_Brasilien_1.jpg">
+</div>
+
 <div class="content" markdown="1">
 Im Rahmen des 6. Regionaltreffens des [PRME Chapter Lateinamerika](http://www2.csf.itesm.mx/egade/prme/index.html) nehme ich an einer Paneldiskussion zum Thema «CSR in Latin America» teil und präsentiere erste Ergebnisse meiner Forschungsreise. Hochschulvertreter aus zahlreichen Ländern der Region diskutieren, wie verantwortungsvolle Unternehmensführung stärker in Forschung und Lehre von Hochschulen und Business Schools verankert werden kann.
 </div>
 
 <div class="content" markdown="1">
 ## Dienstag, 12. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Metrobus_Curitiba_1.jpg">
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Metrobus_Curitiba_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -130,6 +158,10 @@ Im Rahmen der Podiumsdiskussion «Leaders training for SDG 16 – Peace, justice
 
 <div class="content" markdown="1">
 ## Donnerstag, 14. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20170917_092852.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -169,8 +201,16 @@ Impressionen aus der ältesten Fußgängerzone Brasiliens.
 Heute geht es mit einem Flugzeug vom Typ Embraer 190 von Curitiba nach Rio de Janeiro. Das brasilianische Unternehmen [Embraer](http://embraer.com/global) ist der weltweit viertgrößte Flugzeugbauer.
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20170917_104121.jpg">
+</div>
+
 <div class="content" markdown="1">
 Im Bordmagazin der größten Fluggesellschaft Lateinamerikas LATAM wird Baiersbronn im Schwarzwald als einer der weltweit sechs romantischsten Orte empfohlen, um Flitterwochen zu verbringen.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20170917_164608.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -183,6 +223,14 @@ Am Abend gibt es Kokosnuss mit Zuckerhut. Lecker ;-)
 
 <div class="content" markdown="1">
 Die wirtschaftliche Krise hat Rio de Janeiro hart getroffen. Viele versuchen mit Apps wie Uber ihr Gehalt aufzubessern oder bestreiten ihren gesamten Lebensunterhalt damit. Oder wie ein Sprichwort sagt: «Está faltando emprego, mas não está faltando trabalho», («Arbeit fehlt nicht, aber Arbeitsplätze gibt es keine»).
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Blick_auf_Rio_3.jpg">
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Favela_Rio_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -199,6 +247,10 @@ Wenn in letzter Zeit Helikopter über den noblen Stadtvierteln im südlichen Tei
 
 <div class="content" markdown="1">
 ## Mittwoch, 20. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Impressionen_Rio_6.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -238,6 +290,10 @@ Anschließend geht es mit einer Turboprop-Maschine vom Typ ATR 72 vom Flughafen 
 
 <div class="content" markdown="1">
 ## Freitag, 22. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_20170922_184010.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -281,6 +337,14 @@ Ein Ziel des Projektes von Pater Álido ist die Wiederaufforstung der gerodeten 
 ## Dienstag, 26. September 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_15.jpg">
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_16.jpg">
+</div>
+
 <div class="content" markdown="1">
 Die *Aldeia Pyelito*, in der 58 Familien leben, verfügt weder über Strom noch Brunnen. Das Wasser kommt mit LKWs. Seit drei Monaten werden keine *cestas básicas* mehr geliefert. Der Grund dafür ist unbekannt.
 
@@ -319,6 +383,10 @@ In Brasilien tragen zahlreiche Erwachsene Zahnspangen, um sich die Zähne richte
 
 <div class="content" markdown="1">
 ## Samstag, 30. September 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_1255.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -362,6 +430,10 @@ Die Öko-Farm [Quinta da Estância](http://www.quintadaestancia.com.br/) nutzt i
 
 <div class="content" markdown="1">
 ## Donnerstag, 5. Oktober 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Vortrag_Deutsch_Brasilianische_Industrie-undHandelskammer_Rio_Grande_do_Sul_20171005_2.jpg">
 </div>
 
 <div class="content" markdown="1">

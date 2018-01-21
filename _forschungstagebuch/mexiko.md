@@ -1,12 +1,16 @@
 ---
 subject: Mexiko
 title: 3. - 25. Juli 2017
-#date:
+#date: 
 order: 1
 ---
 
 <div class="content" markdown="1">
 ## Montag, 3. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG 20170704_120549.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -17,6 +21,10 @@ Flug LH498 hat uns zwar mit Verspätung, aber sicher, von Frankfurt am Main nach
 ## Dienstag, 4. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170703_151705.jpg">
+</div>
+
 <div class="content" markdown="1">
 Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Stadt](https://mexiko.ahk.de/) statt. Er betont, dass sich deutsche Unternehmen bei der dualen Ausbildung (nach deutschem Vorbild) z.T. deutlich über das erforderliche Maß hinaus engagieren. Einige Unternehmen bilden über ihren eigenen Bedarf hinaus aus und unterstützen damit den Aufbau eines dualen Ausbildungssystems in Mexiko. Gleichzeitig fragt er sich, ob die deutschen Unternehmen bzgl. Compliance z.T. nicht «zu viel» machen.
 </div>
@@ -25,8 +33,20 @@ Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Sta
 ## Mittwoch, 5. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_0358.jpg">
+</div>
+
 <div class="content" markdown="1">
 Oliver Knoerich von der [Deutschen Botschaft Mexiko-Stadt](http://www.mexiko.diplo.de/Vertretung/mexiko/de/Startseite.html) berichtet, dass deutsche Unternehmen sich an staatlichen Ausschreibungsverfahren z.T. nicht beteiligen, weil sie keine Chance sehen zum Zuge zu kommen, wenn Sie integer bleiben wollen. Das Thema Compliance müsse von zwei Stoßrichtungen angegangen werden: zum einen vom mexikanischen Staat, zum anderen von den ausländischen Unternehmen.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170705_120309.jpg">
+</div>
+
+<div class="content" markdown="1">
+Berliner Bär vor der Deutschen Botschaft in Mexiko-Stadt.
 </div>
 
 <div class="content" markdown="1">
@@ -41,8 +61,16 @@ In den noblen Wohnvierteln wie [La Condesa](https://goo.gl/maps/jo1qWxpyToD2) od
 ## Freitag, 7. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170707_Martinez_Chavez_Augosto_Draeger.jpg">
+</div>
+
 <div class="content" markdown="1">
 Nach Einschätzung von Augusto Martínez von [Draeger Mexico](https://www.draeger.com/es_mx/Home) ist die Definition von Korruption überall auf der Welt die gleiche, ohne kulturelle Unterschiede. Demnach bedeutet Korruption die Regeln auf irgendeine Weise zu umgehen, um sich einen Vorteil zu verschaffen. «Corrupción es brincar la ley mediante algún medio a ventajarse».
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/IMG_0414.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -51,6 +79,10 @@ Alberto Equihua vom Ableger des [BDI](http://www.bdi-mexico.com/) in Mexiko merk
 
 <div class="content" markdown="1">
 ## Samstag, 8. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170708_194022.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -89,6 +121,10 @@ In der Peripherie Mexiko-Stadts funktioniert die kommunale Müllentsorgung nicht
 Stefan Jost, Leiter des KAS-Auslandsbüros in Mexiko berichtet, dass in Mexiko großer Patriotismus vorhanden sei, gleichzeitig aber wenig Vertrauen in die Regierung herrsche. Die Haltung «je weniger ich von den offiziellen Strukturen abhängig bin, desto besser bin ich dran», stärke den informellen Sektor.
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Aguirre_Jorge_Unternehmer_Mexico_20170710_1.jpg">
+</div>
+
 <div class="content" markdown="1">
 Jorge Aguirre, Jungunternehmer aus dem Bundesstaat Sonora betont, dass bei der Korruption, wie bei einer Treppe, von oben nach unten gefegt werden müsse, sonst funktioniere es nicht.
 </div>
@@ -103,6 +139,10 @@ Der Smart-TV in der Unterkunft empfängt kein normales, lineares Fernsehprogramm
 
 <div class="content" markdown="1">
 ## Mittwoch, 12. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170713_162851.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -130,12 +170,20 @@ Bei der Veranstaltung «Bonos de Impacto en México: oportunidades y retos» wir
 ## Freitag, 14. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170714_172219.jpg">
+</div>
+
 <div class="content" markdown="1">
 Im Zentrum von Mexiko-Stadt wird das aztekische Erbe freigelegt. Als die Spanier 1519 die damalige Azteken-Hauptstadt namens Tenochtitlan erreichten, lag diese auf mehreren Inseln im Texcoco-See. Dieser ist heute weitgehend ausgetrocknet. Die schiefen Wände vieler kolonialer Bauwerke lassen aber auf den weichen Untergrund schließen, auf dem diese errichtet wurden.
 </div>
 
 <div class="content" markdown="1">
 ## Samstag, 15. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170715_101928.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -156,6 +204,10 @@ Mülltrennung auf mexikanische Art.
 ## Sonntag, 16. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170716_184431.jpg">
+</div>
+
 <div class="content" markdown="1">
 Best Süssgebäck ever vom Straßenmarkt in San Angel :-)
 </div>
@@ -174,6 +226,10 @@ Am Rande eines Straßenmarktes im Stadtteil San Angel bietet ein schamanischer H
 ## Montag, 17. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170717_164520.jpg">
+</div>
+
 <div class="content" markdown="1">
 Nicht-zu-verkaufen: Anwohner kämpfen gegen die Gentrifizierung ihres Viertels, die nach ihrer Einschätzung auch mithilfe von Korruption vorangetrieben wird.
 </div>
@@ -182,8 +238,16 @@ Nicht-zu-verkaufen: Anwohner kämpfen gegen die Gentrifizierung ihres Viertels, 
 ## Dienstag, 18. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Mestre_Javier_Corresponsables_MexicoStadt_2017071_1.jpg">
+</div>
+
 <div class="content" markdown="1">
 Javier Mestre, von Corresponsables hebt hervor «Was nicht gemessen wird, kann nicht verbessert werden». Daher müsse Nachhaltigkeit in den Unternehmen gemessen werden. Darüber hinaus betont er, dass es auf die soziale Verantwortung von Unternehmen kein Urheberrecht geben dürfe. Dennoch kommunizieren einige Unternehmen ihr Engagement nicht, damit sie nicht kopiert werden können. Diesen Ansatz hält er für falsch.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170718_182648.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -193,6 +257,10 @@ Der Taco al pastor ist eine in Mexiko sehr beliebte Taco-Art mit Schweinefleisch
 
 <div class="content" markdown="1">
 ## Mittwoch, 19. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Cortes_Lorena_CEMEFI_MexicoStadt_20170719_3.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -220,6 +288,10 @@ Eine Sperrmüllsammlerin fährt durch die Straßen und macht mithilfe eines Mega
 ## Donnerstag, 20. Juli 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Roche_Aussenansicht_4.jpg">
+</div>
+
 <div class="content" markdown="1">
 Gespräch bei Roche. Einkaufschef Arturo Alonso schildert, wie das Schweizer Pharmaunternehmen Nachhaltigkeit in seiner Lieferkette sicherstellt. Nach seiner Erfahrung können lokale Zulieferer viel von multinationalen Unternehmen lernen. Gleichzeitig sind die lokalen Zulieferer wichtig für die multinationalen Unternehmen. Der gezielte Austausch mit den Zulieferern über das Thema Nachhaltigkeit wird auch als Triebfeder für Innovationen genutzt.
 </div>
@@ -234,6 +306,10 @@ Netflix-Abend: In der satirischen Filmkomödie [«La dictadura perfecta»](http:
 
 <div class="content" markdown="1">
 ## Samstag, 22. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Tenayuca_Pyramide_Mexiko_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -264,6 +340,10 @@ Wir erwarten eine wichtige Expresssendung mit TNT. Diese entwickelt sich zum Rei
 
 <div class="content" markdown="1">
 ## Dienstag, 25. Juli 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170725_110956.jpg">
 </div>
 
 <div class="content" markdown="1">

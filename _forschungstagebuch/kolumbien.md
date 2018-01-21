@@ -20,12 +20,20 @@ Fun-Fact: Der Höhenunterschied zwischen Lima (161 m ü.M.) und Bogotá (2640 m 
 In Kolumbien scheinen die Menschen sehr früh zur Arbeit zu gehen. Viele Gesprächstermine werden uns deutlich früher angeboten als in Mexiko oder Peru.
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170814_der_Krieg_Ist_vorbei.jpg">
+</div>
+
 <div class="content" markdown="1">
 In blauer und roter Schrift ist zu lesen, was Kolumbien bewegt: Der Krieg ist vorbei, der Friede ist gekommen.
 </div>
 
 <div class="content" markdown="1">
 ## Dienstag, 15. August 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170815_Vortrag_AHK_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -123,12 +131,20 @@ Verglichen mit den beiden anderen Hauptstädten, Mexiko-Stadt und Lima, ist die 
 ## Mittwoch, 23. August 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170823_144625.jpg">
+</div>
+
 <div class="content" markdown="1">
 Das Einkaufszentrum Andino liegt auf dem ehemaligen Gelände der Deutschen Schule. Im Juni 2017 fand dort auf der Damentoilette ein Sprengstoffanschlag statt, dem drei Menschen zum Opfer fielen. Daher werden an den Eingängen jetzt Sprengstoffspürhunde eingesetzt.
 </div>
 
 <div class="content" markdown="1">
 ## Donnerstag, 24. August 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170824_125404.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -145,6 +161,10 @@ Offizielle Lancierung der [Better Gold Initiative](http://www.swissbettergold.ch
 ## Freitag, 25. August 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170825_Baeckerei_Brot.jpg">
+</div>
+
 <div class="content" markdown="1">
 In der Bäckerei «Brot» wird man gefragt, ob man sein Brot aufgeschnitten haben will. Wenn man dies bejaht, schneidet die Verkäuferin das Brot von Hand auf.
 
@@ -156,8 +176,16 @@ Heute schauen wir im Kino den Dokumentarfilm [«Amazona»](http://www.imdb.com/t
 ## Samstag, 26. August 2017
 </div>
 
+<div class="media-wrapper">
+    <img src="../media/img/ftb/Blick_ueber_Bogota_11.jpg">
+</div>
+
 <div class="content" markdown="1">
 Der Hausberg Montserrate bietet einen beeindruckenden Blick über die Millionenstadt Bogotá. Durch den Blick von oben werden die Ausmaße der Megacity deutlich.
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170826_123004.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -182,6 +210,10 @@ Heute fahren wir das erste Mal mit einem weiblichen Uberfahrer. Sie erzählt uns
 
 <div class="content" markdown="1">
 ## Dienstag, 29. August 2017
+</div>
+
+<div class="media-wrapper">
+    <img src="../media/img/ftb/20170818_171730.jpg">
 </div>
 
 <div class="content" markdown="1">
