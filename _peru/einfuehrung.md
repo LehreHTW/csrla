@@ -5,7 +5,7 @@ title: «Peru ist ein Bettler, der auf einer Schatztruhe sitzt»
 order: 1
 gallery:
   - images:
-    - filename: BILD_PERU-10.jpg
+    - filename: BILD_PERU-13.jpg
       alttext: MX 1
     - filename: BILD_PERU-8.jpg
       alttext: MX 1

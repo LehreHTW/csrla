@@ -1,9 +1,9 @@
 ---
 layout: country
 title: Fazit
-group: navigation-10
-order: 10
-header-img:
+group: navigation-08
+order: 8
+header-img: Mülleimer_Brasilien_1.jpg
 ---
 <section class="box">
 <div class="content">

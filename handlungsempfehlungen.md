@@ -2,9 +2,9 @@
 layout: country
 title: Empfehlungen
 subtitle: «Das wirtschaftliche Umfeld Lateinamerikas ist nichts für Anfänger, sondern nur für Profis»
-group: navigation-08
-order: 8
-header-img:
+group: navigation-09
+order: 9
+header-img: 20170717_142211.jpg
 ---
 {% assign empfehlungen = site.empfehlungen | sort: "order" %}
 {% for ch in empfehlungen %}

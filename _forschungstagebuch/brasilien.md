@@ -80,7 +80,7 @@ Im Umfeld des [Roche-Firmengeländes](http://www.roche.com.br/) befindet sich di
 </div>
 
 <div class="content" markdown="1">
-Zitat eines Uber-Fahrers: «São Paulo ist keine Stadt zum Leben, sondern eine Stadt zum Arbeiten». Deshalb verlassen alle, die es sich leisten können, an einem Feiertag wie dem heutigen brasilianischen Unabhängigkeitstag die Stadt. Am 7. September 1822 hatte der portugiesische Kronprinz Dom Petro mit dem *Grito do Ipiranga*die Unabhängigkeit Brasiliens ausgerufen.
+Zitat eines Uber-Fahrers: «São Paulo ist keine Stadt zum Leben, sondern eine Stadt zum Arbeiten». Deshalb verlassen alle, die es sich leisten können, an einem Feiertag wie dem heutigen brasilianischen Unabhängigkeitstag die Stadt. Am 7. September 1822 hatte der portugiesische Kronprinz Dom Petro mit dem *Grito do Ipiranga* die Unabhängigkeit Brasiliens ausgerufen.
 </div>
 
 <div class="content" markdown="1">
@@ -142,7 +142,7 @@ Im Rahmen des 6. Regionaltreffens des [PRME Chapter Lateinamerika](http://www2.c
 </div>
 
 <div class="content" markdown="1">
-[Curitiba](https://goo.gl/maps/qfaFgirM6e82)gilt seit den 1970er Jahren als Modell für die Stadtentwicklung in Lateinamerika. Die Stadt verfügte über die erste Fußgängerzone und das erste Metrobus-System in der Region.
+[Curitiba](https://goo.gl/maps/qfaFgirM6e82) gilt seit den 1970er Jahren als Modell für die Stadtentwicklung in Lateinamerika. Die Stadt verfügte über die erste Fußgängerzone und das erste Metrobus-System in der Region.
 </div>
 
 <div class="content" markdown="1">
@@ -456,4 +456,3 @@ Heute wird im noblen Stadtviertel Jardim Pernambuco (Leblon) in Rio de Janeiro C
 <div class="content" markdown="1">
 Am letzten Abend in Brasilien nochmals eine Filmkomödie: [«Chocante»](http://www.imdb.com/title/tt6987798/) lässt die 1990er Jahre wieder aufleben. Zwanzig Jahre nach ihrem One-Hit-Wonder versuchen die abgehalfterten Ex-Mitglieder einer brasilianischen Boyband an ihren Erfolg anzuknüpfen. Musikalisch wie cineastisch wenig überzeugend.
 </div>
-

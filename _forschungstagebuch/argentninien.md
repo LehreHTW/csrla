@@ -45,14 +45,6 @@ Am ersten Abend in Buenos Aires erwartet uns ein Straßenfest der bolivianischen
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171008_145341.jpg">
-</div>
-
-<div class="content" markdown="1">
-Mate-Tee-Gefäße auf dem Sonntagsmarkt in San Telmo.
-</div>
-
-<div class="media-wrapper">
     <img src="../media/img/ftb/20171008_151200.jpg">
 </div>
 
@@ -74,7 +66,7 @@ Jeden Sonntag findet in einem der schönsten Stadtviertel von Buenos Aires ein S
 
 <div class="media-wrapper">
     <audio controls>
-        <source src="../media/audio/Strassengeräusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
+        <source src="../media/audio/Strassengeräusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
@@ -89,13 +81,6 @@ Beim Gang durch die Fußgängerzone Calle Florida begegnet man zahlreichen Geldw
 
 <div class="content" markdown="1">
 Nach einer durchwachsenen WM-Qualifikation qualifiziert sich Argentinien am letzten Spieltag dank dreier Tore von Lionel Messi für die Fußballweltmeisterschaft 2018 in Russland. Das Ereignis wird als Gottesbeweis verstanden und mit einem Hupkonzert auf der Plaza de la República gefeiert.
-</div>
-
-<div class="content" markdown="1">
-## 
-</div>
-
-<div class="content" markdown="1">
 </div>
 
 <div class="content" markdown="1">

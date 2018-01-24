@@ -177,7 +177,7 @@ Heute schauen wir im Kino den Dokumentarfilm [«Amazona»](http://www.imdb.com/t
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Blick_ueber_Bogota_11.jpg">
+    <img src="../media/img/20170826_120343.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -227,4 +227,3 @@ Bogotá bereitet sich auf den Besuch von Papst Franziskus vor. Dieser plant eine
 <div class="content" markdown="1">
 Nach 19 Tagen in Bogotá geht es heute mit Flug AV0085 weiter nach São Paulo. Es steht der zweite Nachtflug der Reise an. Abflug ist um 22:04 Uhr. Nach gut sechs Stunden Flugzeit erfolgt die Landung gegen 6:15 Uhr Ortszeit. Die Zeitverschiebung zwischen Kolumbien und der Ostküste Brasiliens beträgt zwei Stunden.
 </div>
-
