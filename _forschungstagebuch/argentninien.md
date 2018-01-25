@@ -5,23 +5,23 @@ title: 7. Oktober - 4. November 2017
 order: 5
 gallery:
   - images:
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_1.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_1.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_2.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_2.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_3.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_3.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_4.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_4.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_5.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_5.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_6.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_6.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_7.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_7.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_8.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_8.jpg
       alttext: AT 1
-    - filename: Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
+    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
       alttext: AT 1
 ---
 <div class="content" markdown="1">
@@ -216,7 +216,7 @@ Heute demonstrieren noch weitere politische Gruppierungen auf der Plaza de Mayo.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Wo_ist_Santiago_Graffiti.jpg">
+    <img src="../media/img/ftb/Politisches_Graffiti_wo_ist_Santiago_Maldonado_4.jpg">
 </div>
 
 <div class="content" markdown="1">
