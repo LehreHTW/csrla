@@ -191,7 +191,7 @@ Heute organisiert die AHK Peru ein Arbeitsfrühstück zum Thema: «Ética y nego
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170805_Vortrag_Uni_Centrum_Lima_4.jpg">
+    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -199,7 +199,7 @@ Heute sind wir eingeladen, ein Seminar zum Thema CSR und Compliance an der CENTR
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170805_Vortrag_Uni_Centrum_Lima_2.jpg">
+    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -299,7 +299,7 @@ Am letzten Abend in Lima schauen wir im Kino die peruanische Filmkomödie [«Onc
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170812_FLug-Lima_nach_Bogota.jpg">
+    <img src="../media/img/ftb/Abflug_Lima_1.jpg">
 </div>
 
 <div class="media-wrapper">

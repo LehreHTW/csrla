@@ -21,7 +21,7 @@ In Kolumbien scheinen die Menschen sehr früh zur Arbeit zu gehen. Viele Gesprä
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170814_der_Krieg_Ist_vorbei.jpg">
+    <img src="../media/img/ftb/Graffiti_der_Krieg_ist_vorbei_es_kam_der_Frieden_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">

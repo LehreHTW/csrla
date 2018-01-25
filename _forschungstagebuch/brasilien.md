@@ -202,7 +202,7 @@ Heute geht es mit einem Flugzeug vom Typ Embraer 190 von Curitiba nach Rio de Ja
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170917_104121.jpg">
+    <img src="../media/img/ftb/Latam_Zeitschrift_6_Orte_für_den_Honeymoon_2.jpg">
 </div>
 
 <div class="content" markdown="1">

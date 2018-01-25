@@ -53,7 +53,7 @@ Straßenszene Sonntagsmarkt San Telmo.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_3.jpg">
+    <img src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -147,7 +147,7 @@ In Buenos Aires stößt man immer wieder auf politisch motivierte Graffiti: «Wi
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruuecke_1.jpg">
+    <img src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruecke_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -347,7 +347,7 @@ Ob die schweizerische Unfallversicherung Suva die Sicherheitsstandards wohl guth
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Blick_auf_buenos_Aires_von_Colonia_Uruguay.jpg">
+    <img src="../media/img/ftb/IMG_1737.jpg">
 </div>
 
 <div class="content" markdown="1">
