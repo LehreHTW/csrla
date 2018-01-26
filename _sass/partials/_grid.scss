@@ -28,13 +28,14 @@
     position: relative;
     @include flexbox(row, wrap, center, flex-start);
 
+    @media screen and (min-width: $sidestory-break+1){
+        &.has-sidestories-left{
+            justify-content: flex-start;
+        }
 
-    &.has-sidestories-left{
-        justify-content: flex-start;
-    }
-
-    &.has-sidestories-right{
-        justify-content: flex-end;
+        &.has-sidestories-right{
+            justify-content: flex-end;
+        }
     }
 
     .content{
@@ -53,7 +54,7 @@
         max-width: 800px;
 
         p, table{
-            font-size: 80%;            
+            font-size: 80%;
         }
 
         @media screen and (max-width: $sidestory-break){

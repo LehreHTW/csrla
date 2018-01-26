@@ -23,7 +23,7 @@ _wenn du noch nicht Teil des Repos bist, bitte myriam@halfapx.com eine Mail schr
 Mit dem Terminal geht das am schnellsten. mit `cd [PFAD]` in den Überordner navigieren in den gecloned werden soll und dann clonen mit der URL (Falls kein SSH Key hinterlegt ist [Anleitung](https://help.github.com/articles/connecting-to-github-with-ssh/)), alternativ HTTPS URL verwenden.
 
 ``` bash
-git clone git@github.com:mynimi/csr-lateinamerika.git
+git clone git@github.com:LehreHTW/csr-lateinamerika.git
 ```
 
 Der Ordner wird heruntergeladen und jekyll kann nun gestartet werden.
