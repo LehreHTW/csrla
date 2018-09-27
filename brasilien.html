@@ -9,12 +9,14 @@ surface: 8'515'770
 population: 207'652'865
 gdp: 8'650
 altitude: 1172
+lang: de
+ref: brasilien
 ---
-{% assign brasilien = site.brasilien | sort: "order" %}
+{% assign brasilien = site.brasilien | where: 'lang', page.lang | sort: "order" %}
 {% for ch in brasilien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}
-        <div class="image grid" style="background-image: url(../media/img/{{ ch.chapter_image }});">
+        <div class="image grid" style="background-image: url({{ ch.chapter_image | prepend: '/media/img/chapter/' | prepend: site.baseurl }});">
         </div>
     {% endif %}
     <div class="content">

@@ -1,8 +1,14 @@
 <div class="navbar">
-    <span class="nav-toggle link">Inhaltsverzeichnis</span>
+    <div class="nav-toggle-container"><span class="nav-toggle link">{{ site.t[page.lang].contents }}</span></div>
+	{% assign translations = site.pages | where: 'ref', page.ref | sort: "lang" %}
+	<ul>
+	{% for translation in translations %}
+		<li><a href="{{ translation.url | prepend: site.baseurl }}">{{ translation.lang }}</a></li>
+	{% endfor %}
+	</ul>
     <div class="right">
         <!-- find previous and next page in order for page navigator -->
-      {% assign  document = site.pages | sort: "order" | where: 'exclude', 'false' %}
+      {% assign  document = site.pages | sort: "order" | where: 'exclude', 'false' | where: 'lang', page.lang %}
             {% for links in document %}
                 {% if links.title == page.title %}
 
@@ -62,7 +68,7 @@
     </p>
     <nav>
         <!-- iterate through pages and add links based on order -->
-        {% assign pages_list = site.pages | sort:"group" %}
+        {% assign pages_list = site.pages | where: 'lang', page.lang | sort:"group" %}
         {% assign group = 'navigation' %}
         {% for item in pages_list %}
           {% if group == null or item.group contains group %}

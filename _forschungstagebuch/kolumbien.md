@@ -3,6 +3,7 @@ subject: Kolumbien
 title: 13. - 30. August 2017
 #date:
 order: 3
+lang: de
 ---
 <div class="content" markdown="1">
 ## Sonntag, 13. August 2017
@@ -21,7 +22,7 @@ In Kolumbien scheinen die Menschen sehr früh zur Arbeit zu gehen. Viele Gesprä
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Graffiti_der_Krieg_ist_vorbei_es_kam_der_Frieden_Bogota.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Graffiti_der_Krieg_ist_vorbei_es_kam_der_Frieden_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -33,14 +34,14 @@ In blauer und roter Schrift ist zu lesen, was Kolumbien bewegt: Der Krieg ist vo
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170815_Vortrag_AHK_Bogota.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170815_Vortrag_AHK_Bogota.jpg">
 </div>
 
 <div class="content" markdown="1">
 Die AHK Kolumbien lädt heute in Kooperation mit der Schweizer Kammer in Kolumbien zu meinem Vortrag «Lucha empresarial contra la corrupción» ein. Vielen Dank an Yolanda Rodríguez und ihr Team!
 
 
-Carlos Lozano von Coresponsables hebt hervor, dass kein Superheld, wie Batman oder Superman, kommen werde, um Kolumbien zu retten. Vielmehr seien die Kolumbianer selbst gefordert, die sozialen und ökologischen Herausforderungen des Landes anzugehen.
+Carlos Lozano von Corresponsables hebt hervor, dass kein Superheld, wie Batman oder Superman, kommen werde, um Kolumbien zu retten. Vielmehr seien die Kolumbianer selbst gefordert, die sozialen und ökologischen Herausforderungen des Landes anzugehen.
 </div>
 
 <div class="content" markdown="1">
@@ -132,7 +133,7 @@ Verglichen mit den beiden anderen Hauptstädten, Mexiko-Stadt und Lima, ist die 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170823_144625.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170823_144625.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -144,7 +145,7 @@ Das Einkaufszentrum Andino liegt auf dem ehemaligen Gelände der Deutschen Schul
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170824_125404.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170824_125404.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -162,7 +163,7 @@ Offizielle Lancierung der [Better Gold Initiative](http://www.swissbettergold.ch
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170825_Baeckerei_Brot.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170825_Baeckerei_Brot.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -177,7 +178,7 @@ Heute schauen wir im Kino den Dokumentarfilm [«Amazona»](http://www.imdb.com/t
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/20170826_120343.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/20170826_120343.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -185,7 +186,7 @@ Der Hausberg Montserrate bietet einen beeindruckenden Blick über die Millionens
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170826_123004.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170826_123004.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -213,7 +214,7 @@ Heute fahren wir das erste Mal mit einem weiblichen Uberfahrer. Sie erzählt uns
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170818_171730.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170818_171730.jpg">
 </div>
 
 <div class="content" markdown="1">

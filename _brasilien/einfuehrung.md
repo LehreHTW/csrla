@@ -5,18 +5,19 @@ title:  «Brasilien ist ein traumhaftes Land, das von einer korrupten Elite behe
 order: 1
 gallery:
   - images:
-    - filename: BILD_BRASILIEN-3.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-5.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-14.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-16.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-19.jpg
-      alttext: MX 1
-    - filename: BILD_BRASILIEN-20.jpg
-      alttext: MX 1
+    - filename: gallery/brasilien_1.jpeg
+      alttext: BRA 1
+    - filename: gallery/brasilien_2.jpeg
+      alttext: BRA 2
+    - filename: gallery/brasilien_3.jpeg
+      alttext: BRA 3
+    - filename: gallery/brasilien_4.jpeg
+      alttext: BRA 4
+    - filename: gallery/brasilien_5.jpeg
+      alttext: BRA 5
+    - filename: gallery/brasilien_6.jpeg
+      alttext: BRA 6
+lang: de
 ---
 <!-- Text mit Sidestory rechts -->
 <div class="has-sidestories-right grid" markdown="1">

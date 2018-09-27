@@ -135,6 +135,10 @@ $(document).ready(function() {
         $('.indexes .countries span').hide();
         $('.indexes .countries .'+c).show();
     });
+	
+	var myLazyLoad = new LazyLoad({
+		elements_selector: ".lazy"
+	});
 });
 
 // center element in viewport

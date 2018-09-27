@@ -3,6 +3,7 @@ country: Empfehlungen
 subject: Handlungsempfehlungen
 title: für zivilgesellschaftliche Akteure
 order: 3
+lang: de
 ---
 <div class="content" markdown="1">
 ### Plattformen zur Sensibilisierung sowie zum Wissens- und Technologie-Transfer etablieren und weiterentwickeln.

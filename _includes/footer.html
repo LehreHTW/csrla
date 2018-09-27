@@ -1,10 +1,12 @@
-
+{% assign impressum = site.pages | where: 'lang', page.lang | where: 'ref', 'impressum' %}
 <footer>
     <p>
         <span>&copy; Christian Hauser </span>
         <span>&middot; 2018 </span>
         &middot;
-        <a href="{{"/impressum/"  | prepend: site.baseurl }}">Impressum</a>
+		{% for imp in impressum %}
+        <a href="{{ imp.url  | prepend: site.baseurl }}">{{ site.t[page.lang].impressum }}</a>
+		{% endfor %}
     </p>
 </footer>
 
@@ -12,3 +14,4 @@
 <script src="{{"/js/mixitup.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{"/js/mixitup-multifilter.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{"/js/main.js" | prepend: site.baseurl }}"></script>
+<script src="{{"/js/lazyload.min.js" | prepend: site.baseurl }}"></script>

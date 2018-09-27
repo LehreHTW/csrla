@@ -9,12 +9,14 @@ surface: 1'138'910
 population: 48'653'419
 gdp: 5'806
 altitude: 2640
+lang: de
+ref: kolumbien
 ---
-{% assign kolumbien = site.kolumbien | sort: "order" %}
+{% assign kolumbien = site.kolumbien | where: 'lang', page.lang | sort: "order" %}
 {% for ch in kolumbien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}
-        <div class="image grid" style="background-image: url(../media/img/{{ ch.chapter_image }});">
+        <div class="image grid" style="background-image: url({{ ch.chapter_image | prepend: '/media/img/chapter/' | prepend: site.baseurl }});">
         </div>
     {% endif %}
     <div class="content">

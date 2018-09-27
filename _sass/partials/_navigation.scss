@@ -29,8 +29,13 @@
         right: 15px;
     }
     .right{
-        width: auto;
+		width: 40%;
     }
+	
+	.nav-toggle-container {
+		width: 40%;
+	}
+	
     .nav-toggle{
         font-size: 1em;
         cursor: pointer;
@@ -46,6 +51,19 @@
             opacity: 0;
         }
     }
+	
+	ul {
+		display: flex;
+		flex-grow: 1;
+		justify-content: center;
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+	}
+	
+	ul li {
+		padding: 0 20px;
+	}
 }
 
 // menu

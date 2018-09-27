@@ -3,7 +3,9 @@ layout: country
 title: Einleitung
 group: navigation-02
 order: 2
-header-img: Leihräder_Eco_Bici_MexikoStadt_3.jpg
+header-img: Leihraeder_Eco_Bici_MexikoStadt_3.jpg
+lang: de
+ref: einleitung
 ---
 <section class="box">
 <div class="content">

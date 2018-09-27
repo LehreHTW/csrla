@@ -5,24 +5,25 @@ title: 7. Oktober - 4. November 2017
 order: 5
 gallery:
   - images:
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_1.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_1.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_2.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_2.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_3.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_3.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_4.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_4.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_5.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_5.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_6.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_6.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_7.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_7.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_8.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_8.jpg
       alttext: AT 1
-    - filename: /ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
+    - filename: ftb/Strassenfest_bolivianische_Gemeinde_Buenos_Aires_9.jpg
       alttext: AT 1
+lang: de
 ---
 <div class="content" markdown="1">
 ## Samstag, 7. Oktober 2017
@@ -45,7 +46,7 @@ Am ersten Abend in Buenos Aires erwartet uns ein Straßenfest der bolivianischen
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171008_151200.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171008_151200.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -53,7 +54,7 @@ Straßenszene Sonntagsmarkt San Telmo.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Strassentango_San_Telmo_Buenos_Aires_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -66,7 +67,7 @@ Jeden Sonntag findet in einem der schönsten Stadtviertel von Buenos Aires ein S
 
 <div class="media-wrapper">
     <audio controls>
-        <source src="../media/audio/Strassengeräusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
+        <source src="../media/audio/Strassengeraeusche_Florida_Buenos_Aires_Cambio-Cambio_20171101_ba.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </div>
@@ -113,7 +114,7 @@ Francisco von Wuthenau konstatiert, dass in Argentinien die Vorstellung vorherrs
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Schlafstaette-Obdachloser_BA.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Schlafstaette-Obdachloser_BA.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -139,7 +140,7 @@ Auf der Avenida 9 de Julio, eine der Hauptverkehrsadern von Buenos Aires, verkeh
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politisches_Graffiti_Buenos_Aires_wir-haben-alle-mapucheblut-die-armen-in-den-venen-die-reichen-an-den-haenden.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politisches_Graffiti_Buenos_Aires_wir-haben-alle-mapucheblut-die-armen-in-den-venen-die-reichen-an-den-haenden.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -147,7 +148,7 @@ In Buenos Aires stößt man immer wieder auf politisch motivierte Graffiti: «Wi
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruecke_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Modernisiertes_Hafenviertel_Puerto_Madero_Buenos_Aires_Calatravabruecke_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -159,7 +160,7 @@ Auf dem Rückweg vom modernen Hafenviertel Puerto Madero in die Unterkunft am Ob
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171030_094140.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171030_094140.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -201,7 +202,7 @@ Die [Grupo Murchison](http://www.grupomurchison.com.ar/) betreibt für ihren Haf
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Donnerstag-Demo_Madres_der_Plaza_de_Mayo_vor_den_Wahlen_Oktober_2017_Buenos_Aires_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Donnerstag-Demo_Madres_der_Plaza_de_Mayo_vor_den_Wahlen_Oktober_2017_Buenos_Aires_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -212,11 +213,11 @@ Heute demonstrieren noch weitere politische Gruppierungen auf der Plaza de Mayo.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politische_Demo_wo_ist_Santiago_Maldonado_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politische_Demo_wo_ist_Santiago_Maldonado_1.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Politisches_Graffiti_wo_ist_Santiago_Maldonado_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Politisches_Graffiti_wo_ist_Santiago_Maldonado_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -286,7 +287,7 @@ Während sämtliche Gesprächspartner aus der Privatwirtschaft sehr zuverlässig
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171014_192432.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171014_192432.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -309,7 +310,7 @@ Die türkische Soziologin Zeynep Tufekci thematisiert dieses Phänomen in ihrem 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20171028_Hundekot_Gehweg_Buenos_Aires.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20171028_Hundekot_Gehweg_Buenos_Aires.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -339,7 +340,7 @@ Heute hat der erste Gesprächspartner aus dem Privatsektor unseren Termin verges
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Fensterputzer_Buenos-Aires.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Fensterputzer_Buenos-Aires.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -347,7 +348,7 @@ Ob die schweizerische Unfallversicherung Suva die Sicherheitsstandards wohl guth
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_1737.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_1737.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -378,7 +379,7 @@ Heute Vormittag halte ich den letzten Vortrag im Rahmen der Forschungsreise. Die
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171101_134036.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171101_134036.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -402,7 +403,7 @@ Das letzte Interview der Forschungsreise führe ich mit Reynaldo Postacchini vom
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171103_121503.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171103_121503.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -410,7 +411,7 @@ Zum Abschluss des Aufenthaltes in Argentinien darf ein butterzartes Filetsteak i
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171103_174416.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171103_174416.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -422,7 +423,7 @@ Nach 28 Tagen in Argentinien heißt es Abschied nehmen. Um 18:05 Uhr Ortszeit st
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20171104_072612.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20171104_072612.jpg">
 </div>
 
 <div class="content" markdown="1">

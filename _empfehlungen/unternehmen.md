@@ -3,6 +3,7 @@ country: Empfehlungen
 subject: Handlungsempfehlungen
 title: Für Unternehmen
 order: 1
+lang: de
 ---
 <div class="content" markdown="1">
 ### Klare und stringente Unternehmenspolitik formulieren und verantwortungsvolle Unternehmensführung in den Kernprozessen verankern.

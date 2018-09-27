@@ -3,6 +3,7 @@ subject: Schweiz
 title: 20. - 24. Juni 2017
 #date:
 order: 0
+lang: de
 ---
 <div class="content" markdown="1">
 ## Dienstag, 20. Juni 2017

@@ -3,6 +3,7 @@ subject: Peru
 title: 26. Juli - 12. August 2017
 #date:
 order: 2
+lang: de
 ---
 <div class="content" markdown="1">
 ## Mittwoch, 26. Juli 2017
@@ -19,7 +20,7 @@ Erster Tag in Lima: Stadtteil Miraflores – das Polanco Perus. Unsere Wohnung i
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Benavides_Eduardo_ Abogado_Lima_20170726_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Benavides_Eduardo_ Abogado_Lima_20170726_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -31,7 +32,7 @@ Der erste Interviewpartner, Eduardo Benavides, betont, dass es zwei Perus gäbe:
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_165915.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_165915.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -43,11 +44,11 @@ Heute ist der erste Tag der viertägigen Feierlichkeiten zum peruanischen Nation
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_164402.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_164402.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170728_165043.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170728_165043.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -69,7 +70,7 @@ Die Peruaner begehen die *Fiestas Patrias* mit einer großen Militärparade. Die
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170729_121443.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170729_121443.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -81,7 +82,7 @@ Das wirklich Interessante ist jedoch nicht die Parade selbst, sondern das gesch�
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170729_154159.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170729_154159.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -117,7 +118,7 @@ Sonntagsabends trifft man sich in Miraflores am Plaza Kennedy zum Tanz.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Custer_Felipe_Empresario_Lima_20170731_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Custer_Felipe_Empresario_Lima_20170731_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -133,7 +134,7 @@ Sebastian Grundberger, Leiter des KAS-Auslandsbüros Peru, beobachtet, dass in P
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170801_Nationalfeiertag_Schweiz_Residenz_Botschafter.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170801_Nationalfeiertag_Schweiz_Residenz_Botschafter.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -167,11 +168,11 @@ Sehr typisch für Lima: wenn man durch die Straßen läuft, wird man ständig vo
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170804_Vortrag_AHK_Lima_6.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170804_Vortrag_AHK_Lima_6.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170804_Vortrag_AHK_Lima_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170804_Vortrag_AHK_Lima_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -187,11 +188,11 @@ Heute organisiert die AHK Peru ein Arbeitsfrühstück zum Thema: «Ética y nego
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_mit_Sandro_Sanchez.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_mit_Sandro_Sanchez.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -199,7 +200,7 @@ Heute sind wir eingeladen, ein Seminar zum Thema CSR und Compliance an der CENTR
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Unterrichtseinheit_Uni_Centrum_Lima_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -223,7 +224,7 @@ Heute erscheint zum ersten Mal ein Interviewpartner nicht zum vereinbarten Gespr
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Perla_Javier_Libelula_Lima_20170807.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Perla_Javier_Libelula_Lima_20170807.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -238,7 +239,7 @@ Kinoabend: [«Gemelos sin cura»](https://www.filmaffinity.com/es/film331834.htm
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Conferencia_internacional_Lima_20170808.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Conferencia_internacional_Lima_20170808.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -259,7 +260,7 @@ Die peruanische Regierung hat erklärt mit aller Härte gegen Korruption vorgehe
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -267,7 +268,7 @@ In den Räumlichkeiten der Schweizer Botschaft halte ich heute den Vortrag «Luc
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/20170809_Vortrag_Schweizer_Kammer_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -279,7 +280,7 @@ Christian Hauser nach seinem Vortrag, u.a. mit Corinne Schirmer, Geschäftsführ
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Aguilar_Luis_Enrique_CHS_Alternativo_Lima_20170810_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Aguilar_Luis_Enrique_CHS_Alternativo_Lima_20170810_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -299,7 +300,7 @@ Am letzten Abend in Lima schauen wir im Kino die peruanische Filmkomödie [«Onc
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Abflug_Lima_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Abflug_Lima_1.jpg">
 </div>
 
 <div class="media-wrapper">

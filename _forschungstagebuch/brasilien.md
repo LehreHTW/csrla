@@ -3,6 +3,7 @@ subject: Brasilien
 title: 31. August - 6. Oktober 2017
 #date:
 order: 4
+lang: de
 ---
 <div class="content" markdown="1">
 ## Donnerstag, 31. August 2017
@@ -25,7 +26,7 @@ Besuch im [Regionalbüro für Lateinamerika der Allianz für Integrität](https:
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0513.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0513.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -37,11 +38,11 @@ Die Wochenenden nutzen viele Paulistanos für einen Besuch im [Stadtpark Ibirapu
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0572.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0572.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0623.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0623.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -88,7 +89,7 @@ Zitat eines Uber-Fahrers: «São Paulo ist keine Stadt zum Leben, sondern eine S
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170916_175836.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170916_175836.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -122,7 +123,7 @@ Heute geht es nach elf Tagen in São Paulo weiter nach Curitiba. Die Hauptstadt 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/PRME_Konferenz_Brasilien_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/PRME_Konferenz_Brasilien_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -134,11 +135,11 @@ Im Rahmen des 6. Regionaltreffens des [PRME Chapter Lateinamerika](http://www2.c
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Metrobus_Curitiba_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Metrobus_Curitiba_1.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Metrobus_Curitiba_4.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Metrobus_Curitiba_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -161,7 +162,7 @@ Im Rahmen der Podiumsdiskussion «Leaders training for SDG 16 – Peace, justice
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170917_092852.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170917_092852.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -202,7 +203,7 @@ Heute geht es mit einem Flugzeug vom Typ Embraer 190 von Curitiba nach Rio de Ja
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Latam_Zeitschrift_6_Orte_für_den_Honeymoon_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Latam_Zeitschrift_6_Orte_fuer_den_Honeymoon_2.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -210,7 +211,7 @@ Im Bordmagazin der größten Fluggesellschaft Lateinamerikas LATAM wird Baiersbr
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170917_164608.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170917_164608.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -226,11 +227,11 @@ Die wirtschaftliche Krise hat Rio de Janeiro hart getroffen. Viele versuchen mit
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Blick_auf_Rio_3.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Blick_auf_Rio_3.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Favela_Rio_1.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Favela_Rio_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -250,7 +251,7 @@ Wenn in letzter Zeit Helikopter über den noblen Stadtvierteln im südlichen Tei
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Rio_6.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Rio_6.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -293,7 +294,7 @@ Anschließend geht es mit einer Turboprop-Maschine vom Typ ATR 72 vom Flughafen 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_20170922_184010.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_20170922_184010.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -338,11 +339,11 @@ Ein Ziel des Projektes von Pater Álido ist die Wiederaufforstung der gerodeten 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_15.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Indio_Laendereien_Brasilien_15.jpg">
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Impressionen_Indio_Ländereien_Brasilien_16.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Impressionen_Indio_Laendereien_Brasilien_16.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -386,7 +387,7 @@ In Brasilien tragen zahlreiche Erwachsene Zahnspangen, um sich die Zähne richte
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_1255.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_1255.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -433,7 +434,7 @@ Die Öko-Farm [Quinta da Estância](http://www.quintadaestancia.com.br/) nutzt i
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Vortrag_Deutsch_Brasilianische_Industrie-undHandelskammer_Rio_Grande_do_Sul_20171005_2.jpg">
+    <img class="lazy" data-class="lazy" data-src="../media/img/ftb/Vortrag_Deutsch_Brasilianische_Industrie-undHandelskammer_Rio_Grande_do_Sul_20171005_2.jpg">
 </div>
 
 <div class="content" markdown="1">

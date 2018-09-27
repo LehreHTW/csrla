@@ -4,7 +4,7 @@
     {% include header.html %}
     {% include country-icons.html %}
     {% include navigation.html %}
-    <header class="country-header" style="background-image: url({{ page.header-img  | prepend: '/media/img/' | prepend: site.baseurl }})">
+    <header class="country-header" style="background-image: url({{ page.ref | prepend: '/media/img/headerimages/' | prepend: site.baseurl | append: '.jpeg' }})">
             <!-- include icons and inormation based on page -->
             <div class="grid">
                 <div class="content">
@@ -18,12 +18,12 @@
                             <div class="icon-wrapper">
                                 <div class="icon-wrap">
                                     <svg class="icon">
-                                      <use xlink:href="#land_{{page.title | downcase }}" />
+                                      <use xlink:href="#land_{{page.ref | downcase }}" />
                                     </svg>
                                 </div>
                             </div>
                             <h2>{{ page.surface }}</h2><br>
-                            <h5>km<sup>2</sup> Fläche</h5>
+                            <h5>km<sup>2</sup> {{ site.t[page.lang].flaeche }}</h5>
                         </div>
                         {% endif %}
                         {% if page.population %}
@@ -36,7 +36,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.population }}</h2><br>
-                            <h5>Einwohner</h5>
+                            <h5>{{ site.t[page.lang].einwohner }}</h5>
                         </div>
                         {% endif %}
                         {% if page.gdp %}
@@ -49,7 +49,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.gdp }}</h2><br>
-                            <h5>BIP/Kopf in USD</h5>
+                            <h5>{{ site.t[page.lang].bip }}</h5>
                         </div>
                         {% endif %}
                         {% if page.altitude %}
@@ -62,7 +62,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.altitude }}</h2><br>
-                            <h5>m ü. M. Hauptstadt</h5>
+                            <h5>{{ site.t[page.lang].meteruebermeer }}</h5>
                         </div>
                         {% endif %}
                         {% if page.flight %}
@@ -75,7 +75,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.flight }}</h2><br>
-                            <h5>km Flugstrecke</h5>
+                            <h5>km {{ site.t[page.lang].flugstrecke }}</h5>
                         </div>
                         {% endif %}
                         {% if page.cabrides %}
@@ -88,7 +88,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.cabrides }}</h2><br>
-                            <h5>Taxifahrten</h5>
+                            <h5>{{ site.t[page.lang].taxifahrten }}</h5>
                         </div>
                         {% endif %}
                         {% if page.interviews %}
@@ -101,7 +101,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.interviews }}</h2><br>
-                            <h5>min Interviews</h5>
+                            <h5>min {{ site.t[page.lang].interviews }}</h5>
                         </div>
                         {% endif %}
                         {% if page.hoehe %}
@@ -114,7 +114,7 @@
                                 </div>
                             </div>
                             <h2>{{ page.hoehe }}</h2><br>
-                            <h5>Höhenmeter</h5>
+                            <h5>{{ site.t[page.lang].hoehenmeter }}</h5>
                         </div>
                         {% endif %}
                     </div>

@@ -3,7 +3,9 @@ layout: country
 title: Fazit
 group: navigation-08
 order: 8
-header-img: Mülleimer_Brasilien_1.jpg
+header-img: Muelleimer_Brasilien_1.jpg
+lang: de
+ref: fazit
 ---
 <section class="box">
 <div class="content">

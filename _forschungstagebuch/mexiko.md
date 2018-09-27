@@ -3,6 +3,7 @@ subject: Mexiko
 title: 3. - 25. Juli 2017
 #date:
 order: 1
+lang: de
 ---
 
 <div class="content" markdown="1">
@@ -10,7 +11,7 @@ order: 1
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170704_120549.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170704_120549.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -22,7 +23,7 @@ Flug LH498 hat uns zwar mit Verspätung, aber sicher, von Frankfurt am Main nach
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170703_151705.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170703_151705.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -34,7 +35,7 @@ Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Sta
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0358.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0358.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -42,7 +43,7 @@ Oliver Knoerich von der [Deutschen Botschaft Mexiko-Stadt](http://www.mexiko.dip
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170705_120309.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170705_120309.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -62,7 +63,7 @@ In den noblen Wohnvierteln wie [La Condesa](https://goo.gl/maps/jo1qWxpyToD2) od
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170707_Martinez_Chavez_Augosto_Draeger.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170707_Martinez_Chavez_Augosto_Draeger.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -70,7 +71,7 @@ Nach Einschätzung von Augusto Martínez von [Draeger Mexico](https://www.draege
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/IMG_0414.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/IMG_0414.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -82,7 +83,7 @@ Alberto Equihua vom Ableger des [BDI](http://www.bdi-mexico.com/) in Mexiko merk
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170708_194022.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170708_194022.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -122,7 +123,7 @@ Stefan Jost, Leiter des KAS-Auslandsbüros in Mexiko berichtet, dass in Mexiko g
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Aguirre_Jorge_Unternehmer_Mexico_20170710_1.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/Aguirre_Jorge_Unternehmer_Mexico_20170710_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -142,7 +143,7 @@ Der Smart-TV in der Unterkunft empfängt kein normales, lineares Fernsehprogramm
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170713_162851.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170713_162851.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -171,7 +172,7 @@ Bei der Veranstaltung «Bonos de Impacto en México: oportunidades y retos» wir
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170714_172219.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170714_172219.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -183,7 +184,7 @@ Im Zentrum von Mexiko-Stadt wird das aztekische Erbe freigelegt. Als die Spanier
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170715_101928.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170715_101928.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -205,7 +206,7 @@ Mülltrennung auf mexikanische Art.
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170716_184431.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170716_184431.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -227,7 +228,7 @@ Am Rande eines Straßenmarktes im Stadtteil San Angel bietet ein schamanischer H
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170717_164520.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170717_164520.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -239,7 +240,7 @@ Nicht-zu-verkaufen: Anwohner kämpfen gegen die Gentrifizierung ihres Viertels, 
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Mestre_Javier_Corresponsables_MexicoStadt_2017071_1.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/Mestre_Javier_Corresponsables_MexicoStadt_2017071_1.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -247,7 +248,7 @@ Javier Mestre, von Corresponsables hebt hervor «Was nicht gemessen wird, kann n
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170718_182648.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170718_182648.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -260,7 +261,7 @@ Der Taco al pastor ist eine in Mexiko sehr beliebte Taco-Art mit Schweinefleisch
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Cortes_Lorena_CEMEFI_MexicoStadt_20170719_3.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/Cortes_Lorena_CEMEFI_MexicoStadt_20170719_3.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -289,7 +290,7 @@ Eine Sperrmüllsammlerin fährt durch die Straßen und macht mithilfe eines Mega
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Roche_Aussenansicht_4.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/Roche_Aussenansicht_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -309,7 +310,7 @@ Netflix-Abend: In der satirischen Filmkomödie [«La dictadura perfecta»](http:
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/Tenayuca_Pyramide_Mexiko_4.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/Tenayuca_Pyramide_Mexiko_4.jpg">
 </div>
 
 <div class="content" markdown="1">
@@ -343,7 +344,7 @@ Wir erwarten eine wichtige Expresssendung mit TNT. Diese entwickelt sich zum Rei
 </div>
 
 <div class="media-wrapper">
-    <img src="../media/img/ftb/20170725_110956.jpg">
+    <img class="lazy" data-class="lazy" data-class="lazy" data-src="../media/img/ftb/20170725_110956.jpg">
 </div>
 
 <div class="content" markdown="1">

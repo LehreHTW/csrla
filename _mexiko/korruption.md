@@ -1,10 +1,13 @@
 ---
 country: Mexiko
+countryname: Mexiko
 subject: Korruption
+subject_ref: korruption
 title: «Korruption ist ein Krebsgeschwür in Mexiko»
 #date:
 order: 4
-chapter_image: BILD_MEXIKO-10.jpg
+chapter_image: mexiko_korruption.jpeg
+lang: de
 ---
 <div class="content" markdown="1">
 Korruption ist in Mexiko weit verbreitet. Internationale Unternehmen und Organisationen müssen dem Briefträger unter der Hand Geld zustecken, damit dieser die Post zuverlässig zustellt, und den Müllmännern, damit diese den Abfall mitnehmen. Straßenverkäufer müssen Polizisten täglich schmieren, damit sie ihre Waren verkaufen können. Auch kleine und mittlere Unternehmen (KMU) im formalen Sektor sind mit Korruption konfrontiert. Sie benötigen eine Vielzahl von Lizenzen und Bewilligungen, deren Erlangung als korruptionsanfällig gilt. KMU sehen sich aber auch aufgrund des häufig fehlenden fairen Wettbewerbs benachteiligt. So gibt es das Phänomen der Scheinfirmen, die nur gegründet werden um ihnen Aufträge zuzuschustern. Diese Unternehmen sind z.B. nur wenige Tage alt und erhalten einen Auftrag von mehreren Millionen US-Dollar, obwohl sie nicht über das notwendige qualifizierte Personal etc. verfügen.

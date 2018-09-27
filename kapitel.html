@@ -4,12 +4,14 @@ title: Kapitel
 group: navigation-10
 displaytitle: false
 order: 10
+lang: de
+ref: kapitel
 ---
-{% assign mexiko = site.mexiko | sort: "order" %}
-{% assign kolumbien = site.kolumbien | sort: "order" %}
-{% assign peru = site.peru | sort: "order" %}
-{% assign brasilien = site.brasilien | sort: "order" %}
-{% assign argentinien = site.argentinien | sort: "order" %}
+{% assign mexiko = site.mexiko | where: 'lang', page.lang| sort: "order" %}
+{% assign kolumbien = site.kolumbien | where: 'lang', page.lang| sort: "order" %}
+{% assign peru = site.peru | where: 'lang', page.lang| sort: "order" %}
+{% assign brasilien = site.brasilien | where: 'lang', page.lang| sort: "order" %}
+{% assign argentinien = site.argentinien | where: 'lang', page.lang| sort: "order" %}
 
 
 
@@ -76,9 +78,9 @@ order: 10
     {% for c in mexiko %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/	' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -89,9 +91,9 @@ order: 10
     {% for c in kolumbien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -102,9 +104,9 @@ order: 10
     {% for c in peru %}
         {% if c.chapter_image %}
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -115,9 +117,9 @@ order: 10
     {% for c in brasilien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{ c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
@@ -128,9 +130,9 @@ order: 10
     {% for c in argentinien %}
         {% if c.chapter_image %}
         <div class="chapter mix {{c.country | downcase }} {{ c.subject | downcase }}">
-            <img src="{{ site.baseurl }}/{{c.chapter_image | prepend: '/media/img/' }}" alt="{{c.chapter_image}}">
+            <img src="{{ site.baseurl }}{{c.chapter_image | prepend: '/media/img/chapter/' }}" alt="{{c.chapter_image}}">
             <div class="meta">
-                <span class="country">{{c.country}}</span>
+                <span class="country">{{c.countryname }}</span>
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>

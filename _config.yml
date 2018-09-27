@@ -40,3 +40,28 @@ collections:
         output: false
     empfehlungen:
         output: false
+t:
+    de:
+        contents: Menü
+        impressum: Impressum
+        flaeche: Fläche
+        einwohner: Einwohner
+        bip: BIP/Kopf in USD
+        meteruebermeer: m ü. M. Hauptstadt
+        flugstrecke: Flugstrecke
+        taxifahrten: Taxifahrten
+        interviews: Interviews
+        hoehenmeter: Höhenmeter
+        weiterlesen: Weiterlesen
+    es:
+        contents: Tabla de materias
+        impressum: Huella
+        flaeche: área
+        einwohner: habitantes
+        bip: PIB/cabeza en USD
+        meteruebermeer: capital altitud
+        flugstrecke: alcance de los misiles
+        taxifahrten: viajes en taxi
+        interviews: entrevistas
+        hoehenmeter: metros de altura
+        weiterlesen: Más

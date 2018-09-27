@@ -3,6 +3,7 @@ country: Empfehlungen
 subject: Handlungsempfehlungen
 title: für staatliche Akteure
 order: 2
+lang: de
 ---
 <div class="content" markdown="1">
 ### Good Practices aus dem Privatsektor in den öffentlichen Sektor übertragen.

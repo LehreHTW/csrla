@@ -9,12 +9,14 @@ surface: 1'964'375
 altitude: 2'250
 gdp: 8'201
 population: 127'540'423
+lang: de
+ref: mexiko
 ---
-{% assign mexiko = site.mexiko | sort: "order" %}
+{% assign mexiko = site.mexiko | where: 'lang', page.lang | sort: "order" %}
 {% for ch in mexiko %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}
-        <div class="image grid" style="background-image: url(../media/img/{{ ch.chapter_image }});">
+        <div class="image grid" style="background-image: url({{ ch.chapter_image | prepend: '/media/img/chapter/' | prepend: site.baseurl }});">
         </div>
     {% endif %}
     <div class="content">
