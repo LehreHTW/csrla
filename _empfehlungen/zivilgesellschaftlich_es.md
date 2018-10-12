@@ -1,7 +1,7 @@
 ---
 country: Empfehlungen
 subject: Recomendaciones
-title: Para actores de la sociedad civil
+title: Para los actores de la sociedad civil
 order: 3
 lang: es
 ---

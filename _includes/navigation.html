@@ -68,7 +68,7 @@
     </p>
     <nav>
         <!-- iterate through pages and add links based on order -->
-        {% assign pages_list = site.pages | where: 'lang', page.lang | sort:"group" %}
+        {% assign pages_list = site.pages | where: 'lang', page.lang | sort:"group" | sort:"order" %}
         {% assign group = 'navigation' %}
         {% for item in pages_list %}
           {% if group == null or item.group contains group %}

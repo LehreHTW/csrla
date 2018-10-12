@@ -7,6 +7,7 @@ title: «Solos, somos solo una vela, juntos brillamos mucho más fuerte»
 order: 3
 chapter_image: peru_umwelt.jpeg
 lang: es
+parentname: peru_es
 ---
 <div class="content" markdown="1">
 Perú es una de las regiones mineras más importantes del mundo. En muchos casos, la minería está asociada a una considerable contaminación y destrucción ambiental. Especialmente en la minería informal e ilegal a pequeña escala, el uso indebido de mercurio y otras sustancias tóxicas aún es muy generalizado. La consecuencia es la contaminación de ríos y aguas subterráneas, aire y suelo, que agobian o incluso destruyen para siempre los medios de subsistencia de los campesinos locales y los pueblos indígenas.

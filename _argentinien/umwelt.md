@@ -7,6 +7,7 @@ title: «Wenn die anderen so handeln, wieso ich nicht auch?»
 order: 3
 chapter_image: argentinien_umwelt.jpeg
 lang: de
+parentname: argentinien
 ---
 <div class="content" markdown="1">
 Umweltschutz ist ein zentrales Themengebiet, mit dem sich Unternehmen in Argentinien konfrontiert sehen, wenn es um die Übernahme von gesellschaftlicher Verantwortung geht. Es gibt zahlreiche Beispiele von Unternehmen, die ihr Abwasser ungeklärt in Flüsse leiten oder Industrieabfälle nicht adäquat entsorgen. Verschmutztes Grundwasser, insbesondere im Umkreis der großen städtischen und industriellen Zentren, sowie der Rückgang der Fischbestände und der Waldressourcen sind Folgen dieses Verhaltens.

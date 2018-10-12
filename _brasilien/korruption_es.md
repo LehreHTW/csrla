@@ -7,6 +7,7 @@ title: «La ley se aplica a todos»
 order: 4
 chapter_image: brasilien_korruption.jpeg
 lang: es
+parentname: brasil
 ---
 <div class="content" markdown="1">
 Debido al escándalo de corrupción que involucra a la petrolera semiestatal Petrobrás y otras ex empresas emblemáticas, en discusión desde 2014, la lucha contra la corrupción es un tema muy presente en la sociedad brasileña y los medios. Esto ha llevado a un amplio consenso sobre la necesidad de abordar la corrupción ya que ésta desvía recursos de la educación, la salud y otros importantes servicios públicos. El país solo tendrá posibilidades realistas de alcanzar los Objetivos de Desarrollo Sostenible de las Naciones Unidas una vez que logre contener la corrupción a largo plazo.

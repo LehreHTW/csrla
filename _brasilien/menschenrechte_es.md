@@ -3,10 +3,11 @@ country: Brasilien
 countryname: Brasil
 subject: Derechos humanos
 subject_ref: menschenrechte
-title: «El trabajo no falta, pero no hay puestos de trabajo»
+title: «El trabajo no falta, pero no hay puestos de trabajo empleo»
 order: 2
 chapter_image: brasilien_menschenrechte.jpeg
 lang: es
+parentname: brasil
 ---
 <div class="content" markdown="1">
 Aunque la esclavitud está prohibida y es sancionada en Brasil, a menudo se dan casos de explotación y de esclavitud moderna. Tales violaciones de los derechos humanos ocurren, por ejemplo, en los cultivos de caña de azúcar, de frutas y de soja. Muchas veces, el trabajo en las plantaciones es el único que existe en las zonas rurales. Las normas de seguridad en el trabajo a menudo son inadecuadas y las condiciones de alojamiento de los trabajadores, infrahumanas.

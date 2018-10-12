@@ -8,6 +8,7 @@ title: «La corrupción es un cáncer en México»
 order: 4
 chapter_image: mexiko_korruption.jpeg
 lang: es
+parentname: mexico
 ---
 <div class="content" markdown="1">
 La corrupción está muy generalizada en México. Las compañías y organizaciones internacionales tienen que pasarle dinero al cartero para que les entregue el correo y al basurero para que les saque la basura. Los vendedores ambulantes necesitan sobornar a diario a los agentes de la policía para poder comercializar sus productos. Las pequeñas y medianas empresas (PYME) del sector formal también se enfrentan a la corrupción. Requieren una gran cantidad de licencias y permisos que se consideran susceptibles a la corrupción. Las PYME, a la vez, están en desventaja debido a la falta de competencia leal. Está el fenómeno de las compañías ficticias, que solo son fundadas para inventarles pedidos. Estas empresas, a veces contando con solo unos días de antigüedad, reciben encargos por varios millones de dólares, a pesar de no disponer de suficiente personal calificado.

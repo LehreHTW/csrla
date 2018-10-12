@@ -1,7 +1,7 @@
 ---
 country: Peru
 subject: Introducción
-title: «Perú es un mendigo sentado sobre un cofre del tesoro»
+title: «Perú es un mendigo sentado en un banco de oro»
 order: 1
 gallery:
   - images:

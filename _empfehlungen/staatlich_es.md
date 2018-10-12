@@ -1,7 +1,7 @@
 ---
 country: Empfehlungen
 subject: Recomendaciones
-title: Para actores estatales
+title: Para los actores estatales
 order: 2
 lang: es
 ---

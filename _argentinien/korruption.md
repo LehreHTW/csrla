@@ -7,6 +7,7 @@ title: «It takes two to tango»
 order: 4
 chapter_image: argentinien_korruption.jpeg
 lang: de
+parentname: argentinien
 ---
 <div class="content" markdown="1">
 In Argentinien herrscht die allgemeine Wahrnehmung, dass Korruption in Staat und Wirtschaft weit verbreitet seien und die Korruption als weithin akzeptiert gilt. Fehlende staatliche Kontrollen und Straffreiheit leisten der Korruption Vorschub. Daneben begünstigt die Inflation korruptes Verhalten, da die Unternehmen keine ordentlichen Budgets aufstellen können und die Finanzzahlen verzerrt werden. Das gleiche gilt für die erratische Wirtschafts-, Geld- und Wechselkurspolitik sowie die Krisen, von denen die argentinische Wirtschaft immer wieder erschüttert wird, da diese das kurzfristige Denken in den Unternehmen fördern. Für Unternehmen, die sich regelkonform verhalten, ist dies oft mit erheblicher wirtschaftlicher Unsicherheit und finanziellen Nachteilen verbunden.

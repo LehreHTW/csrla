@@ -1,7 +1,7 @@
 ---
 country: Empfehlungen
 subject: Recomendaciones
-title: Para empresas
+title: Para las empresas
 order: 1
 lang: es
 ---

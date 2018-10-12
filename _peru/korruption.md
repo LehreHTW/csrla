@@ -8,6 +8,7 @@ title: «Korruption verursacht mehr Schäden als eine Naturkatastrophe»
 order: 4
 chapter_image: peru_korruption.jpeg
 lang: de
+parentname: peru
 ---
 <div class="content" markdown="1">
 Auch in Peru ist Alltagskorruption ein Thema. Sie zeigt sich in der Bestechung von Polizisten an der Straßenecke oder bei Straßensperren. Bei Verkehrsunfällen wird beispielsweise dem zuständigen Polizisten ein Schmiergeld zugesteckt, um die «Sache vergessen zu machen» – «arreglar» nennt man dies in Peru. Aber auch im Bausektor sind kriminelle, bis hin zu mafiösen Strukturen vorhanden. So kommt es vor, dass Unternehmen an die Bauarbeiter informelle Zahlungen leisten, um sicherzugehen, dass am nächsten Morgen das Baumaterial, wie Holz, Farben und Backsteine, noch vorhanden ist und nicht von den Arbeitern weiterverkauft wurde. Zahlreiche Unternehmen befinden sich in diesem korrupten Kreislauf und bezahlen, da sie nicht riskieren wollen, ohne Baumaterial dazustehen.

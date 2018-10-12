@@ -1,7 +1,7 @@
 ---
 country: Argentinien
 subject: Conclusión
-title: Conclusión Video
+title: Video de conclusión
 order: 5
 lang: es
 ---

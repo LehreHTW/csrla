@@ -7,6 +7,7 @@ title: «Alleine sind wir nur eine Kerze, zusammen leuchten wir viel stärker»
 order: 3
 chapter_image: peru_umwelt.jpeg
 lang: de
+parentname: peru
 ---
 <div class="content" markdown="1">
 Peru ist eine der bedeutendsten Bergbauregionen der Welt. Vielfach geht der Bergbau mit erheblichen Umweltbelastungen und -zerstörungen einher. Vor allem im informellen und illegalen Kleinbergbau ist der unsachgemäße Einsatz von Quecksilber und von anderen toxischen Stoffen noch weit verbreitet. Die Folgen davon sind verseuchte Flüsse und Grundwasser, kontaminierte Luft und Böden, was die Existenzgrundlage der lokalen Kleinbauern und der indigenen Bevölkerung belastet oder gar für immer zerstört.

@@ -2,7 +2,7 @@
 layout: country
 title: Fazit
 group: navigation-08
-order: 8
+order: 9
 header-img: Muelleimer_Brasilien_1.jpg
 lang: de
 ref: fazit
