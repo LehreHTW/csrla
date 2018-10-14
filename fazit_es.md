@@ -9,7 +9,7 @@ ref: fazit
 ---
 <section class="box">
 <div class="content">
-<span class="chapter-subject">G.	Resumen y conclusión</span>
+<span class="chapter-subject">Resumen y conclusión</span>
 <h1 class="chapter-title">«Las semillas están en la tierra, ahora se necesitan conocimientos y herramientas para que prosperen»</h1>
 </div>
 <div class="content" markdown="1">
