@@ -228,7 +228,7 @@ Hoy, por primera vez, un entrevistado no llega a la reunión acordada. El direct
 </div>
 
 <div class="content" markdown="1">
-Javier Perla, de Libélula, enfatiza que en la discusión sobre RSE, debiera ser más gravitante la cuestión de cómo y con qué métodos una empresa gana su dinero. Hasta ahora, el enfoque estaría demasiado situado en cómo la compañía distribuye parte de sus ganancias (filantropía).
+Javier Perla, Gerente de Negocios Sostenibles de Libélula Gestión en Cambio Climático y Comunicación, enfatiza que en la discusión sobre RSE, debiera ser más gravitante la cuestión de cómo y con qué métodos una empresa genera sus ingresos. Hasta ahora, el enfoque estaría demasiado situado en cómo la compañía distribuye parte de sus utilidades en proyectos con sus grupos de interés (filantropía)
 
 Noche de cine: <a href="https://www.filmaffinity.com/es/film331834.html">«Gemelos sin cura»</a> es una comedia de errores con el comediante peruano Pablo Villanueva, llamado Melcochita. La película trata de los desiguales hermanos gemelos Pedro y Pablo. Un pastor y un agotado músico de bares que huyen de cobradores de deudas sin escrúpulos. Humor al que hay que acostumbrarse.
 </div>

@@ -228,7 +228,7 @@ Heute erscheint zum ersten Mal ein Interviewpartner nicht zum vereinbarten Gespr
 </div>
 
 <div class="content" markdown="1">
-Javier Perla von Libélula betont, dass in der CSR-Diskussion die Frage, auf welche Weise und mit welchen Methoden ein Unternehmen sein Geld verdient, stärker ins Zentrum rücken müsse. Bislang liege der Fokus zu stark auf der Frage, wie das Unternehmen Teile seiner Gewinne verteilt (Philanthropie).
+Javier Perla, Leiter Nachhaltiges Wirtschaften von Libélula – Management in Climate Change and Communications, betont, dass in der CSR-Diskussion die Frage, auf welche Weise und mit welchen Methoden ein Unternehmen sein Geld verdient, stärker ins Zentrum rücken müsse. Bislang liege der Fokus zu stark auf der Frage, wie das Unternehmen einen Teil seiner Gewinne in Projekten mit seinen Anspruchsgruppen verteile (Philanthropie).
 
 
 Kinoabend: [«Gemelos sin cura»](https://www.filmaffinity.com/es/film331834.html) ist eine Verwechslungskomödie mit dem peruanischen Komiker Pablo Villanueva genannt Melcochita. Der Film handelt von den ungleichen Zwillingsbrüdern Pedro und Pablo. Ein Pfarrer und ein abgehalfterter Kneipenmusiker auf der Flucht vor skrupellosen Schuldeneintreibern. Gewöhnungsbedürftiger Humor.

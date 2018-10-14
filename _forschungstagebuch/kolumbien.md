@@ -115,7 +115,7 @@ Ein Taxifahrer beklagt, dass es in Kolumbien zu viele Feiertage gäbe und deshal
 </div>
 
 <div class="content" markdown="1">
-Nach Einschätzung von Lothar Witte, Leiter des [FES-Auslandsbüros in Bogotá]( https://www.fes.de/de/?id=316) lauern heute in den besseren Vierteln der Stadt drei Gefahren auf Fußgänger: 1) von Trickdieben bestohlen zu werden, 2) von Fahrradfahrern umgefahren zu werden, 3) sich den Knöchel in einem der zahlreichen Straßenlöcher zu brechen.
+Nach Einschätzung von Lothar Witte, Leiter des [FES-Auslandsbüros in Bogotá]( https://www.fes.de/de/?id=316) lauern heute in den besseren Vierteln der Stadt drei Gefahren auf Fußgänger: 1) von Trickdieben bestohlen zu werden, 2) von Fahrradfahrern umgefahren zu werden, 3) sich den Knöchel in einem der zahlreichen Straßenlöcher zu verletzen.
 </div>
 
 <div class="media-wrapper">

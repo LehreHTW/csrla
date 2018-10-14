@@ -27,7 +27,7 @@ Flug LH498 hat uns zwar mit Verspätung, aber sicher, von Frankfurt am Main nach
 </div>
 
 <div class="content" markdown="1">
-Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Stadt](https://mexiko.ahk.de/) statt. Er betont, dass sich deutsche Unternehmen bei der dualen Ausbildung (nach deutschem Vorbild) z.T. deutlich über das erforderliche Maß hinaus engagieren. Einige Unternehmen bilden über ihren eigenen Bedarf hinaus aus und unterstützen damit den Aufbau eines dualen Ausbildungssystems in Mexiko. Gleichzeitig fragt er sich, ob die deutschen Unternehmen bzgl. Compliance z.T. nicht «zu viel» machen.
+Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Stadt](https://mexiko.ahk.de/) statt. Er betont, dass sich deutsche Unternehmen bei der dualen Ausbildung (nach deutschem Vorbild) z.T. deutlich über das erforderliche Maß hinaus engagieren. Einige Unternehmen bilden über ihren eigenen Bedarf hinaus aus und unterstützen damit den Aufbau eines dualen Ausbildungssystems in Mexiko.
 </div>
 
 <div class="content" markdown="1">
@@ -39,7 +39,7 @@ Das erste Interview der Reise findet mit Andreas Müller von der [AHK Mexiko-Sta
 </div>
 
 <div class="content" markdown="1">
-Oliver Knoerich von der [Deutschen Botschaft Mexiko-Stadt](http://www.mexiko.diplo.de/Vertretung/mexiko/de/Startseite.html) berichtet, dass deutsche Unternehmen sich an staatlichen Ausschreibungsverfahren z.T. nicht beteiligen, weil sie keine Chance sehen zum Zuge zu kommen, wenn Sie integer bleiben wollen. Das Thema Compliance müsse von zwei Stoßrichtungen angegangen werden: zum einen vom mexikanischen Staat, zum anderen von den ausländischen Unternehmen.
+Oliver Knoerich von der [Deutschen Botschaft Mexiko-Stadt](http://www.mexiko.diplo.de/Vertretung/mexiko/de/Startseite.html) berichtet, dass manche deutschen Unternehmen es vorzögen, sich an staatlichen Ausschreibungsverfahren nicht zu beteiligen, sondern sich auf Geschäfte mit dem Privatsektor zu konzentrieren.
 </div>
 
 <div class="media-wrapper">
@@ -75,7 +75,7 @@ Nach Einschätzung von Augusto Martínez von [Draeger Mexico](https://www.draege
 </div>
 
 <div class="content" markdown="1">
-Alberto Equihua vom Ableger des [BDI](http://www.bdi-mexico.com/) in Mexiko merkt an, dass in Mexiko die Meinung weit verbreitet sei, dass soziale Verantwortung ein Luxus für die Unternehmen sei, die es sich leisten können.
+Alberto Equihua, ortsansässiger Koordinator des Kooperationsprojekts Innovationspartnerschaft des [BDI in Mexiko](http://www.bdi-mexico.com/), merkt an, dass es leider eine allgemeine Überzeugung im Land gäbe, dass soziale Verantwortung ein Luxus sei, den sich nur wenige Unternehmen leisten könnten. Und dies seien in der Regel größere Unternehmen.
 </div>
 
 <div class="content" markdown="1">
@@ -294,7 +294,7 @@ Eine Sperrmüllsammlerin fährt durch die Straßen und macht mithilfe eines Mega
 </div>
 
 <div class="content" markdown="1">
-Gespräch bei Roche. Einkaufschef Arturo Alonso schildert, wie das Schweizer Pharmaunternehmen Nachhaltigkeit in seiner Lieferkette sicherstellt. Nach seiner Erfahrung können lokale Zulieferer viel von multinationalen Unternehmen lernen. Gleichzeitig sind die lokalen Zulieferer wichtig für die multinationalen Unternehmen. Der gezielte Austausch mit den Zulieferern über das Thema Nachhaltigkeit wird auch als Triebfeder für Innovationen genutzt.
+Gespräch bei Roche. Der Head of Procurement Mexico Arturo Alonso schildert, wie das Schweizer Pharmaunternehmen Nachhaltigkeit in seiner Lieferkette sicherstellt. Nach seiner Erfahrung können lokale Zulieferer viel von multinationalen Unternehmen lernen. Gleichzeitig sind die lokalen Zulieferer wichtig für die multinationalen Unternehmen. Der gezielte Austausch mit den Zulieferern über das Thema Nachhaltigkeit wird auch als Triebfeder für Innovationen genutzt.
 </div>
 
 <div class="content" markdown="1">

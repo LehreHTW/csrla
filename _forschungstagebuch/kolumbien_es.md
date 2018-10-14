@@ -112,7 +112,7 @@ Un taxista se queja de que hay demasiados feriados en Colombia y que, por lo tan
 </div>
 
 <div class="content" markdown="1">
-Según Lothar Witte, jefe de la oficina de <a href="https://www.fes.de/de/?id=316">FES en Bogotá</a>, hoy en día existen tres peligros acechando a los peatones en los mejores barrios de la ciudad: 1) ser robados por timadores, 2) ser volcados por ciclistas, 3) romperse el tobillo en uno de los numerosos agujeros en la calle.
+Según Lothar Witte, jefe de la oficina de <a href="https://www.fes.de/de/?id=316">FES en Bogotá</a>, hoy en día existen tres peligros acechando a los peatones en los mejores barrios de la ciudad: 1) ser robados por timadores, 2) ser volcados por ciclistas, 3) dañarse el tobillo en uno de los numerosos agujeros en la calle.
 </div>
 
 <div class="media-wrapper">

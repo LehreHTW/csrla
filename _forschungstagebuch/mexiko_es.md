@@ -27,7 +27,7 @@ El vuelo LH498 nos llevó de Fráncfort a la Ciudad de México con retraso, pero
 </div>
 
 <div class="content" markdown="1">
-La primera entrevista del viaje se lleva a cabo con Andreas Müller de la Cámara Mexicano-Alemana de <a href="https://mexiko.ahk.de/">Comercio e Industria (AHK)</a> en Ciudad de México. Él enfatiza que las compañías alemanas apoyan la formación dual (según el modelo alemán) participando significativamente por encima del nivel requerido. Algunas compañías están capacitando más allá de sus propias necesidades, contribuyendo al desarrollo de un sistema de formación dual en México. Al mismo tiempo, se pregunta si en parte las empresas alemanas no estarían haciendo "demasiado" en cuanto a Compliance.
+La primera entrevista del viaje se lleva a cabo con Andreas Müller de la Cámara Mexicano-Alemana de <a href="https://mexiko.ahk.de/">Comercio e Industria (AHK)</a> en Ciudad de México. Él enfatiza que las compañías alemanas apoyan la formación dual (según el modelo alemán) participando significativamente por encima del nivel requerido. Algunas compañías están capacitando más allá de sus propias necesidades, contribuyendo al desarrollo de un sistema de formación dual en México.
 </div>
 
 <div class="content" markdown="1">
@@ -39,7 +39,7 @@ La primera entrevista del viaje se lleva a cabo con Andreas Müller de la Cámar
 </div>
 
 <div class="content" markdown="1">
-Oliver Knoerich de la <a href="http://www.mexiko.diplo.de/Vertretung/mexiko/de/Startseite.html">Embajada de Alemania en Ciudad de México</a> informa que las empresas alemanas no participan de procesos de licitación públicos, en parte porque no ven ninguna posibilidad de éxito, si quieren permanecer íntegros. El tema Compliance debe abordarse desde dos direcciones: por un lado, por el estado mexicano y, por otro, por las empresas extranjeras.
+Oliver Knoerich de la [Embajada de Alemania en Ciudad de México](http://www.mexiko.diplo.de/Vertretung/mexiko/de/Startseite.html) informa que algunas empresas alemanas prefieren no participar en licitaciones gubernamentales, sino concentrarse en hacer negocios con el sector privado.
 </div>
 
 <div class="media-wrapper">
@@ -75,7 +75,7 @@ En opinión de Augusto Martínez, de <a href="https://www.draeger.com/es_mx/Home
 </div>
 
 <div class="content" markdown="1">
-Alberto Equihua, de la oficina del <a href="http://www.bdi-mexico.com/">BDI</a> en México, comenta que en México estaría generalizada la opinión/idea de que la responsabilidad social es un lujo para empresas que pueden costearla.
+Alberto Equihua, Coordinador Residente del proyecto de cooperación Innovations Partnership de la [BDI en México](http://www.bdi-mexico.com/), considera que, en el país, desafortunadamente está generalizada la convicción de que la responsabilidad social es un lujo que sólo unas pocas empresas se pueden costear. Y suelen ser organizaciones de escala mayor.
 </div>
 
 <div class="content" markdown="1">
@@ -279,7 +279,7 @@ En México, la desigualdad es un problema más grave que la pobreza. Especialmen
 </div>
 
 <div class="content" markdown="1">
-Una recolectora de basura conduce por las calles llamando la atención con la ayuda de un megáfono.
+Una compradora de cosas viejas conduce por las calles llamando la atención con la ayuda de un megáfono.
 </div>
 
 <div class="content" markdown="1">
@@ -291,7 +291,7 @@ Una recolectora de basura conduce por las calles llamando la atención con la ay
 </div>
 
 <div class="content" markdown="1">
-Conversación en Roche. El gerente de compras, Arturo Alonso, describe cómo la compañía farmacéutica suiza asegura la sostenibilidad en su cadena de suministro. En su experiencia, los proveedores locales pueden aprender mucho de las compañías multinacionales. Al mismo tiempo, los proveedores locales son importantes para las empresas multinacionales. El intercambio sobre la temática de sostenibilidad con los proveedores es provechoso también como impulso central para innovaciones.
+Conversación en Roche. El Head of Procurement Mexico, Arturo Alonso, describe cómo la compañía farmacéutica suiza asegura la sostenibilidad en su cadena de suministro. En su experiencia, los proveedores locales pueden aprender mucho de las compañías multinacionales. Al mismo tiempo, los proveedores locales son importantes para las empresas multinacionales. El intercambio sobre la temática de sostenibilidad con los proveedores es provechoso también como impulso central para innovaciones.
 </div>
 
 <div class="content" markdown="1">
