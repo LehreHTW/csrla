@@ -239,7 +239,7 @@ div[data-toggler="true"]{
     width: 100%;
     font-family: $headings-font;
     box-sizing: border-box;
-    @include flexbox(row-reverse, wrap, start, end);
+    @include flexbox(row-reverse, wrap, end, end);
     .arrow{
         display: inline-block;
         width: 20px;
