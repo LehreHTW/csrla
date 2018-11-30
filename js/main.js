@@ -149,8 +149,8 @@ function checkIfInView(element) {
     var vpTop = $(window).scrollTop();
 	
     if ((vpBottom >= elTop) && (vpTop <= elBottom)) {
-        $('body').animate({
-            scrollTop: elTop + element.outerHeight() / 2
+        $('html').animate({
+            scrollTop: elTop - element.outerHeight() / 2
         }, 100);
     }
 }
