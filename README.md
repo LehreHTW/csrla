@@ -1,9 +1,9 @@
 # Project Verantwortungsvolle Unternehmensführung in Lateinamerika
 
 ## Preview
-[lehrehtw.github.io/csr-lateinamerika/](https://lehrehtw.github.io/csr-lateinamerika/)
+[lehrehtw.github.io/csrla/](https://lehrehtw.github.io/csrla/)
 
 (um preview zu aktualisieren, `ruby deploy.rb` im Terminal ausführen)
 
 ## Dokumentation
-[lehrehtw.github.io/csr-lateinamerika/dox/](https://lehrehtw.github.io/csr-lateinamerika/dox/)
+[lehrehtw.github.io/csrla/dox/](https://lehrehtw.github.io/csrla/dox/)
