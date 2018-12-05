@@ -8,6 +8,7 @@ order: 2
 chapter_image: brasilien_menschenrechte.jpeg
 lang: de
 parentname: brasilien
+countryshort: bra
 ---
 <div class="content" markdown="1">
 Obwohl die Sklaverei in Brasilien verboten ist und strafrechtlich verfolgt wird, gibt es immer wieder Fälle von ausbeuterischen Arbeitsverhältnissen und moderner Sklaverei. Zu derartigen Menschenrechtsverletzungen kommt es bspw. auf den Feldern der Zuckerrohr- oder Obstplantagen sowie beim Sojaanbau. Oft ist die Arbeit auf den Plantagen die einzige, die es in den ländlichen Regionen gibt. Arbeitsschutzvorkehrungen sind vielfach ungenügend und die Arbeiter sind unter menschenunwürdigen Bedingungen untergebracht.

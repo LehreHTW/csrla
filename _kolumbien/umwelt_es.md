@@ -8,6 +8,7 @@ order: 3
 chapter_image: kolumbien_umwelt.jpeg
 lang: es
 parentname: colombia
+countryshort: col
 ---
 <div class="content" markdown="1">
 El sector agrícola colombiano enfrenta muchos desafíos en términos de protección ambiental. Por ejemplo, en la producción industrial de flores se usan pesticidas que la Organización Mundial de la Salud clasifica como tóxicos y cancerígenos. Debido a la falta de precauciones de seguridad, los productos químicos causan enfermedades y contaminan el agua subterránea en las cercanías de las plantaciones de flores.

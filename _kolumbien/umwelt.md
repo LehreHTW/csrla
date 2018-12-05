@@ -8,6 +8,7 @@ order: 3
 chapter_image: kolumbien_umwelt.jpeg
 lang: de
 parentname: kolumbien
+countryshort: col
 ---
 <div class="content" markdown="1">
 Der kolumbianische Agrarsektor ist ein Wirtschaftszweig, der in punkto Umweltschutz mit zahlreichen Herausforderungen konfrontiert ist. So werden bei der industriellen Blumenproduktion Pestizide eingesetzt, die von der Weltgesundheitsorganisation als giftig und krebserregend eingestuft werden. Aufgrund mangelnder Sicherheitsvorkehrungen werden durch die Chemikalien Krankheiten hervorgerufen und es kommt in der Umgebung der Blumenplantagen zu Verunreinigungen des Grundwassers.

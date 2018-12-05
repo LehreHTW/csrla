@@ -8,6 +8,7 @@ order: 4
 chapter_image: argentinien_korruption.jpeg
 lang: es
 parentname: argentina
+countryshort: arg
 ---
 <div class="content" markdown="1">
 En Argentina, existe la percepción generalizada de que la corrupción estaría muy extendida en el estado y la economía, y sería ampliamente aceptada. La falta de control estatal y la impunidad promueven la corrupción. Además, la inflación favorece el comportamiento corrupto, ya que las empresas no pueden establecer presupuestos adecuados y las cifras financieras están distorsionadas. Lo mismo aplica para las políticas económicas, monetarias y cambiarias erráticas, así como para las crisis que sacudieron repetidamente la economía argentina, ya que favorecen planteamientos cortoplacistas en las empresas. Esto a menudo se asocia a una gran incertidumbre económica y sanciones financieras para las empresas que sí acatan las reglas.

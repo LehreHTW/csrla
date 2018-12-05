@@ -8,6 +8,7 @@ order: 3
 chapter_image: brasilien_umwelt.jpeg
 lang: de
 parentname: brasilien
+countryshort: bra
 ---
 <div class="content" markdown="1">
 Vielfach empfinden Unternehmen Umweltauflagen als bürokratische Hürden und Kostentreiber. Es gibt aber auch Beispiele von Unternehmen, die proaktiv nach innovativen und kreativen Lösungen suchen, um das Thema Umwelt- und Klimaschutz in ihrem Kerngeschäft zu verankern. Diese Unternehmen nutzen das Thema Nachhaltigkeit als Innovationstreiber und Differenzierungsmerkmal. Es geht ihnen dabei nicht nur darum, die Umwelt und das Klima zu schützen, sondern auch als Unternehmen wirtschaftlich erfolgreich zu sein.

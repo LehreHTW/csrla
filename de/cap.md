@@ -84,7 +84,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country | downcase }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -97,7 +97,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country | downcase }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -110,7 +110,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country | downcase }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -123,7 +123,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country | downcase }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -136,7 +136,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.country | downcase }}#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}

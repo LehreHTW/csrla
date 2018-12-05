@@ -8,6 +8,7 @@ order: 3
 chapter_image: brasilien_umwelt.jpeg
 lang: es
 parentname: brasil
+countryshort: bra
 ---
 <div class="content" markdown="1">
 En muchos casos, las empresas perciben las regulaciones ambientales como obstáculos burocráticos y factores de costo. Sin embargo, también hay ejemplos de compañías que buscan soluciones innovadoras y creativas proactivamente con el fin de anclar la protección ambiental y climática en su negocio principal. Estas empresas usan la cuestión de la sostenibilidad para impulsar la innovación y la diferenciación. No se trata solo de proteger el medio ambiente y el clima, sino también de tener éxito comercial como empresa.

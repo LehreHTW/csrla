@@ -9,6 +9,7 @@ order: 2
 chapter_image: mexiko_menschenrechte.jpeg
 lang: es
 parentname: mexico
+countryshort: mex
 ---
 <div class="content" markdown="1">
 En México, los llamados pseudo-sindicatos o sindicatos blancos y amarillos son un fenómeno común. Éstos negocian Contratos de Protección (para la paz en la fábrica) con las empresas. Los contratos de protección son a menudo arbitrarios, y apenas exceden los requisitos mínimos en términos de salario y beneficios sociales. Más bien sirven para mantener al margen de la empresa a los sindicatos independientes y democráticamente elegidos. Los sindicatos blancos y amarillos a menudo son dirigidos por personas individuales que como tal son dueños de los convenios colectivos e incluso pueden heredarlos. Generalmente, los contratos de protección se cierran sin el conocimiento o consentimiento de los empleados. Los empleados de la empresa son representados por el sindicato blanco o amarillo, incluso si no son miembros de éste. Aquellos que no quieren ser representados por éste, automáticamente pierden sus trabajos. Las compañías a menudo financian directamente a los sindicatos blancos y amarillos, transfiriéndoles parte de la nómina de sueldos.

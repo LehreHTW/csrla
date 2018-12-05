@@ -8,6 +8,7 @@ title: «Korruption verursacht mehr Schäden als eine Naturkatastrophe»
 order: 4
 chapter_image: peru_korruption.jpeg
 lang: de
+countryshort: per
 parentname: peru
 ---
 <div class="content" markdown="1">

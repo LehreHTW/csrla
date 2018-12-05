@@ -8,6 +8,7 @@ order: 3
 chapter_image: argentinien_umwelt.jpeg
 lang: es
 parentname: argentina
+countryshort: arg
 ---
 <div class="content" markdown="1">
 La protección ambiental es un tema clave que enfrentan las empresas en Argentina cuando se trata de asumir responsabilidad social. Existen numerosos ejemplos de empresas que descargan sus aguas residuales sin tratar en los ríos o eliminan inadecuadamente los residuos industriales. El agua subterránea contaminada, especialmente en las cercanías de los principales centros urbanos e industriales, y la disminución de las poblaciones de peces y de los recursos forestales son consecuencias de este comportamiento.
