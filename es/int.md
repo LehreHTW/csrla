@@ -1,6 +1,7 @@
 ---
 layout: country
 title: Introducción
+subtitle: «Investigaciones científicas sobre la gestión responsable de empresas son escasas en América Latina»
 group: navigation-02
 order: 3
 header-img: Leihraeder_Eco_Bici_MexikoStadt_3.jpg
@@ -10,7 +11,7 @@ ref: einleitung
 <section class="box">
 <div class="content">
 <span class="chapter-subject">Introducción</span>
-<h1 class="chapter-title">«Investigaciones científicas sobre la gestión responsable de empresas son escasas en América Latina»</h1>
+<h1 class="chapter-title">Introducción</h1>
 </div>
 <div class="content" markdown="1">
 Las empresas son acusadas reiteradamente de violar normas sociales y / o ambientales. Según las cifras del Business & Human Rights Resource Centre, las empresas alemanas ocupan el quinto lugar a nivel mundial en cuanto a la cantidad de denuncias en su contra por violaciones a los derechos humanos. Las empresas suizas ocupan el noveno lugar. Las empresas mexicanas están en el puesto 18 y las brasileñas en el 19 (Kamminga 2015). Las actividades relacionadas a la fabricación y comercialización de productos y servicios se distribuyen cada vez más por todo el mundo. En este escenario, las empresas están también presentes en países donde los estándares legales para la protección de parámetros ambientales y sociales existentes son bajos, o cuya implementación es controlada de manera insuficiente por las instituciones estatales. Es por esta razón, que se le atribuye un alto nivel de importancia al que las compañías cumplan con los estándares en todas las etapas de la cadena de valor. En vista de las crecientes expectativas de las partes interesadas (véase, por ejemplo, la Iniciativa de Responsabilidad Corporativa en Suiza), la gestión empresarial responsable se hace cada vez más relevante en el contexto internacional, así como también desde una perspectiva comercial.

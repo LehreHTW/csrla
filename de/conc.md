@@ -1,6 +1,7 @@
 ---
 layout: country
 title: Fazit
+subtitle: «Die Samen sind gesät, jetzt braucht es Wissen und Werkzeuge um sie gedeihen zu lassen»
 group: navigation-08
 order: 9
 header-img: Muelleimer_Brasilien_1.jpg
@@ -9,8 +10,8 @@ ref: fazit
 ---
 <section class="box">
 <div class="content">
-<span class="chapter-subject">Zusammenfassung & Fazit</span>
-<h1 class="chapter-title">«Die Samen sind gesät, jetzt braucht es Wissen und Werkzeuge um sie gedeihen zu lassen»</h1>
+<span class="chapter-subject">Fazit</span>
+<h1 class="chapter-title">Zusammenfassung & Fazit</h1>
 </div>
 <div class="content" markdown="1">
 In Lateinamerika herrscht ein weitverbreitetes Misstrauen gegenüber staatlichen und privatwirtschaftlichen Institutionen. In den untersuchten Ländern bezahlt nur ein geringer Anteil der Bevölkerung direkte Steuern. Dies hat zur Folge, dass das Identifikationsgefühl wenig entwickelt ist. Auch die organisierte Zivilgesellschaft ist vergleichsweise schwach ausgeprägt und übt wenig Druck auf Staat und Unternehmen aus. In den Ländern, in denen bspw. der Grad an gewerkschaftlicher Organisation relativ hoch ist, hat dies zu einer Vielzahl sozialer Errungenschaften geführt. Gleichzeitig haben sich aber auch Verkrustungen bis hin zu mafiösen Strukturen entwickelt.

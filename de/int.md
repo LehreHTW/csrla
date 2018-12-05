@@ -1,6 +1,7 @@
 ---
 layout: country
 title: Einleitung
+subtitle: «Wissenschaftliche Untersuchungen zur verantwortungsvollen Unternehmensführung in Lateinamerika sind rar»
 group: navigation-02
 order: 3
 header-img: Leihraeder_Eco_Bici_MexikoStadt_3.jpg
@@ -10,7 +11,7 @@ ref: einleitung
 <section class="box">
 <div class="content">
 <span class="chapter-subject">Einführung</span>
-<h1 class="chapter-title">«Wissenschaftliche Untersuchungen zur verantwortungsvollen Unternehmensführung in Lateinamerika sind rar»</h1>
+<h1 class="chapter-title">Einführung</h1>
 </div>
 <div class="content" markdown="1">
 Unternehmen wird immer wieder vorgeworfen, dass sie gegen soziale und/oder ökologische Standards verstoßen. Basierend auf Zahlen des Business & Human Rights Resource Centre liegen die deutschen Unternehmen bezogen auf die Anzahl der gegen sie erhobenen Vorwürfe von Menschenrechtsverletzungen weltweit an 5. Stelle. Unternehmen mit Sitz in der Schweiz rangieren auf Platz 9. Mexikanische Unternehmen liegen auf Rang 18 und brasilianische auf Rang 19 (Kamminga 2015). Die Aktivitäten zur Herstellung und Vermarktung von Produkten und Dienstleistungen sind zunehmend weltweit verteilt. Dabei sind Unternehmen auch in Ländern aktiv, in denen lediglich geringe gesetzliche Standards zum Schutz ökologischer und gesellschaftlicher Belange existieren oder deren Umsetzung nur unzureichend durch die staatlichen Institutionen überprüft wird. Aus diesem Grund wird Unternehmen hinsichtlich der Einhaltung von Standards auf allen Stufen der Wertschöpfungskette eine hohe Bedeutung zugeschrieben. Angesichts der steigenden Erwartungen der Anspruchsgruppen (siehe z.B. Konzernverantwortungsinitiative in der Schweiz) gewinnt die verantwortungsvolle Unternehmensführung im internationalen Kontext auch aus betriebswirtschaftlicher Perspektive zunehmend an Bedeutung.
