@@ -2,8 +2,6 @@
 .start {
     header{
         .wrapper{
-            width: 80%;
-            max-width: 1500px;
             margin: 0 auto;
             padding: 15vh 0;
             text-align: right;
@@ -16,7 +14,7 @@
         }
         .title-box{
             display: inline-block;
-            width: 40%;
+            width: 35%;
             background: $lightgray;
             padding: 15px;
             font-size: 85%;
@@ -27,6 +25,10 @@
                 padding-top: 15px;
                 font-size: 1.5em;
             }
+			
+			h1 {
+				hyphens: none !important;
+			}
 
             @media screen and (max-width: $start-break-1){
                 width: 50%;
