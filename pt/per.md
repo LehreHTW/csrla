@@ -9,7 +9,7 @@ surface: 1'285'216
 population: 31'773'839
 gdp: 6'046
 altitude: 161
-lang: de
+lang: pt
 ref: peru
 ---
 {% assign peru = site.peru | where: 'lang', page.lang | sort: "order" %}

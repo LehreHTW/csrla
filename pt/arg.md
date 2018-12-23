@@ -1,19 +1,19 @@
 ---
 layout: country
-title: Peru
-group: navigation-04
-header-img: BILD_PERU-17.jpg
-bodyclass: peru
-order: 5
-surface: 1'285'216
-population: 31'773'839
-gdp: 6'046
-altitude: 161
-lang: de
-ref: peru
+title: Argentina
+group: navigation-07
+header-img: BILD_ARGENTINIEN-4.jpg
+bodyclass: argentinien
+order: 8
+surface: 2'780'400
+population: 43'847'430
+gdp: 12'449
+altitude: 25
+lang: pt
+ref: argentinien
 ---
-{% assign peru = site.peru | where: 'lang', page.lang | sort: "order" %}
-{% for ch in peru %}
+{% assign argentinien = site.argentinien | where: 'lang', page.lang | sort: "order" %}
+{% for ch in argentinien %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}
         <div class="image grid" style="background-image: url({{ ch.chapter_image | prepend: '/media/img/chapter/' | prepend: site.baseurl }});">

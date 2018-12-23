@@ -65,3 +65,15 @@ t:
         interviews: entrevistas
         hoehenmeter: metros de altura
         weiterlesen: Más
+    pt:
+        contents: Conteúdo
+        impressum: Imprint
+        flaeche: território
+        einwohner: População
+        bip: PIB/capita em USD
+        meteruebermeer: Altitude da capital
+        flugstrecke: Km percorridos
+        taxifahrten: Viagens de táxi
+        interviews: entrevistas
+        hoehenmeter: Metros de altura
+        weiterlesen: Leia mais

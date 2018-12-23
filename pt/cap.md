@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Kapitel
+title: Capítulo
 group: navigation-10
 displaytitle: false
 order: 2
-lang: de
+lang: pt
 ref: kapitel
 ---
 {% assign mexiko = site.mexiko | where: 'lang', page.lang| sort: "order" %}
@@ -22,17 +22,17 @@ ref: kapitel
     <div>
         <input type="checkbox" name="subject" value=".menschenrechte" id="filter-menschenrechte"/>
         <label for="filter-menschenrechte">
-            Menschenrechte
+            Direitos humanos e condições trabalhistas
         </label>
 
         <input type="checkbox" name="subject" value=".korruption" id="filter-korruption"/>
         <label for="filter-korruption">
-            Korruption
+            Corrupção
         </label>
 
         <input type="checkbox" name="subject" value=".umwelt" id="filter-umwelt"/>
         <label for="filter-umwelt">
-            Umwelt
+            Meio ambiente
         </label>
 
         <button type="reset">Reset</button>
@@ -44,7 +44,7 @@ ref: kapitel
     <div>
         <input type="checkbox" name="subject" value=".mexiko" id="filter-mexiko"/>
         <label for="filter-mexiko">
-            Mexiko
+            México
         </label>
 
         <input type="checkbox" name="subject" value=".peru" id="filter-peru"/>
@@ -54,17 +54,17 @@ ref: kapitel
 
         <input type="checkbox" name="subject" value=".kolumbien" id="filter-kolumbien"/>
         <label for="filter-kolumbien">
-            Kolumbien
+            Colômbia
         </label>
 
         <input type="checkbox" name="subject" value=".brasilien" id="filter-brasilien"/>
         <label for="filter-brasilien">
-            Brasilien
+            Brasil
         </label>
 
         <input type="checkbox" name="subject" value=".argentinien" id="filter-argentinien"/>
         <label for="filter-argentinien">
-            Argentinien
+            Argentina
         </label>
 
         <button type="reset">Reset</button>
@@ -84,7 +84,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">{{ site.t[page.lang].weiterlesen }} &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -97,7 +97,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">{{ site.t[page.lang].weiterlesen }} &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -110,7 +110,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">{{ site.t[page.lang].weiterlesen }} &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -123,7 +123,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">{{ site.t[page.lang].weiterlesen }} &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}
@@ -136,7 +136,7 @@ ref: kapitel
                 <span class="subject">{{ c.subject }}</span>
             </div>
             <h6 class="title">{{c.title}}</h6>
-            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">Weiterlesen &raquo;</a></p>
+            <p class="excerpt">{{c.content | strip_html | truncate: 140, '[...]'}} <br><a href="{{ site.baseurl }}/{{ c.lang }}/{{ c.countryshort }}/#{{ c.subject }}" class="more">{{ site.t[page.lang].weiterlesen }} &raquo;</a></p>
         </div>
         {% endif %}
     {% endfor %}

@@ -19,7 +19,7 @@
 {% assign previous_sidestories = 0 %}
 
     {% for single_page in all_pages %}
-        {% if single_page.exclude != true %}
+        {% if single_page.exclude != true and single_page.lang == page.lang %}
             {% if single_page.url == page.url %}
             <body class="
                 {% if page.layout == 'country' %} country {% endif %}

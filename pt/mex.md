@@ -1,19 +1,19 @@
 ---
 layout: country
-title: Peru
-group: navigation-04
-header-img: BILD_PERU-17.jpg
-bodyclass: peru
-order: 5
-surface: 1'285'216
-population: 31'773'839
-gdp: 6'046
-altitude: 161
-lang: de
-ref: peru
+title: México
+group: navigation-03
+header-img: BILD_MEXIKO-7.jpg
+bodyclass: mexiko
+order: 4
+surface: 1'964'375
+altitude: 2'250
+gdp: 8'201
+population: 127'540'423
+lang: pt
+ref: mexiko
 ---
-{% assign peru = site.peru | where: 'lang', page.lang | sort: "order" %}
-{% for ch in peru %}
+{% assign mexiko = site.mexiko | where: 'lang', page.lang | sort: "order" %}
+{% for ch in mexiko %}
 <section class="box chapter-{{ ch.subject }}" id="{{ ch.subject }}">
     {% if ch.chapter_image %}
         <div class="image grid" style="background-image: url({{ ch.chapter_image | prepend: '/media/img/chapter/' | prepend: site.baseurl }});">
