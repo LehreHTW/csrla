@@ -1,7 +1,7 @@
 ---
 layout: country
 title: Recomendações
-subtitle: «O ambiente econômico não é para principiantes, só para profissionais»
+subtitle: «O ambiente econômico da América Latina não é para principiantes, só para profissionais»
 group: navigation-09
 order: 10
 header-img: 20170717_142211.jpg

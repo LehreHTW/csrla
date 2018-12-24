@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Capítulo
+title: Capítulos
 group: navigation-10
 displaytitle: false
 order: 2
