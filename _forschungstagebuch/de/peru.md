@@ -27,6 +27,13 @@ Erster Tag in Lima: Stadtteil Miraflores – das Polanco Perus. Unsere Wohnung i
 Der erste Interviewpartner, Eduardo Benavides, betont, dass es zwei Perus gäbe: Lima und den Rest des Landes. Für die indigene Bevölkerung auf dem Land seien auch die Peruaner aus Lima bzw. aus anderen Städten «Ausländer».
 </div>
 
+<div class="media-wrapper">
+	<div class="video">
+		<iframe src="https://tube.switch.ch/embed/48cd7ed5"  allowfullscreen></iframe>
+	</div>
+	<p>Interview mit Eduardo Benavides</p>
+</div>
+
 <div class="content" markdown="1">
 ## Donnerstag, 27. Juli 2017
 </div>
@@ -161,6 +168,13 @@ Sandro Sanchez, Professor an der CENTRUM Católica Business School, weist darauf
 
 <div class="content" markdown="1">
 Sehr typisch für Lima: wenn man durch die Straßen läuft, wird man ständig von Taxifahrern angehupt, die potentielle Kunden auf sich aufmerksam machen wollen. Daran muss man sich erst einmal gewöhnen.
+</div>
+
+<div class="media-wrapper">
+	<div class="video">
+		<iframe src="https://tube.switch.ch/embed/2d26ad5f"  allowfullscreen></iframe>
+	</div>
+	<p>Interview mit Patricia Vizcarra</p>
 </div>
 
 <div class="content" markdown="1">

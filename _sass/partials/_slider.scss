@@ -62,3 +62,12 @@
         }
     }
 }
+
+.country-videos {
+	display: flex;
+	justify-content: space-between;
+	
+	.country-video {
+		width: 30%;
+	}
+}

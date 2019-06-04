@@ -98,3 +98,18 @@ En Perú, en el 75% de la población se recogen los residuos domésticos (2001),
 Las emisiones peruanas de 2,0 toneladas de CO2 per cápita, se ubican por debajo del promedio mundial de 5,0 toneladas y del promedio latinoamericano de 3,1 toneladas per cápita.
 Los desafíos de las empresas peruanas en relación a los derechos humanos / condiciones de trabajo, medio ambiente y corrupción se describirán en los siguientes capítulos. Además, se demostrará a modo de ejemplo cómo las empresas cumplen con sus responsabilidades corporativas en las tres áreas.
 </div>
+
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/b2e0a807" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Marco Vascones</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/593fd3b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Felipe Custer</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/851f4623" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Roxana Cornejo</p>
+	</div>
+</div>

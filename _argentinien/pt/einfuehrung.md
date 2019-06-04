@@ -97,6 +97,23 @@ Nos 12 anos de governo do casal Néstor e Cristina Kirchner, a Argentina se isol
 As violações massivas dos direitos humanos durante a última ditadura militar na Argentina e suas consequências ainda preocupam muito à sociedade. Além disso, a Human Rights Watch (2017) aponta também que a Argentina atual enfrenta problemas de direitos humanos como, por exemplo, abusos de autoridade policial, condições precárias da população carcerária, e o aumento dos casos de violência contra as mulheres. Ademais, acusa-se ao país de não garantir à população indígena suficiente acesso à justiça, terra, educação, saúde e outros serviços públicos básicos e, além disso, de não lhes fornecer de forma suficiente as oportunidades previstas de participação na exploração econômica do país. Segundo os Repórteres sem Fronteiras, em 2017, na Argentina não houve homicídios de jornalistas relacionados com sua atividade profissional e o país atualmente ocupa a 50ª posição no ranking de liberdade de imprensa.
 
 Cerca de 90% da população recebe um serviço de coleta lixo urbano (2010), mas não há informação sobre quanto se recicla. Aproximadamente 99,6% da população tem acesso ao abastecimento básico de água potável (2015). Apesar da pouca diferença entre os setores urbanos e rurais, é nas cidades onde menos pessoas têm acesso ao abastecimento básico de água. A maior parte da população conta com abastecimento de água potável classificado como seguro (98,5%). No entanto, só 50% da população está conectada à rede de esgoto (2010). Em 2014, as emissões per capita de CO2 alcançaram 4,7 toneladas, um pouco menos da média das emissões mundiais de CO2 de 5 toneladas, mas claramente acima de média da América Latina, de 3,1 toneladas.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/8ddf7e3f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Conrado Laigle</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/71d61804" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Roberto Murchison</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/496aab0f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Ignacio A. Salguero</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 Nas próximas seções, apresentam-se exemplos de desafios de empresas argentinas no que diz respeito aos direitos humanos e condições trabalhistas, meio ambiente e corrupção. Além disso, demonstra-se, a título de exemplo, como as empresas cumprem com sua responsabilidade social nas áreas descritas.
 </div>

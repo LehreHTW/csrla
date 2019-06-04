@@ -97,6 +97,23 @@ Laut Human Rights Watch (2017) kennzeichnen chronische Menschenrechtsprobleme de
 In Brasilien werden bei 91% der Bevölkerung die Siedlungsabfälle eingesammelt (2012) und rund 1% der Abfälle wird recycelt (2000). 97,5% der Bevölkerung haben Zugang zu grundlegenden Trinkwasserdienstleistungen (2015), wobei ein deutliches Gefälle zwischen städtischen Gebieten (99,3%) und dem ländlichen Raum (86,6%) festzustellen ist. Bezüglich des Anteils der Bevölkerung, der über Zugang zu als sicher eingestuften Trinkwasserquellen verfügt, liegen keine statistischen Daten vor. 45% der Bevölkerung sind an ein Abwassersammelsystem angeschlossen (1993).
 
 Der brasilianische Pro-Kopf-Ausstoß an CO2 lag 2014 bei 2,6 Tonnen und damit sowohl unter dem weltweiten Mittel (5,0 Tonnen) als auch dem lateinamerikanischen Durchschnittswert von 3,1 Tonnen.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/40afe2b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Rafael Sittoni Goelzer</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/33fdc6d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Roberta Codignoto</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/cd74e3c7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Marina Ferro</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 Anhand von ausgewählten Beispielen wird in den nächsten Abschnitten beschrieben, mit welchen Herausforderungen sich Unternehmen in Brasilien in den Bereichen Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption konfrontiert sehen. Außerdem wird exemplarisch vorgestellt, welche Maßnahmen Unternehmen ergreifen um ihrer gesellschaftlichen Verantwortung gerecht zu werden.
 </div>

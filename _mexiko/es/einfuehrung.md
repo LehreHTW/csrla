@@ -85,9 +85,6 @@ _Fuente: GTAI (2017)_
 A pesar del positivo desarrollo económico en los últimos años, México continúa enfrentando importantes desafíos sociales y ambientales. En el Índice de Percepción de la Corrupción de Transparency International (2017), el país ocupa el lugar 123 de 176 estados, lo que lo convierte en uno de los países del continente americano donde la corrupción es más frecuente.
 
 Según Human Rights Watch, violaciones masivas de los derechos humanos ocurren con regularidad en México. Estas incluyen denuncias de uso excesivo de la fuerza, ejecuciones extrajudiciales y tortura por parte de las fuerzas de seguridad, con impunidad sistemática y continua de los perpetradores. Periodistas que informan sobre el crimen organizado o la mala administración en las instituciones estatales son atacados, acosados y sometidos a la autocensura. Según Reporteros sin Fronteras, once periodistas fueron asesinados en relación con sus actividades en 2017, y México ocupa el puesto 147 de 180 países en el ranking de libertad de prensa.
-
-Según la Base de datos de estadísticas ambientales de las Naciones Unidas, en el 90% de la población mexicana se recolectan los desechos domésticos (2006) y el 5% de éstos son reciclados (2013). El 98,3% de la población tiene acceso a servicios básicos de agua potable (2015), con una cierta brecha urbano-rural (urbano 99,5%, rural 93,7%). Sin embargo, es sorprendente que solo una minoría de la población tenga acceso a fuentes de agua dulce que se consideran seguras (42,6%). El 71% de la población está conectada al sistema de alcantarillado (2010). En 2014, las emisiones de CO2 per cápita se situaron en 3,9 toneladas, por debajo del promedio mundial de las emisiones de 5 toneladas, pero por encima del promedio de 3,1 toneladas de América Latina.
-
 </div>
 
 </div>
@@ -95,6 +92,25 @@ Según la Base de datos de estadísticas ambientales de las Naciones Unidas, en 
 
 <div class="media-wrapper">
 {% include gallery.html %}
+</div>
+
+<div class="content" markdown="1">
+Según la Base de datos de estadísticas ambientales de las Naciones Unidas, en el 90% de la población mexicana se recolectan los desechos domésticos (2006) y el 5% de éstos son reciclados (2013). El 98,3% de la población tiene acceso a servicios básicos de agua potable (2015), con una cierta brecha urbano-rural (urbano 99,5%, rural 93,7%). Sin embargo, es sorprendente que solo una minoría de la población tenga acceso a fuentes de agua dulce que se consideran seguras (42,6%). El 71% de la población está conectada al sistema de alcantarillado (2010). En 2014, las emisiones de CO2 per cápita se situaron en 3,9 toneladas, por debajo del promedio mundial de las emisiones de 5 toneladas, pero por encima del promedio de 3,1 toneladas de América Latina.
+</div>
+
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/606ae622" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Karen Hudlet</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/7084b69b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Alonso Arturo</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/26425459" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Augusto Martinez</p>
+	</div>
 </div>
 
 <div class="content" markdown="1">

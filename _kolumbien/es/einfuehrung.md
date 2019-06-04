@@ -99,6 +99,23 @@ Según estadísticas oficiales, en el 81% de la población se recogen los residu
 Las emisiones colombianas de CO2 per cápita de 1,8 toneladas, se ubican claramente por debajo del promedio mundial de 5,0 toneladas y del promedio latinoamericano de 3,1 toneladas.
 
 En Colombia, las empresas enfrentan diferentes desafíos en términos de derechos humanos / condiciones de trabajo, medio ambiente y corrupción. En los próximos capítulos se presentarán ejemplos de cómo enfrentan estos retos.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/8af9d2ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Ana María Guerrero</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/e704c3a7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Claudia Hernandez</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/fbc5e561" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Giovanni Pabon</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 Además, se demostrará a modo de ejemplo, cómo las empresas cumplen con sus responsabilidades corporativas en las tres áreas.
 </div>

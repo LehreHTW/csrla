@@ -99,6 +99,23 @@ Laut offiziellen Statistiken, werden bei 81% der Bevölkerung die Siedlungsabfä
 Die CO2 Emissionen pro Kopf liegen mit 1,8 Tonnen sowohl deutlich unter dem weltweiten Mittel (5,0 Tonnen) als auch unter dem Durchschnittwert in Lateinamerika (3,1 Tonnen).
 
 Im Folgenden wird jeweils eine Herausforderung auf einzelbetrieblicher Ebene aus den Gebieten dargestellt und aufgezeigt, wie Unternehmen versuchen, ihrer unternehmerischen Verantwortung in den beschriebenen Bereichen gerecht zu werden.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/8af9d2ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Ana María Guerrero</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/e704c3a7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Claudia Hernandez</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/fbc5e561" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Giovanni Pabon</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 Für Unternehmen ergeben sich in Kolumbien bezüglich Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption unterschiedliche Herausforderungen, auf die in den folgenden Abschnitten exemplarisch näher eingegangen wird. Außerdem werden Beispiele beschrieben, wie Unternehmen in den drei Bereichen ihrer unternehmerischen Verantwortung nachkommen.
 </div>

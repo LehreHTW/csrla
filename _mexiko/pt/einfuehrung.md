@@ -84,8 +84,6 @@ _Fonte GTAI (2017)_
 Apesar do desenvolvimento econômico positivo nos últimos anos, o México ainda enfrenta grandes desafios sociais e ambientais. O índice de percepção da corrupção (CPI) da Transparency International (2017) coloca ao México na 123ª posição de 176 países, percebido como um dos países americanos mais corruptos.
 
 Segundo o Human Rights Watch, no México com frequência ocorrem violações maciças dos direitos humanos. Tratam-se de acusações de uso excessivo da violência, execuções extrajudiciais e torturas realizadas pelas forças de segurança, e observa-se uma impunidade sistemática e contínua dos agressores. Jornalistas que investigam o crime organizado ou problemas graves em instituições estatais são atacados, assediados e forçados à autocensura. O Repórteres sem Fronteiras informa que, em 2017, onze jornalistas foram assassinados no desempenho da sua atividade profissional e, no que diz respeito à liberdade de imprensa, o México está na 147ª posição de 180 países.
-
-Segundo estatísticas da UN Environment Statistics Database, há coleta de lixo urbano para 90% da população (2006) e cerca de 5% dos resíduos é reciclado (2013); 98,3% da população tem acesso à água potável (2015), observa-se certa desigualdade entre as zonas urbanas e rurais (urbana 99,5%; rural 93,7%). Porém, chama a atenção que a minoria da população (42,6%) tem acesso a fontes de água potável seguras. 71% da população está conectada a uma rede de esgoto (2010). A emissão de CO2 per capita mexicana em 2014 chegou a 3,9 toneladas, número abaixo da média mundial de 5 toneladas, mas acima do valor médio na América Latina de 3,1 toneladas.
 </div>
 
 </div>
@@ -93,6 +91,25 @@ Segundo estatísticas da UN Environment Statistics Database, há coleta de lixo 
 
 <div class="media-wrapper">
 {% include gallery.html %}
+</div>
+
+<div class="content" markdown="1">
+Segundo estatísticas da UN Environment Statistics Database, há coleta de lixo urbano para 90% da população (2006) e cerca de 5% dos resíduos é reciclado (2013); 98,3% da população tem acesso à água potável (2015), observa-se certa desigualdade entre as zonas urbanas e rurais (urbana 99,5%; rural 93,7%). Porém, chama a atenção que a minoria da população (42,6%) tem acesso a fontes de água potável seguras. 71% da população está conectada a uma rede de esgoto (2010). A emissão de CO2 per capita mexicana em 2014 chegou a 3,9 toneladas, número abaixo da média mundial de 5 toneladas, mas acima do valor médio na América Latina de 3,1 toneladas.
+</div>
+
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/606ae622" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Karen Hudlet</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/7084b69b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Alonso Arturo</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/26425459" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Augusto Martinez</p>
+	</div>
 </div>
 
 <div class="content" markdown="1">

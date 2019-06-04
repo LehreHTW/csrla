@@ -7,6 +7,6 @@ lang: pt
 ---
 <div class="media-wrapper">
     <div class="video">
-        <iframe src="https://www.youtube.com/embed/u4ONV6XTHkk?ecver=1"  allowfullscreen></iframe>
+        <iframe src="https://tube.switch.ch/embed/529a2960"  allowfullscreen></iframe>
     </div>
 </div>

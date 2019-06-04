@@ -98,6 +98,23 @@ Segundo estatísticas oficiais, há coleta de lixo urbano para 81% da populaçã
 A emissão per capita de CO2 alcançou 1,8 toneladas, claramente abaixo da média mundial (5 toneladas) e latino-americana (3,1 toneladas).
 
 À continuação apresentam-se desafios individuais das empresas e mostra-se o que elas fazem para cumprir com suas responsabilidades nos diferentes âmbitos.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/8af9d2ac" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Ana María Guerrero</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/e704c3a7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Claudia Hernandez</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/fbc5e561" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Giovanni Pabon</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 As empresas colombianas enfrentam vários desafios referentes aos direitos humanos e condições trabalhistas, meio ambiente e corrupção, que se descrevem com exemplos nas seções seguintes. Além disso, descreve-se como as empresas tentam cumprir com sua responsabilidade empresarial nessas três áreas.
 </div>

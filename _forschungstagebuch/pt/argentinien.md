@@ -98,6 +98,13 @@ Segundo Daniel Krull, as empresas tentam resolver seus problemas internos com as
 Esta noite dou uma palestra na Universidade do CEMA para apresentar os primeiros resultados da minha viagem de investigação. O grupo de estudantes de composição internacional entra em uma discussão animada dos resultados, comparando-os com seus respectivos países.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/32b142a0"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista com Oscar Ensinck</p>
+</div>
+
 <div class="content" markdown="1">
 ## Quinta-feira, 12 de outubro de 2017
 </div>
@@ -276,6 +283,13 @@ Já em 1776, Adam Smith na sua obra Wealth of Nations deu uma pista para levar a
 
 <div class="content" markdown="1">
 A arte e a cultura têm grande importância na Argentina. Há muitos concertos de graça e museus sem custo. Por isso, o público está muito mais misturado que na Europa central. Esta noite tem um concerto de graça no [Centro Cultural Kirchner (CCK)](http://www.cck.gob.ar/).
+</div>
+
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/2ec363c8"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista com Gustavo Grobocopatel</p>
 </div>
 
 <div class="content" markdown="1">

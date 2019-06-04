@@ -98,6 +98,23 @@ Segundo os Repórteres sem Fronteiras, em 2017, no Brasil, um jornalista foi ass
 No Brasil há coleta de lixo urbano para 91% da população (2012) e cerca de 1% dos resíduos é reciclado (2000). Aproximadamente 97,5% da população tem acesso ao abastecimento básico de água potável (2015), mas há uma disparidade acentuada entre as áreas urbanas (99,3%) e rurais (86,6%). Não há dados estatísticos sobre a porcentagem da população com acesso a fontes seguras de água potável. 45% da população está conectada a uma rede de esgoto (1993).
 
 A emissão per capita brasileira de CO2 em 2014 alcançou 2,6 toneladas, ficando abaixo da média mundial (5 toneladas) e do valor médio na América Latina de 3,1 toneladas.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/40afe2b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Rafael Sittoni Goelzer</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/33fdc6d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Roberta Codignoto</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/cd74e3c7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista com Marina Ferro</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 Nas próximas seções, descrevem-se com base em exemplos selecionados os desafios que as empresas brasileiras enfrentam nos âmbitos dos direitos humanos e condições trabalhistas, meio ambiente e corrupção. Além disso, apresentam-se exemplos de medidas tomadas pelas empresas para cumprir com suas responsabilidades sociais.
 </div>

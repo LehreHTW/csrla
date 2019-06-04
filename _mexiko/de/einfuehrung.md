@@ -85,9 +85,6 @@ _Quelle: GTAI (2017)_
 Trotz der positiven wirtschaftlichen Entwicklung der letzten Jahre ist Mexiko weiterhin mit erheblichen gesellschaftlichen und ökologischen Herausforderungen konfrontiert. So belegt das Land im Corruption Perceptions Index von Transparency International (2017) Rang 123 von 176 Staaten, und wird damit als eines der Länder auf dem amerikanischen Kontinent wahrgenommen, in dem Korruption am weitesten verbreitet ist.
 
 Laut Human Rights Watch kommt es in Mexiko regelmäßig zu massiven Menschenrechtsverletzungen. Hierzu zählen Vorwürfe über exzessive Gewaltanwendung, extralegale Hinrichtungen sowie Folter durch Sicherheitskräfte, wobei eine systematische und fortgesetzte Straflosigkeit der Täter zu beobachten sei. Journalisten, die über die organisierte Kriminalität oder Missstände in staatlichen Institutionen berichten, werden angegriffen, schikaniert und zur Selbstzensur getrieben. 2017 wurden gemäß Reporter ohne Grenzen elf Journalisten im Zusammenhang mit ihrer Tätigkeit getötet und Mexiko belegt auf der Rangliste der Pressefreiheit Platz 147 von 180 Ländern.
-
-Gemäß UN Environment Statistics Database werden in Mexiko bei 90% der Bevölkerung die Siedlungsabfälle eingesammelt (2006) und 5% der Abfälle recycelt (2013). 98,3% der Bevölkerung haben Zugang zu grundlegenden Trinkwasserdienstleistungen (2015), wobei ein gewisses Stadt-Land-Gefälle festzustellen ist (Stadt 99,5%; Land 93,7%). Auffallend ist jedoch, dass lediglich eine Minderheit der Bevölkerung Zugang zu Trinkwasserquellen hat (42,6%), die als sicher gelten. 71% der Bevölkerung sind an das Abwassersammelsystem angeschlossen (2010). 2014 lag der Pro-Kopf-Ausstoß an CO2 bei 3,9 Tonnen und damit zwar unter den durchschnittlichen weltweiten CO2-Emissionen pro Kopf von 5 Tonnen aber über dem regionalen Durchschnitt für Lateinamerika von 3,1 Tonnen.
-
 </div>
 
 </div>
@@ -95,6 +92,25 @@ Gemäß UN Environment Statistics Database werden in Mexiko bei 90% der Bevölke
 
 <div class="media-wrapper">
 {% include gallery.html %}
+</div>
+
+<div class="content" markdown="1">
+Gemäß UN Environment Statistics Database werden in Mexiko bei 90% der Bevölkerung die Siedlungsabfälle eingesammelt (2006) und 5% der Abfälle recycelt (2013). 98,3% der Bevölkerung haben Zugang zu grundlegenden Trinkwasserdienstleistungen (2015), wobei ein gewisses Stadt-Land-Gefälle festzustellen ist (Stadt 99,5%; Land 93,7%). Auffallend ist jedoch, dass lediglich eine Minderheit der Bevölkerung Zugang zu Trinkwasserquellen hat (42,6%), die als sicher gelten. 71% der Bevölkerung sind an das Abwassersammelsystem angeschlossen (2010). 2014 lag der Pro-Kopf-Ausstoß an CO2 bei 3,9 Tonnen und damit zwar unter den durchschnittlichen weltweiten CO2-Emissionen pro Kopf von 5 Tonnen aber über dem regionalen Durchschnitt für Lateinamerika von 3,1 Tonnen.
+</div>
+
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/606ae622" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Karen Hudlet</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/7084b69b" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Alonso Arturo</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/26425459" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Augusto Martinez</p>
+	</div>
 </div>
 
 <div class="content" markdown="1">

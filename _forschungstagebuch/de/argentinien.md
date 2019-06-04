@@ -98,6 +98,13 @@ Nach Einschätzung von Daniel Krull versuchen die Unternehmen mit ihren CSR-Akti
 Heute Abend halte ich einen Vortrag an der Universidad del CEMA, in dem ich erste Ergebnisse meiner Forschungsreise vorstelle. Die international zusammengesetzte Studierendengruppe diskutiert die Erkenntnisse angeregt und setzt sie in Bezug zu ihren jeweiligen Heimatländern.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/32b142a0"  allowfullscreen></iframe>
+    </div>
+	<p>Interview mit Oscar Ensinck</p>
+</div>
+
 <div class="content" markdown="1">
 ## Donnerstag, 12. Oktober 2017
 </div>
@@ -276,6 +283,13 @@ Bereits 1776 hat Adam Smith in seinem Werk Wealth of Nations einen Hinweis gegeb
 
 <div class="content" markdown="1">
 Kunst und Kultur haben in Argentinien einen hohen Stellenwert – es gibt viele kostenlose Konzerte und Museen, die keinen Eintritt verlangen. Daher ist das Publikum viel gemischter als in Mitteleuropa. Im [Centro Cultural Kirchner (CCK)](http://www.cck.gob.ar/) wird heute Abend Zwölftonmusik gratis geboten.
+</div>
+
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/2ec363c8"  allowfullscreen></iframe>
+    </div>
+	<p>Interview mit Gustavo Grobocopatel</p>
 </div>
 
 <div class="content" markdown="1">

@@ -97,6 +97,23 @@ In den zwölf Regierungsjahren des Ehepaares Néstor und Cristina Kirchner hatte
 Zu massiven Menschenrechtsverletzungen kam es in Argentinien in der Zeit der letzten Militärdiktatur, deren Folgen die Gesellschaft bis heute in starkem Maße bewegen. Darüber hinaus weist Human Rights Watch (2017) darauf hin, dass auch das heutige Argentinien mit Menschenrechtsproblemen konfrontiert ist, darunter fallen der Missbrauch polizeilicher Gewalt ebenso wie schlechte Haftbedingungen und die gehäuft auftretende Gewalt gegen Frauen. Darüber hinaus wird dem Land vorgeworfen, seiner indigenen Bevölkerung nur unzureichend Zugang zur Justiz sowie zu Land, Bildung, Gesundheitsversorgung und anderen staatlichen Basisleistungen zu gewähren und dieser Bevölkerungsgruppe außerdem nicht im ausreichenden Maße die vorgesehenen Partizipationsmöglichkeit bei der wirtschaftlichen Erschließung des Hinterlandes einzuräumen. Laut Reporter ohne Grenzen wurden 2017 in Argentinien keine Journalisten im Zusammenhang mit ihrer Tätigkeit getötet und das Land belegt Platz 50 in der Rangliste der Pressefreiheit.
 
 Bei 90% der Bevölkerung werden die Siedlungsabfälle eingesammelt (2010), wobei keine Angaben dazu vorliegen, welcher Anteil dieser Abfälle recycelt wird. 99,6% der Bevölkerung haben Zugang zu grundlegenden Trinkwasserdienstleistungen (2015). Obwohl diesbezüglich nur unwesentliche Unterschiede zwischen Stadt und Land festzustellen sind, hat jedoch in den Städten ein etwas geringerer Anteil der Bevölkerung Zugang zu Basisleistungen des Wassersektors. Ein Großteil der Bevölkerung kann eine als sicher eingestufte Trinkwasserversorgung in Anspruch nehmen (98,5%). Gleichzeitig sind aber nur 50% der Bevölkerung an das Abwassersammelsystem angeschlossen (2010). 2014 lagen die CO2-Emissionen pro Kopf bei 4,7 Tonnen und damit knapp unter dem durchschnittlichen weltweiten Pro-Kopf-Ausstoß an CO2 von 5 Tonnen, aber deutlich über dem lateinamerikanischen Durchschnitt von 3,1 Tonnen.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/8ddf7e3f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Conrado Laigle</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/71d61804" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Roberto Murchison</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/496aab0f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Ignacio A. Salguero</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 In den nächsten Abschnitten werden beispielhaft Herausforderungen von Unternehmen in Argentinien mit Bezug zu Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption vorgestellt. Ferner wird exemplarisch aufgezeigt, wie Unternehmen ihrer gesellschaftlichen Verantwortung in den beschriebenen Bereichen gerecht werden.
 </div>

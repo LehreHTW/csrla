@@ -266,8 +266,16 @@ Der Taco al pastor ist eine in Mexiko sehr beliebte Taco-Art mit Schweinefleisch
 
 <div class="content" markdown="1">
 Lorena Cortes von [CEMEFI](https://www.cemefi.org/) weist darauf hin, dass es in Mexiko gut angesehen sei, möglichst viel Zeit auf der Arbeit zu verbringen. Daher sei es eines der Länder, in denen die meisten Arbeitsstunden geleistet würden, gleichzeitig sei die Produktivität aber mit am geringsten. Hierfür gibt es ein geflügeltes Wort: «Hacer horas nalgas», Stunden machen, in denen man nichts tut.
+</div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/fa7977e9"  allowfullscreen></iframe>
+    </div>
+	<p>Interview mit Lorena Cortes</p>
+</div>
 
+<div class="content" markdown="1">
 In Mexiko wird reich sein häufig mit «ein Schuft sein» gleichgesetzt. Die Leute denken, dass man etwas Unrechtes getan haben muss, um reich geworden zu sein. Arm zu sein bedeutet, dass man nicht studieren bzw. arbeiten wolle, sondern faul sei.
 
 

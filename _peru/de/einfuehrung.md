@@ -98,3 +98,18 @@ Bei 75% der peruanischen Bevölkerung werden die Siedlungsabfälle eingesammelt 
 Mit einem Pro-Kopf-Ausstoß von 2,0 Tonnen liegen die peruanischen CO2-Emissionen sowohl unter dem weitweiten Niveau von durchschnittlich 5 Tonnen als auch unter dem regionalen Durchschnitt für Lateinamerika von 3,1 Tonnen pro Kopf.
 Mit welchen Herausforderungen sich Unternehmen in Peru in den Bereichen Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption konfrontiert sehen, wird in den folgenden Abschnitten anhand von Beispielen beschrieben. Darüber hinaus wird exemplarisch aufgezeigt, wie Unternehmen ihre verantwortungsvolle Unternehmensführung konkret ausgestalten.
 </div>
+
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/b2e0a807" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Marco Vascones</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/593fd3b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Felipe Custer</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/851f4623" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Interview mit Roxana Cornejo</p>
+	</div>
+</div>

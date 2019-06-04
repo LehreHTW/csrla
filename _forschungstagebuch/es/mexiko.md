@@ -265,7 +265,16 @@ El taco al pastor es un estilo de taco muy popular en México preparado con carn
 
 <div class="content" markdown="1">
 Lorena Cortés, de <a href="https://www.cemefi.org/">CEMEFI</a>, señala que en México se considera positivo pasar el mayor tiempo posible en el trabajo. Por consiguiente, sería uno de los países con más horas trabajadas, pero al mismo tiempo, la productividad sería de las más bajas. Hay un dicho para esto: «Hacer horas nalgas», horas en las que no se hace nada.
+</div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/fa7977e9"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista con Lorena Cortes</p>
+</div>
+
+<div class="content" markdown="1">
 Ser rico en México a menudo se equipara con ser «un sinvergüenza». La gente asume que algo turbio debe haber hecho el rico para llegar a serlo. Ser pobre implicaría no querer estudiar o trabajar, sino ser flojo.
 
 En México, la desigualdad es un problema más grave que la pobreza. Especialmente impactante resulta la desigualdad ante la ley y en lo referente al acceso a la justicia: «El que no tiene dinero no tiene a quien le defienda».

@@ -97,6 +97,23 @@ Según Human Rights Watch (2017), el aparato de seguridad brasileño está carac
 En Brasil, al 91% de la población se le recogen los residuos domésticos (2010), y alrededor del 1% de estos desechos son reciclados (2000). El 99,6% de la población tiene acceso a servicios básicos de agua potable (2015), con una clara brecha entre áreas urbanas (99,3%) y áreas rurales (86,6%). No hay datos estadísticos sobre la proporción de la población que tiene acceso a fuentes seguras de agua potable. El 45% de la población está conectado a un sistema de alcantarillado (1993).
 
 Las emisiones brasileñas de CO2 per cápita ascendieron a 2,6 toneladas en 2014, por debajo del promedio mundial (5,0 toneladas) y también por debajo del promedio latinoamericano de 3,1 toneladas.
+</div>
 
+<div class="media-wrapper country-videos">
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/40afe2b6" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Rafael Sittoni Goelzer</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/33fdc6d5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Roberta Codignoto</p>
+	</div>
+	<div class="country-video">
+		<iframe src="https://tube.switch.ch/embed/cd74e3c7" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+		<p>Entrevista con Marina Ferro</p>
+	</div>
+</div>
+
+<div class="content" markdown="1">
 En los próximos capítulos se presentarán ejemplos de los desafíos que enfrentan las empresas en Brasil en relación a los derechos humanos / condiciones de trabajo, el medio ambiente y la corrupción. Además, se demostrará a modo de ejemplo cómo las empresas cumplen con su responsabilidad social.
 </div>

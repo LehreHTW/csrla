@@ -57,6 +57,13 @@ Carlos Lozano, de Corresponsables, señala que ningún superhéroe, como Batman 
 Para evitar un colapso del tránsito, en Bogotá rige desde 1998 el sistema <a href="http://www.eltiempo.com/pico-y-placa/">"pico y placa"</a>. Durante las horas punta ("pico"), entre las 6 y las 8 hrs. así como entre las 15 y las 19:30 hrs., los automóviles con ciertos números finales de matrícula ("placa") no pueden circular en el área urbana. Cada día es el turno de otros dígitos finales. Ante incumplimiento se aplican drásticas multas.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/88be16e4"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista con Daniela Patiño</p>
+</div>
+
 <div class="content" markdown="1">
 ## Jueves, 17 de agosto de 2017
 </div>

@@ -96,6 +96,13 @@ Según Daniel Krull, con sus actividades de RSE las compañías intentan resolve
 Esta noche doy una charla en la Universidad del CEMA, en la cual presento los primeros resultados de mi viaje de investigación. El grupo internacional de estudiantes analiza los hallazgos con entusiasmo y los relaciona con sus respectivos países de origen.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/32b142a0"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista con Oscar Ensinck</p>
+</div>
+
 <div class="content" markdown="1">
 ## Jueves, 12 de octubre de 2017
 </div>
@@ -269,6 +276,13 @@ Ya en su obra Wealth of Nations de 1776, Adam Smith dio luces sobre cómo lograr
 
 <div class="content" markdown="1">
 El arte y la cultura son muy valorados en Argentina – hay muchos conciertos gratis y museos que no cobran entrada. Por lo mismo, la audiencia es mucho más diversa que en Europa Central. En el <a href="http://www.cck.gob.ar/">Centro Cultural Kirchner (CCK)</a>, esta noche se ofrece música dodecafónica gratis.
+</div>
+
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/2ec363c8"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista con Gustavo Grobocopatel</p>
 </div>
 
 <div class="content" markdown="1">

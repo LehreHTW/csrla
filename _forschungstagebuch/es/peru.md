@@ -27,6 +27,13 @@ Primer día en Lima: barrio Miraflores – el Polanco del Perú. Nuestro apartam
 El primer entrevistado, Eduardo Benavides, enfatiza que existirían dos Perú: Lima, y el resto del país. La población indígena del área rural considera como "extranjeros" a los peruanos de Lima y otras ciudades.
 </div>
 
+<div class="media-wrapper">
+	<div class="video">
+		<iframe src="https://tube.switch.ch/embed/48cd7ed5"  allowfullscreen></iframe>
+	</div>
+	<p>Entrevista con Eduardo Benavides</p>
+</div>
+
 <div class="content" markdown="1">
 ## Jueves, 27 de julio de 2017
 </div>
@@ -161,6 +168,13 @@ Sandro Sánchez, profesor de la Escuela de Negocios CENTRUM Católica Business S
 
 <div class="content" markdown="1">
 Clásico de Lima: cuando se camina por las calles, los taxistas constantemente pegan pitazos para atraer a potenciales clientes. Es algo a lo que hay que acostumbrarse.
+</div>
+
+<div class="media-wrapper">
+	<div class="video">
+		<iframe src="https://tube.switch.ch/embed/2d26ad5f"  allowfullscreen></iframe>
+	</div>
+	<p>Entrevista con Patricia Vizcarra</p>
 </div>
 
 <div class="content" markdown="1">

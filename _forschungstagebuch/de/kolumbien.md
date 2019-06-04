@@ -58,6 +58,13 @@ Carlos Lozano von Corresponsables hebt hervor, dass kein Superheld, wie Batman o
 Um einen Verkehrsinfarkt zu verhindern, gilt seit 1998 in Bogotá das System [«pico y placa»](http://www.eltiempo.com/pico-y-placa/). Zu den Hauptverkehrszeiten («pico») zwischen 6 und 8 Uhr sowie zwischen 15 und 19:30 Uhr dürfen im Stadtgebiet Autos mit bestimmten Endziffern des Nummernschilds («placa») nicht fahren. Jeden Tag sind andere Endziffern betroffen. Bei Zuwiderhandeln drohen drastische Bußgelder.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/88be16e4"  allowfullscreen></iframe>
+    </div>
+	<p>Interview mit Daniela Patiño</p>
+</div>
+
 <div class="content" markdown="1">
 ## Donnerstag, 17. August 2017
 </div>

@@ -266,8 +266,16 @@ O taco al pastor é um tipo de taco muito popular no México. Quem o inventou? O
 
 <div class="content" markdown="1">
 Lorena Cortes, da [CEMEFI](https://www.cemefi.org/), comenta que no México é bem visto passar a maior quantidade de tempo possível no trabalho. Por isso é um dos países onde se trabalham mais horas, mas a produtividade é uma das menores. Para isso, existe uma expressão especial: “hacer horas nalgas”, ou seja, passar horas sem fazer nada.
+</div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/fa7977e9"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista com Lorena Cortes</p>
+</div>
 
+<div class="content" markdown="1">
 No México ser rico muitas vezes é sinônimo de “ser bandido”. Pensa-se que para enriquecer é preciso cometer atos ilegais. Ser pobre significa que a pessoa não quer estudar ou trabalhar e que é preguiçosa.
 
 No México a desigualdade é um problema maior que a pobreza. Particularmente, é dramática a desigualdade perante a lei e no acesso à justiça. “El que no tiene dinero no tiene a quien le defienda” (“Quem não tem dinheiro, não tem quem o defenda”).

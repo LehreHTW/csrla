@@ -58,6 +58,13 @@ Carlos Lozano, da Corresponsables comenta que não vai aparecer um super-herói,
 Para evitar um congestionamento do trânsito, desde 1998 em Bogotá existe o sistema [pico y placa](http://www.eltiempo.com/pico-y-placa/). Na hora do rush (pico) entre as 6 e as 8 horas e entre as 15 e 19:30 horas, proíbe-se a circulação na área urbana dos veículos com determinados dígitos finais na placa (placa). Os dígitos mudam a cada dia. As multas são severas.
 </div>
 
+<div class="media-wrapper">
+    <div class="video">
+        <iframe src="https://tube.switch.ch/embed/88be16e4"  allowfullscreen></iframe>
+    </div>
+	<p>Entrevista com Daniela Patiño</p>
+</div>
+
 <div class="content" markdown="1">
 ## Quinta-feira, 17 de agosto de 2017
 </div>
