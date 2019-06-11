@@ -92,7 +92,9 @@ O índice de percepção da corrupção (CPI) da Transparency International (201
 </div>
 
 <div class="content" markdown="1">
-Há coleta de lixo urbano para 75% da população (2012) e 15% dos resíduos é reciclado (2011). Em 2015, 89,9% da população peruana tinha acesso ao abastecimento básico de água potável (2015), sendo que se pode observar uma desigualdade marcada entre as zonas urbanas e rurais (urbano 94,6%; rural 72,4%). Destaca-se que só a metade da população (50,2%) é abastecida por fontes de água potável seguras. Segundo os últimos dados publicados, 81% da população está conectada à rede de esgoto (2009). A emissão de CO2 per capita peruana alcançou 2 toneladas, abaixo da média mundial de 5 toneladas e da média regional na América Latina de 3,1 toneladas. Nas próximas seções descrevem-se por meio de exemplos os desafios que as empresas no Peru enfrentam nas áreas de direitos humanos/condições trabalhistas, meio ambiente e corrupção. Além disso, mostra-se com exemplos como as empresas implementam concretamente sua gestão responsável.
+Há coleta de lixo urbano para 75% da população (2012) e 15% dos resíduos é reciclado (2011). Em 2015, 89,9% da população peruana tinha acesso ao abastecimento básico de água potável (2015), sendo que se pode observar uma desigualdade marcada entre as zonas urbanas e rurais (urbano 94,6%; rural 72,4%). Destaca-se que só a metade da população (50,2%) é abastecida por fontes de água potável seguras. Segundo os últimos dados publicados, 81% da população está conectada à rede de esgoto (2009).
+
+A emissão de CO2 per capita peruana alcançou 2 toneladas, abaixo da média mundial de 5 toneladas e da média regional na América Latina de 3,1 toneladas.
 </div>
 
 <div class="media-wrapper country-videos">
@@ -109,3 +111,8 @@ Há coleta de lixo urbano para 75% da população (2012) e 15% dos resíduos é 
 		<p>Entrevista com Roxana Cornejo</p>
 	</div>
 </div>
+
+<div class="content" markdown="1">
+Nas próximas seções descrevem-se por meio de exemplos os desafios que as empresas no Peru enfrentam nas áreas de direitos humanos/condições trabalhistas, meio ambiente e corrupção. Além disso, mostra-se com exemplos como as empresas implementam concretamente sua gestão responsável.
+</div>
+

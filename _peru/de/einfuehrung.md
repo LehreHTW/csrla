@@ -95,8 +95,8 @@ Laut Human Rights Watch (2017) wurden bei Protesten gegen Bergbauprojekte und gr
 
 <div class="content" markdown="1">
 Bei 75% der peruanischen Bevölkerung werden die Siedlungsabfälle eingesammelt (2001) und 15% der Abfälle werden recycelt (2001). Im Jahr 2015 hatten 89,9% der Einwohner Perus Zugang zu grundlegenden Trinkwasserdienstleistungen, wobei eine deutliche Kluft zwischen Stadt (94,6%) und Land (72,4%) bestand. Ferner ist festzustellen, dass lediglich die Hälfte der Bevölkerung aus Trinkwasserquellen versorgt wurde, die als sicher eingestuft sind (50,2%). Gemäß der letzten vorliegenden Zahlen sind 81% der Bevölkerung an das Abwassersammelsystem angeschlossen (2009).
+
 Mit einem Pro-Kopf-Ausstoß von 2,0 Tonnen liegen die peruanischen CO2-Emissionen sowohl unter dem weitweiten Niveau von durchschnittlich 5 Tonnen als auch unter dem regionalen Durchschnitt für Lateinamerika von 3,1 Tonnen pro Kopf.
-Mit welchen Herausforderungen sich Unternehmen in Peru in den Bereichen Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption konfrontiert sehen, wird in den folgenden Abschnitten anhand von Beispielen beschrieben. Darüber hinaus wird exemplarisch aufgezeigt, wie Unternehmen ihre verantwortungsvolle Unternehmensführung konkret ausgestalten.
 </div>
 
 <div class="media-wrapper country-videos">
@@ -113,3 +113,8 @@ Mit welchen Herausforderungen sich Unternehmen in Peru in den Bereichen Menschen
 		<p>Interview mit Roxana Cornejo</p>
 	</div>
 </div>
+
+<div class="content" markdown="1">
+Mit welchen Herausforderungen sich Unternehmen in Peru in den Bereichen Menschenrechte/Arbeitsbedingungen, Umwelt und Korruption konfrontiert sehen, wird in den folgenden Abschnitten anhand von Beispielen beschrieben. Darüber hinaus wird exemplarisch aufgezeigt, wie Unternehmen ihre verantwortungsvolle Unternehmensführung konkret ausgestalten.
+</div>
+

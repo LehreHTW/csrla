@@ -172,9 +172,16 @@ footer{
     background: black;
     color: $whiteish;
     font-size: .8em;
+	
+	padding: 1.4rem 0 0 0;
 
     p{
         text-align: center;
+		
+		img {
+			max-height: 30px;
+			margin: 0 10px;
+		}
     }
 }
 
